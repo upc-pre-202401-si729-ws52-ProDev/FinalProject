@@ -34,7 +34,6 @@ URL del repositorio del proyecto:
 
 |                       Integrante                       |                      Tareas Asignadas                       |
 |:------------------------------------------------------:|:-----------------------------------------------------------:|
-|                            |                  Desarrollo de la carátula                  |
 |            Quispe Condori, Fernando Daniel             | Elaboración Preguntas de Entrevitas - Artefactos Capítulo 2 |
 |                                                        |                                                             |
 
