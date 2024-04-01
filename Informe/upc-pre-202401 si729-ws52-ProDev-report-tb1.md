@@ -34,7 +34,7 @@ URL del repositorio del proyecto:
 
 |                       Integrante                       |                      Tareas Asignadas                       |
 |:------------------------------------------------------:|:-----------------------------------------------------------:|
-|               Guillen Luna, Paolo César                |                  Desarrollo de la carátula                  |
+|                            |                  Desarrollo de la carátula                  |
 |            Quispe Condori, Fernando Daniel             | Elaboración Preguntas de Entrevitas - Artefactos Capítulo 2 |
 |                                                        |                                                             |
 
