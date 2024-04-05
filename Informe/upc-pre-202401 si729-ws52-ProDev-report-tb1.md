@@ -140,6 +140,7 @@ En esta sección se presenta la descripción del startup y los perfiles de los m
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ||
 
 <div id='1.2.'><h3> 1.2. Solution Profile</h3></div>
+EcoMarket ofrece una óptima solución con el objetivo de lograr reducir el desperdicio de alimentos y permitir el ingreso adicional a aquellas empresas que ya contaban con los egresos que generarían el desperdicio de sus productos. Nuestros clientes podrán acumular puntos por cada compra exitosa realizada, los cuales les permitirán obtener descuentos en futuras ventas. Las empresas tendrán opciones como la publicación de sus productos y un registro de ventas para cada uno de ellos. EcoMarket obtendrá ganancias a través de una comisión por cada venta exitosa realizada. Por estos motivos se propone a EcoMarket como solución para reducir el desperdicio innecesario de alimentos y con ello realizar un negocio sostenible mediante la venta de estos.
 <div id='1.2.1.'><h4> 1.2.1. Antecedentes y Problemática</h4></div>
 
 ##### What (Qué)
@@ -257,10 +258,34 @@ El Lean UX Canvas es una herramienta que se utiliza en el campo del diseño cent
 [//]: #CAPITULO2
 <div id='2.'><h2> Capítulo II: Requirements Elicitation & Analysis</h2></div>
 
-  <div id='2.1.'><h3> 2.1. Competidores</h3></div>
+<div id='2.1.'><h3> 2.1. Competidores</h3>
+Tras nuestra idea de solución, nos podemos enfrentar a soluciones ya existentes en el mercado con el mismo propósito y/o algunas características similares. Por ello, es importante conocer a nuestros competidores y analizar sus estrategias y tácticas.
 
-  <div id='2.1.1.'><h4> 2.1.1. Análisis competitivo</h4></div>
+Teniendo cómo principales competidores a:
+
+- Sugo
+- Save Up
+- Good After
+<div id='2.1.1.'><h4> 2.1.1. Análisis competitivo</h4></div>
+En esta sección detallaremos en el siguiente cuadro a continuación detalles entre nuestros 3 competidores.
+
+
+
+Imagen: Cuadro de Analisis entre competidores principales.
+
   <div id='2.1.2.'><h4> 2.1.2. Estrategias y tácticas frente a competidores</h4></div>
+Teniendo en cuenta el análisis anterior de nuestros competidores podemos definir las siguientes estrategias para poder sobresalir sobre ellos.
+
+- <b>Identificar las debilidades de la competencia y ser los mejores:</b> Esta estretegia será muy útil para marcar sobre todo nuestro valor agregado, 
+cómo es el caso de mejores descuentos y/o alianzas con distintas compañias. Incrementando por ejemplo la relación con donaciones.
+- <b>Publicidad y Marketing:</b> Incrementaremos en nuestra fase inicial esta característica para poder llegar a más personas y así poder tener un mayor alcance. Alianzas con otras compañías
+y promociones diferenciadas para cada sector de nuestro público objetivo.
+- <b>Mejor análisis de mercado:</b>Nuestros competidores se han enfocado en un solo sector de la población, nosotros nos enfocaremos en la diversidad de la población, ofreciendo diversos productos
+ya que contaremos con muchas alianzas que nos ayudarán a tener un mayor alcance.
+- <b>Diversidad en nuestras plataformas: </b> Estaremos activos en distintas redes sociales y nuestra plataforma web será excelente ya que brindará características
+que los usuarios necesitan y un funcionamiento providencial.
+
+</div>
 
   <div id='2.2.'><h3> 2.2. Entrevistas</h3></div>
 
@@ -269,7 +294,31 @@ El Lean UX Canvas es una herramienta que se utiliza en el campo del diseño cent
   requisitos que son las entrevistas. Para la formulación se siguieron buenas prácicas tales como 
   formulación de preguntas abiertas, así mismo obtenemos características demográficas con las entrevistas</p>  
 
-  <
+  A continuacion se presentan las preguntas para el sector de Clientes
+
+1. ¿Nos podrías brindar por favor tu nombre, edad, ocupación, nivel de ducación y nivel aproximado de ingresos?
+2. ¿Dónde resides actualmente?
+3. ¿Cuál es tu principal motivo para comprar productos en línea?
+4. ¿Qué tipo de productos sueles comprar en línea?
+5. ¿Has sido afectado por la crisis económica, perdiendo tu capacidad de adquisición?
+6. ¿Qué tan importante es para ti la calidad de los productos que compras?
+7. ¿Buscas productos de calidad o buscas productos a precios bajos?
+8. ¿Crees que una plataforma web de compra de productos a punto de vencer y/o defectos te serían útil?
+9. ¿Qué tan importante es para ti la fecha de vencimiento de los productos que compras?
+
+A continuacion se presentan las preguntas para el sector de Empresas
+
+1. ¿Nos podrías brindar por favor tu nombre, edad, ocupación, nivel de ducación y su empresa y/o tienda?
+2. ¿Dónde resides actualmente?
+3. ¿Cuál es tu principal motivo para vender productos?
+4. ¿Qué tipo de productos sueles vender en línea y presencialmente?
+5. ¿Has sido afectado por la crisis económica, perdiendo ventas?
+6. ¿Que quejas obtiene con frecuencia de sus cliente?
+7. ¿Alguna vez compró un producto y la venta no fue la esperada?
+8. Si es así, ¿Qué hizo con el producto?
+9. ¿Que le parece la idea de vender productos a punto de vencer y/o defectos a un precio más bajo a través de nuestra plataforma? 
+10. En algunos casos, ¿Le llamaría la atención la contribución de ciertos para donaciones?
+
 
   <div id='2.2.2.'><h4> 2.2.2. Registro de entrevistas</h4></div>
   <div id='2.2.3.'><h4> 2.2.3. Análisis de entrevistas</h4></div>
@@ -277,6 +326,15 @@ El Lean UX Canvas es una herramienta que se utiliza en el campo del diseño cent
   <div id='2.3.'><h3> 2.3. Needfinding</h3></div>
 
   <div id='2.4.'><h3> 2.4. Ubiquituos Language</h3></div>
+
+En esta sección se presentará el lenguaje ubicuo que se utilizará en el desarrollo de nuestro producto.
+
+Cliente: Persona que adquiere productos a través de nuestra plataforma.
+
+Empresa: Persona que vende productos a través de nuestra plataforma.
+
+
+
 
 [//]: #CAPITULO3
 
