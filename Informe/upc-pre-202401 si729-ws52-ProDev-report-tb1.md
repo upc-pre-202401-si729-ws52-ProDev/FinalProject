@@ -1,6 +1,6 @@
 <h1 style="text-align: center;"> Informe del TB1  </h1>
 <h2 style="text-align: center;"> Universidad Peruana de Ciencias Aplicadas </h2>
-<img src="" style="display: block; width: 50%"/>
+<img src="./imagenes/To-Be 2.jpg" width="500" height="500">
 
 <h4 style="text-align: center;"> Ingeniería de Software </h4>
 <h4 style="text-align: center;">Desarrollo de Aplicaciones Open Source</h4>
@@ -36,7 +36,7 @@ URL del repositorio del proyecto:
 |                       Integrante                       |                      Tareas Asignadas                       |
 |:------------------------------------------------------:|:-----------------------------------------------------------:|
 |            Quispe Condori, Fernando Daniel             | Elaboración Preguntas de Entrevitas - Artefactos Capítulo 2 |
-|                                                        |                                                             |
+|            Cortes Hidalgo, Nicolas Andres              | Elaboracion de los Emphaty maps, As-Is y To-Be Scenario Mapping, Ubiquitous Langiage, User Stories, Impact Mapping y Product Backlog                                                            |
 
 
 ***TB1 Github***
@@ -135,7 +135,8 @@ En esta sección se presenta la descripción del startup y los perfiles de los m
 |                                                                                                                                                                                                          Descripción de los perfiles de los integrantes del equipo                                                                                                                                                                                                          |Foto del integrante|
 |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:| :--------: |
 |                                                                                                                Mi nombre es Fernando Quispe, soy una persona proactiva que puede aportar y liderar la colaboración en equipo con el objetivo de un logro común. Me gusta el desarrollo de software y poder contribuir a la sociedad con lo que me apasiona.                                                                                                                 ||
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ||
+|                                                                                                                 Mi nombre es Nicolas Cortes, tengo 21 años y estudio la carrera de Ingenieria de Software en la Universidad Peruana de Ciencias Aplicadas. Soy una persona responsable y proactiva que siempre busca ayudar en todo lo posible a su grupo para lograr terminar cualquier tipo de trabajo o actividad de la forma mas rapida y presentable posible. Mi meta al terminar este curso es lograr entender todos los conceptos nuevos que sean necesarios para posteriormente aplicarlos mas adelante en mi carrera y en el mundo laboral.                                                                                                                                                                                        
+     ||
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ||
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ||
 
