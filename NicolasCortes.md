@@ -239,4 +239,20 @@
 <img src="./imagenes/Impact map 2.png" width="500" height="500">
 <p><strong>Vendedor</strong></p>
 <img src="./imagenes/Impact map 1.png" width="500" height="500">
+
 <h3>3.4 Product Backlog</h3>
+<table>
+  <tr><th>User Story</th> <th>Titulo</th> <th>Descripcion</th> <th>Story Points</th></tr>
+  <tr><th colspan = "5">Segemento Cliente</th></tr>
+  <tr><th>US001</th> <td>Añadir un producto al carrito</td> <td>Como usuario, quiero poder agregar un producto a mi carrito de compras para luego revisar cual es el subtotal de los productos seleccionados.</td> <th>8</th></tr>
+  <tr><th>US002</th> <td>Mostrar carrito de compras con resumen de orden y botón de pago</td> <td>Como usuario, deseo poder ver un resumen de mi compra en el carrito y tener un botón en el cual puedo seleccionar mis métodos de pago y realizarlo</td> <th>8</th></tr>
+  <tr><th>US003</th> <td>Mostrar productos al realizar el inicio de sesión</td> <td>Como usuario, deseo que, al abrir la aplicación EcoMarket y realizar el inicio de mi sesion, se me muestre una selección de productos para explorar de manera rápida y conveniente</td> <th>5</th></tr>
+  <tr><th>US004</th> <td>Mostrar una barra de navegación lateral con varias opciones</td> <td>Como usuario, quiero que la aplicación muestre una barra de navegación lateral en el lado izquierdo con diversas opciones fundamentales de la aplicación</td> <th>5</th></tr>
+  <tr><th>US005</th> <td>Ingreso en la aplicación EcoMarket</td> <td>Como usuario, quiero poder ingresar mi cuenta en la aplicación EcoMarket, utilizando mi correo electronico mi contraseña para acceder a todas las funcionalidades que la aplicación ofrece</td> <th>5</th></tr>
+  <tr><th colspan = "5">Segemento Vendedor</th></tr>
+  <tr><th>US006</th> <td>Añadir un nuevo producto</td> <td>Como vendedor, deseo poder añadir un producto a la aplicación EcoMarket, para así poder exhibir los productos que tengo para ofrecer a los demás usuarios</td> <th>8</th></tr>
+  <tr><th>US007</th> <td>Mostrar mis productos al iniciar sesión</td> <td>Como vendedor, quiero que, al iniciar sesion en la aplicación EcoMarket, se me muestre la lista de los productos que tengo exhibidos en mi cuenta, para así poder gestionarlos de manera eficiente</td> <th>5</th></tr>
+  <tr><th>US008</th> <td>er perfil como vendedor</td> <td>Como vendedor, quiero tener acceso a mi perfil en mi cuenta en EcoMarket, para así poder editar mi perfil así como tener un reporte de todas las ventas que hice y poder gestionar todos los productos que tengo a la venta</td> <th>3</th></tr>
+  <tr><th>US009</th> <td>Editar perfil como vendedor</td> <td>Como vendedor, necesito actualizar y mantener precisa mi información de perfil, incluyendo datos de contacto y descripción de la empresa, para asegurarme que los clientes siempre reciban información relevante y actualizada.</td> <th>3</th></tr>
+  <tr><th>US010</th> <td>Registro de vendedor</td> <td>Como nuevo vendedor, deseo crear una cuenta en la aplicación EcoMarket proporcionando la información necesaria, incluyendo correo electrónico, nombre de empresa, RUC, dirección, teléfono y contraseña, para acceder a los servicios de la aplicación como vendedor.</td> <th>2</th></tr>
+</table>
