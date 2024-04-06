@@ -152,10 +152,8 @@ EcoMarket ofrece una óptima solución con el objetivo de lograr reducir el desp
 <p>Este problema inicia desde hace ya muchos años, debido al desconocimiento de soluciones para lograr la venta de productos con su fecha de vencimiento próxima.</p>
 
 ##### Where (Dónde)
-<p>El problema se puede encontrar en empresas y bodegas las cuales se dedican al rubro de ventas de productos alimenticios.</p>
-
 ###### ¿Dónde surge el problema?
-
+<p>El problema se puede encontrar en empresas y bodegas las cuales se dedican al rubro de ventas de productos alimenticios.</p>
 
 ##### Who (Quién)
 <p>Familias peruanas que se encuentran en la pobreza y pobreza extrema y, por el lado empresarial, aquellas empresas que no encuentran soluciones para evitar la pérdida generada por el desperdicio de estos productos.</p>
@@ -169,18 +167,11 @@ EcoMarket ofrece una óptima solución con el objetivo de lograr reducir el desp
 ###### ¿Cómo se utilizará el producto?
 <p>El problema surge en el momento en el que las bodegas o supermercados no logran vender sus productos y estos ya se encuentran próximos a vencer.</p>
 
-
-###### ¿Cómo se logrará una gestión adecuada de los cultivos dentro de la plataforma?
-
-
 ##### How much (Cuánto)
 ###### ¿Cuál es la magnitud del problema?
-
-
-
-###### ¿Qué porcentaje de la industria agrícola se vería beneficiada por nuestro producto?
-
-
+Para los comerciantes que no pueden vender sus productos existe una gran perdida, evidenciandose en que los compradores
+esperan las rebajas para comprar dichos productos. Tal es el caso de 63,5 % de consumidores espera las rebajas para 
+comprar según SaleCycle.
 
 <div id='1.2.2.'><h4> 1.2.2. Lean UX Process</h4></div>
 <div id='1.2.2.1.'><h5> 1.2.2.1. Lean UX Problem Statements</h5></div>
