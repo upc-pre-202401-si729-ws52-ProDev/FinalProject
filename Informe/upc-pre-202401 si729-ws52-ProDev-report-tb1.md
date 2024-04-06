@@ -1,6 +1,6 @@
 <h1 style="text-align: center;"> Informe del TB1  </h1>
 <h2 style="text-align: center;"> Universidad Peruana de Ciencias Aplicadas </h2>
-<img src="./imagenes/upc-logo.png" width="250" height="250">
+<img src="./imagenes/upcLogo.png" width="250" height="250">
 
 <h4 style="text-align: center;"> Ingeniería de Software </h4>
 <h4 style="text-align: center;">Desarrollo de Aplicaciones Open Source</h4>
@@ -135,7 +135,7 @@ Ecomarket, es una startup la cual se enfoca en vender productos de calidad a pre
 |                                                                                                                                                                                                          Descripción de los perfiles de los integrantes del equipo                                                                                                                                                                                                          |Foto del integrante|
 |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:| :--------: |
 |                                                                                                                Mi nombre es Fernando Quispe, soy una persona proactiva que puede aportar y liderar la colaboración en equipo con el objetivo de un logro común. Me gusta el desarrollo de software y poder contribuir a la sociedad con lo que me apasiona.                                                                                                                 ||
-|                                                                                                                 Mi nombre es Nicolas Cortes, tengo 21 años y estudio la carrera de Ingenieria de Software en la Universidad Peruana de Ciencias Aplicadas. Soy una persona responsable y proactiva que siempre busca ayudar en todo lo posible a su grupo para lograr terminar cualquier tipo de trabajo o actividad de la forma mas rapida y presentable posible. Mi meta al terminar este curso es lograr entender todos los conceptos nuevos que sean necesarios para posteriormente aplicarlos mas adelante en mi carrera y en el mundo laboral.     | <img src="./imagenes/Nicolas Cortes Hidalgo.jpeg" width="150" height="150">
+|                                                                                                                 Mi nombre es Nicolas Cortes, tengo 21 años y estudio la carrera de Ingenieria de Software en la Universidad Peruana de Ciencias Aplicadas. Soy una persona responsable y proactiva que siempre busca ayudar en todo lo posible a su grupo para lograr terminar cualquier tipo de trabajo o actividad de la forma mas rapida y presentable posible. Mi meta al terminar este curso es lograr entender todos los conceptos nuevos que sean necesarios para posteriormente aplicarlos mas adelante en mi carrera y en el mundo laboral.     | <img height="150" src="./imagenes/NicolasCortesHidalgo.jpeg" width="150"/>
      ||
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ||
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ||
@@ -356,24 +356,24 @@ Se presenta para el segmento de empresarios:
   <h4>2.3.3 User Journey Mapping</h4>
   <h4>2.3.4 Empathy Mapping</h3>
 <p><strong>Cliente</strong></p>
-<img src="./imagenes/Empathy map cliente.png" width="500" height="500">
+<img src="./imagenes/EmpathyMapCliente.png" width="500" height="500">
 <p><strong>Vendedor</strong></p>
-<img src="./imagenes/Empathy map vendedor.png" width="500" height="500">
+<img src="./imagenes/EmpathyMapVendedor.png" width="500" height="500">
 
 <h4>2.3.5 As-Is Scenario Mapping</h3>
 <p>Nicolas desea adquirir productos alimenticios para su consumo semanal.</p>
-<img src="./imagenes/As-Is 1.jpg" width="500" height="500">
+<img src="./imagenes/AsIs1.jpg" width="500" height="500">
 <p>Sofia desea vender sus productos cuya fecha de caducidad está por llegar.</p>
-<img src="./imagenes/As-Is 2.jpg" width="500" height="500">
+<img src="./imagenes/AsIs2.jpg" width="500" height="500">
 
 <h3>2.4 Ubiquitious language</h3>
 
 <h2>Capitulo III: Requirements Specification</h2>
 <h3>3.1 To-Be Scenario Mapping</h3>
 <p>Nicolas desea adquirir productos alimenticios para su consumo semanal.</p>
-<img src="./imagenes/To-Be 1.jpg" width="500" height="500">
+<img src="./imagenes/ToBe1.jpg" width="500" height="500">
 <p>Sofia desea vender sus productos cuya fecha de caducidad está por llegar.</p>
-<img src="./imagenes/To-Be 2.jpg" width="500" height="500">
+<img src="./imagenes/ToBe2.jpg" width="500" height="500">
 
 <h3>3.2 User Stories</h3>
 <table>
