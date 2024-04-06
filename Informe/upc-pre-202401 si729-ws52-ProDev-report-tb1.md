@@ -15,7 +15,7 @@
 |:-------------------------------:|:----------------:|
 |      |      |
 | Quispe Condori, Fernando Daniel |    U20221C628    |
-|                                 |                  |
+| Cortes Hidalgo, Nicolas Andres  |    U202016311    |
 |                                 |                  |
 |                                 |                  |
 
