@@ -8,7 +8,7 @@
 <h4 style="text-align: center;"> WS52</h4>
 <h4 style="text-align: center;"> Docente: Elio Jefferson Navarrete Vilca </h4>
 <h4 style="text-align: center;"> Startup:  ProDev</h4>
-<h4 style="text-align: center;"> Producto:  </h4>
+<h4 style="text-align: center;"> Producto: EcoMarket</h4>
 
 ## Team Members
 |             Nombre              | Código de alumno |
