@@ -320,7 +320,39 @@ A continuacion se presentan las preguntas para el sector de Empresas
 
   <div id='2.3.'><h3> 2.3. Needfinding</h3></div>
   <h4>2.3.1 User Persona</h4>
+  A continuación se presentan las User Personas para nuestro producto. En base a nuestros dos segmentos objetivos bien definidos.
+
+   - Segmento Clientes: Personas que adquieren productos a través de nuestra plataforma.
+   - Segmento Empresas: Personas que venden productos a través de nuestra plataforma.
+
+   User Persona de Cliente: URL(Click aquí para ver la User Persona de Cliente)
+
+   User Persona de Empresa: URL(Click aquí para ver la User Persona de Empresa)
   <h4>2.3.2 User Task Matrix</h4>
+  A continuación se presenta el User Task Matrix con las tareas de los usuarios y la importancia y frecuencia para cada usuario.
+
+   Se presenta para el segmento de clientes:
+
+| Tareas de los usuarios                | Importancia | Frecuencia |
+|---------------------------------------|-------------|------------|
+| Buscar los productos que va a comprar | Alta        | Alta       |
+| Buscar las mejores ofertas            | Alta        | Alta       |
+| Realizar el pago de los productos     | Baja        | Media      |
+| Verificar la calidad de los productos | Baja        | Media      |
+| Verificar la fecha de vencimiento     | Media       | Media      |
+| Verificar la reputación de la empresa | Media        | Media       |
+
+Se presenta para el segmento de empresarios:
+
+| Tareas de los usuarios                             | Importancia | Frecuencia |
+|----------------------------------------------------|-------------|------------|
+| Publicar los productos que va a vender             | Alta        | Alta       |
+| Verificar las ventas realizadas                    | Alta        | Alta       |
+| Decidir productos que va a comprar                 | Alta        | Alta       |
+| Seleccionar productos que defectuosos              | Media       | Alta       |
+| Seleccionar productos que están próximos a caducar | Media       | Alta       |
+| Realizar donaciones                                | Baja        | Baja       |
+
   <h4>2.3.3 User Journey Mapping</h4>
   <h4>2.3.4 Empathy Mapping</h3>
 <p><strong>Cliente</strong></p>
