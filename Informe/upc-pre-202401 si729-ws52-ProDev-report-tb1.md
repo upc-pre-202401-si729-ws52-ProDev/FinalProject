@@ -144,27 +144,30 @@ Ecomarket, es una startup la cual se enfoca en vender productos de calidad a pre
 EcoMarket ofrece una óptima solución con el objetivo de lograr reducir el desperdicio de alimentos y permitir el ingreso adicional a aquellas empresas que ya contaban con los egresos que generarían el desperdicio de sus productos. Nuestros clientes podrán acumular puntos por cada compra exitosa realizada, los cuales les permitirán obtener descuentos en futuras ventas. Las empresas tendrán opciones como la publicación de sus productos y un registro de ventas para cada uno de ellos. EcoMarket obtendrá ganancias a través de una comisión por cada venta exitosa realizada. Por estos motivos se propone a EcoMarket como solución para reducir el desperdicio innecesario de alimentos y con ello realizar un negocio sostenible mediante la venta de estos.
 <div id='1.2.1.'><h4> 1.2.1. Antecedentes y Problemática</h4></div>
 
+
 ##### What (Qué)
-###### ¿Cuál es el problema?
+<p>La falta de acceso a productos vitales por parte de las familias peruanas en estado de pobreza y la preocupación por reducir el desperdicio de alimentos tanto por parte de empresas, como de los vendedores.</p>
 
 ##### When (Cuando)
-###### ¿Cuándo sucede el problema?
+<p>Este problema inicia desde hace ya muchos años, debido al desconocimiento de soluciones para lograr la venta de productos con su fecha de vencimiento próxima.</p>
 
 ##### Where (Dónde)
-###### ¿A dónde se dirige?
+<p>El problema se puede encontrar en empresas y bodegas las cuales se dedican al rubro de ventas de productos alimenticios.</p>
 
 ###### ¿Dónde surge el problema?
 
+
 ##### Who (Quién)
-###### ¿Quiénes están involucrados? ¿Quién lo utilizará?
+<p>Familias peruanas que se encuentran en la pobreza y pobreza extrema y, por el lado empresarial, aquellas empresas que no encuentran soluciones para evitar la pérdida generada por el desperdicio de estos productos.</p>
 
 ##### Why (Por qué)
-###### ¿Cuál es la causa del problema?
+<p>Porque en la actualidad la falta de accesibilidad debido a los precios excesivos en los productos va en crecimiento. Por el lado empresarial, el desconocimiento de soluciones para evitar las pérdidas económicas debido al desperdicio de estos alimentos.</p>
 
 
 #### 2H
 ##### How (Cómo)
 ###### ¿Cómo se utilizará el producto?
+<p>El problema surge en el momento en el que las bodegas o supermercados no logran vender sus productos y estos ya se encuentran próximos a vencer.</p>
 
 
 ###### ¿Cómo se logrará una gestión adecuada de los cultivos dentro de la plataforma?
