@@ -115,15 +115,15 @@ URL del repositorio del proyecto:
 <div id='1.'><h2>Capítulo I: Introducción</h2></div>
 <div id='1.1.'><h3> 1.1 Startup Profile</h3></div>
 En esta sección se presenta la descripción del startup y los perfiles de los miembros del equipo.
+En el Perú, se estima que se desperdician aproximadamente 13 millones de toneladas en alimentos anualmente. Se estima que el 28% de las pérdidas ocurren en la etapa del procesamiento de los alimentos y el 25% en la etapa agrícola.
+Se ha podido observar que muchas empresas dedicadas a la industria alimentaria suelen vender sus productos a precios cómodos cuando están cerca de su fecha de vencimiento al pie de las puertas de su fábrica. Este es un ejemplo claro de aquellos productos almacenados hasta caducar y, en reiteradas ocasiones, debido a la desinformación, no se llegan a tomar los cuidados debidos, lo que genera pérdidas millonarias a las empresas.
 
 <div id='1.1.1.'><h4> 1.1.1. Descripción del startup</h4></div>
+Ecomarket, es una startup la cual se enfoca en vender productos de calidad a precios altamente accesibles. Nuestra empresa nace debido a la gran preocupación por el desperdicio de alimentos a nivel nacional. Hemos buscado abordar dicho problema desarrollando una aplicación la cual permite a nuestros clientes la compra de productos de supermercados o negocios a precios altamente accesibles, esto tomando en cuenta que los productos están cerca a su fecha de vencimiento y de tal manera evitando el desperdicio de estos alimentos. El desarrollo de nuestra aplicación contará con una atractiva e intuitiva interfaz, como a la vez contará con un catálogo variado de centros comerciales y empresas, asegurándonos de que el cliente cuente con la mayor diversidad de productos posible.
 
-//Descripcion
+**Misión:** Poder ofrecer un servicio de excelente calidad a nuestros clientes y a la vez mantener la alta calidad en nuestros productos. 
 
-
-**Misión:** 
-
-**Visión:** 
+**Visión:** Ser líderes a nivel nacional en la venta y distribución de productos con precios accesibles y a la vez con gran calidad, buscando lograr más de 10,000 de ventas al mes.
 
 ##### Logotipo de la Startup:
 
