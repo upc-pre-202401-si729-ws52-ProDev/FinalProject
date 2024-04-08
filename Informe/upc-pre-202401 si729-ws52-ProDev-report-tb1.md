@@ -105,6 +105,18 @@ URL del repositorio del proyecto:
    4.8. [***Database Design***](#4.8.)<br>
    4.8.1. [Database Diagram](#4.8.1.)<br>
 5. [**Capítulo V: Product Implementation, Validation & Deployment**](#5.)<br>
+   [**Conclusiones**](#Conclusiones)<br>
+    - [**Conclusiones y recomendaciones**](#ConclusionesYrecomendaciones)
+
+   [**Bibliografía**](#Bibliografia)<br>
+   [**Anexos**](#Anexos)<br>
+
+
+
+
+
+
+
 
 ## Student Outcome
 El curso contribuye al cumplimiento del Student Outcome ABET:
@@ -123,21 +135,23 @@ del ABET – EAC - Student Outcome 3
 
 <div id='1.'><h2>Capítulo I: Introducción</h2></div>
 <div id='1.1.'><h3> 1.1 Startup Profile</h3></div>
-En esta sección se presenta la descripción del startup y los perfiles de los miembros del equipo.
+En esta sección se presenta la descripción de nuestra startup "Pro Dev" y los perfiles de los miembros del equipo.
 En el Perú, se estima que se desperdician aproximadamente 13 millones de toneladas en alimentos anualmente. Se estima que el 28% de las pérdidas ocurren en la etapa del procesamiento de los alimentos y el 25% en la etapa agrícola.
-Se ha podido observar que muchas empresas dedicadas a la industria alimentaria suelen vender sus productos a precios cómodos cuando están cerca de su fecha de vencimiento al pie de las puertas de su fábrica. Este es un ejemplo claro de aquellos productos almacenados hasta caducar y, en reiteradas ocasiones, debido a la desinformación, no se llegan a tomar los cuidados debidos, lo que genera pérdidas millonarias a las empresas.
+Se ha podido observar que muchas empresas dedicadas a la industria alimentaria suelen vender sus productos a precios cómodos cuando están cerca de su fecha de vencimiento al pie de las puertas de su fábrica. Este es un ejemplo claro de aquellos productos almacenados hasta caducar y, en reiteradas ocasiones, debido a la desinformación, no se llegan a tomar los cuidados debidos, lo que genera pérdidas millonarias a las empresas. Esta problemática nos motiva a formar esta startup y a desarrollar una aplicación que permita a las empresas vender sus productos a precios accesibles y a los clientes adquirir productos de calidad a precios bajos.
 
 <div id='1.1.1.'><h4> 1.1.1. Descripción del startup</h4></div>
-Ecomarket, es una startup la cual se enfoca en vender productos de calidad a precios altamente accesibles. Nuestra empresa nace debido a la gran preocupación por el desperdicio de alimentos a nivel nacional. Hemos buscado abordar dicho problema desarrollando una aplicación la cual permite a nuestros clientes la compra de productos de supermercados o negocios a precios altamente accesibles, esto tomando en cuenta que los productos están cerca a su fecha de vencimiento y de tal manera evitando el desperdicio de estos alimentos. El desarrollo de nuestra aplicación contará con una atractiva e intuitiva interfaz, como a la vez contará con un catálogo variado de centros comerciales y empresas, asegurándonos de que el cliente cuente con la mayor diversidad de productos posible.
+ProDev, es una startup la cual se enfoca en vender productos de calidad a precios altamente accesibles. Nuestra empresa nace debido a la gran preocupación por el desperdicio de alimentos a nivel nacional. Hemos buscado abordar dicho problema desarrollando una aplicación la cual permite a nuestros clientes la compra de productos de supermercados o negocios a precios altamente accesibles, esto tomando en cuenta que los productos están cerca a su fecha de vencimiento y de tal manera evitando el desperdicio de estos alimentos. El desarrollo de nuestra aplicación <b>EcoMarket</b> contará con una atractiva e intuitiva interfaz, como a la vez contará con un catálogo variado de centros comerciales y empresas, asegurándonos de que el cliente cuente con la mayor diversidad de productos posible.
 
 **Misión:** Poder ofrecer un servicio de excelente calidad a nuestros clientes y a la vez mantener la alta calidad en nuestros productos. 
 
 **Visión:** Ser líderes a nivel nacional en la venta y distribución de productos con precios accesibles y a la vez con gran calidad, buscando lograr más de 10,000 de ventas al mes.
 
-##### Logotipo de la Startup:
+##### Logotipo de la Startup: 
+
+<img src="imagenes/LogoProDev.jpg">
 
 ##### Logotipo del producto
-
+<img src="imagenes/LogoEcoMarket.png" alt="LogoEcoMarket">
 
 <div id='1.1.2.'><h4> 1.1.2. Perfiles de los integrantes del equipo</h4></div>
 
@@ -155,32 +169,33 @@ EcoMarket ofrece una óptima solución con el objetivo de lograr reducir el desp
 
 
 ##### What (Qué)
-<p>La falta de acceso a productos vitales por parte de las familias peruanas en estado de pobreza y la preocupación por reducir el desperdicio de alimentos tanto por parte de empresas, como de los vendedores.</p>
+La falta de acceso a productos vitales por parte de las familias peruanas en estado de pobreza y la preocupación por reducir el desperdicio de alimentos tanto por parte de empresas como de vendedores persisten. Este desafío se agrava ante el contexto de inseguridad alimentaria que afecta a más de la mitad de las familias en 18 regiones de Perú, donde la carestía y la crisis de fertilizantes aumentan el riesgo de no satisfacer las necesidades básicas, según Infobae.
 
 ##### When (Cuando)
-<p>Este problema inicia desde hace ya muchos años, debido al desconocimiento de soluciones para lograr la venta de productos con su fecha de vencimiento próxima.</p>
+Este problema tiene raíces profundas, exacerbadas por la crisis económica y sanitaria reciente que incrementó la pobreza en 2,7 millones de personas respecto a los niveles pre-pandemia, subrayando la urgencia de encontrar soluciones efectivas, según el País.
 
 ##### Where (Dónde)
 ###### ¿Dónde surge el problema?
-<p>El problema se puede encontrar en empresas y bodegas las cuales se dedican al rubro de ventas de productos alimenticios.</p>
+Se manifiesta en empresas y bodegas dedicadas a la venta de productos alimenticios, enfrentando el desafío de gestionar eficientemente el inventario próximo a vencer.
 
 ##### Who (Quién)
-<p>Familias peruanas que se encuentran en la pobreza y pobreza extrema y, por el lado empresarial, aquellas empresas que no encuentran soluciones para evitar la pérdida generada por el desperdicio de estos productos.</p>
+Afecta principalmente a familias peruanas en situaciones de pobreza y pobreza extrema, y por el lado empresarial, a aquellas entidades que luchan por minimizar las pérdidas por desperdicio de alimentos.
 
 ##### Why (Por qué)
-<p>Porque en la actualidad la falta de accesibilidad debido a los precios excesivos en los productos va en crecimiento. Por el lado empresarial, el desconocimiento de soluciones para evitar las pérdidas económicas debido al desperdicio de estos alimentos.</p>
+El incremento en la falta de accesibilidad a productos esenciales debido a precios elevados, junto al desconocimiento empresarial de estrategias para reducir pérdidas económicas por desperdicio, alimenta este ciclo de inseguridad alimentaria y desaprovechamiento de recursos según Infobae.
 
 
-#### 2H
+### 2H
 ##### How (Cómo)
 ###### ¿Cómo se utilizará el producto?
-<p>El problema surge en el momento en el que las bodegas o supermercados no logran vender sus productos y estos ya se encuentran próximos a vencer.</p>
+El problema surge cuando bodegas o supermercados enfrentan dificultades para vender productos próximos a su fecha de vencimiento, evidenciando una falta de estrategias para gestionar eficazmente el inventario y promover la venta de estos productos.
 
 ##### How much (Cuánto)
 ###### ¿Cuál es la magnitud del problema?
-Para los comerciantes que no pueden vender sus productos existe una gran perdida, evidenciandose en que los compradores
-esperan las rebajas para comprar dichos productos. Tal es el caso de 63,5 % de consumidores espera las rebajas para 
-comprar según SaleCycle.
+La magnitud del problema es considerable, con comerciantes sufriendo grandes pérdidas al no poder vender sus productos. El fenómeno de esperar rebajas para realizar compras se intensifica, con un 63,5% de consumidores aguardando ofertas para adquirir productos cercanos a su vencimiento, resaltando la necesidad de implementar soluciones que beneficien tanto a consumidores como a comerciantes, según SaleCycle.
+
+Este escenario subraya la importancia de desarrollar e implementar políticas y estrategias enfocadas tanto en la accesibilidad a alimentos para las familias en situación de vulnerabilidad como en la optimización de procesos por parte de las empresas para minimizar el desperdicio de alimentos, generando un impacto positivo tanto social como económico.
+
 
 <div id='1.2.2.'><h4> 1.2.2. Lean UX Process</h4></div>
 <div id='1.2.2.1.'><h5> 1.2.2.1. Lean UX Problem Statements</h5></div>
@@ -253,11 +268,12 @@ El Lean UX Canvas es una herramienta que se utiliza en el campo del diseño cent
 
 <div id='1.3.'><h3> 1.3. Segmento objetivo</h3></div>
 
+En esta sección, se presentan los segmentos objetivo de nuestro producto EcoMarket.
 
-<div id='1.3.1.'><h4> 1.3.1 Stakeholders</h4></div>
+- **SEGMENTO CLIENTES:** Personas que adquieren productos a través de nuestra plataforma. Nos enfocamos en estas personas ya son ellas las que adquirirán los productos de las empresas a bajo costo mediante nuestra solución. **_Ellos tienen la necesidad de comprar productos a bajo coste._**
+- **SEGMENTO EMPRESAS:** Personas que venden productos a través de nuestra plataforma. Nos enfocamos en estas personas ya que son ellas las que ofrecerán sus productos a través de nuestra plataforma al tener productos defectuosos y/o próximos a vencer. **_Ellos tienen la necesidad de vender productos que están próximos a vencer para evitar pérdidas._**
 
-* **Stakelholder Internos:** 
-* **Stakelholder Externos:** 
+
 
 [//]: #CAPITULO2
 <div id='2.'><h2> Capítulo II: Requirements Elicitation & Analysis</h2></div>
@@ -632,3 +648,36 @@ Se presenta para el segmento de empresarios:
 
 
 <div id='4.2.'><h3> 4.2. Information Architecture</h3></div>
+
+<div id='4.3.'><h3> 4.3. Wireframes</h3></div>
+
+<div id='4.4.'><h3> 4.4. Prototipo de alta fidelidad</h3></div>
+
+[//]: #CAPITULO4
+
+<div id='5.'><h2>Capítulo 5: Product Development</h2></div>
+
+<div id='5.1.'><h3> 5.1. Software Configuration Management.</h3></div>
+
+<div id='5.2.'><h3> 5.2. Landing Page, Services & Applications Implementation.</h3></div>
+
+
+
+<div id='Conclusiones'><h2>Conclusiones</h2></div>
+
+<div id='ConclusionesYrecomendaciones'><h3> Conclusiones y Recomendaciones</h3></div>
+
+
+
+
+<div id='Bibliografia'><h2>Bibliografía</h2></div>
+
+Romero, D. (2023, 17 abril). Rebajas: estadísticas ecommerce, marketing y comportamiento. SaleCycle. 
+https://www.salecycle.com/es/blog/estadisticas/rebajas-estadisticas-marketing/
+
+
+
+
+<div id='Anexos'><h2>Anexos</h2></div>
+
+
