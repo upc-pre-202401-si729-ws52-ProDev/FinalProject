@@ -34,10 +34,11 @@ URL del repositorio del proyecto:
 
 **TB1**
 
-|                       Integrante                       |                      Tareas Asignadas                       |
-|:------------------------------------------------------:|:-----------------------------------------------------------:|
-|            Quispe Condori, Fernando Daniel             | Elaboración Preguntas de Entrevitas - Artefactos Capítulo 2 |
-|            Cortes Hidalgo, Nicolas Andres              | Elaboracion de los Emphaty maps, As-Is y To-Be Scenario Mapping, Ubiquitous Langiage, User Stories, Impact Mapping y Product Backlog                                                            |
+|            Integrante             |                                                           Tareas Asignadas                                                           |
+|:---------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------:|
+|  Quispe Condori, Fernando Daniel  |                                     Elaboración Preguntas de Entrevitas - Artefactos Capítulo 2                                      |
+|  Cortes Hidalgo, Nicolas Andres   | Elaboracion de los Emphaty maps, As-Is y To-Be Scenario Mapping, Ubiquitous Langiage, User Stories, Impact Mapping y Product Backlog |
+| Salazar Saldarriaga, Frank Junior |                                                               Startup                                                                |
 
 
 ***TB1 Github***
