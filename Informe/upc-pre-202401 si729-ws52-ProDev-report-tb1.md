@@ -602,9 +602,9 @@ Se presenta para el segmento de empresarios:
 
 <h3>3.3 Impact Mapping</h3>
 <p><strong>Cliente</strong></p>
-<img src="./imagenes/Impact map 2.png" width="500" height="500">
+<img src="./imagenes/ImpactMap2.png" width="500" height="500">
 <p><strong>Vendedor</strong></p>
-<img src="./imagenes/Impact map 1.png" width="500" height="500">
+<img src="./imagenes/ImpactMap1.png" width="500" height="500">
 
 <h3>3.4 Product Backlog</h3>
 <table>
