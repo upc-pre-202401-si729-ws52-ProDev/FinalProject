@@ -12,19 +12,19 @@
 <h4 style="text-align: center;"> Producto: EcoMarket</h4>
 
 ## Team Members
-|             Nombre              | Código de alumno |
-|:-------------------------------:|:----------------:|
-|      |      |
-| Quispe Condori, Fernando Daniel |    U20221C628    |
-| Cortes Hidalgo, Nicolas Andres  |    U202016311    |
-|                                 |                  |
-|                                 |                  |
+|              Nombre               | Código de alumno |
+|:---------------------------------:|:----------------:|
+|                                   |                  |
+|  Quispe Condori, Fernando Daniel  |    U20221C628    |
+|  Cortes Hidalgo, Nicolas Andres   |    U202016311    |
+| Salazar Saldarriaga, Frank Junior |    U20181H103    |
+|                                   |                  |
 
 ## Registro de versiones del informe
 |   Fecha    | Versión |      Autor      |              Descripción de modificación               |
 |:----------:|:-------:|:---------------:|:------------------------------------------------------:|
-| 1/04/2024  | 1.0     |  Quispe Fernando  | Creación de nuestro repositorio e inicio en capítulo 1 |
-|  |    |  |                                                        |
+| 01/04/2024 |   1.0   | Quispe Fernando | Creación de nuestro repositorio e inicio en capítulo 1 |
+| 08/04/2024 |   1.1   |  Salazar Frank  |          Actualizació del informe capitulo 1           |
 
 
 ## Project Report Collaboration Insights
@@ -38,7 +38,7 @@ URL del repositorio del proyecto:
 |:---------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------:|
 |  Quispe Condori, Fernando Daniel  |                                     Elaboración Preguntas de Entrevitas - Artefactos Capítulo 2                                      |
 |  Cortes Hidalgo, Nicolas Andres   | Elaboracion de los Emphaty maps, As-Is y To-Be Scenario Mapping, Ubiquitous Langiage, User Stories, Impact Mapping y Product Backlog |
-| Salazar Saldarriaga, Frank Junior |                                                               Startup                                                                |
+| Salazar Saldarriaga, Frank Junior |                            Startup Profile, Solution Profile, Lean UX, Segmentos Objetivos, Landing Page                             |
 
 
 ***TB1 Github***
@@ -138,14 +138,15 @@ del ABET – EAC - Student Outcome 3
 <div id='1.1.'><h3> 1.1 Startup Profile</h3></div>
 En esta sección se presenta la descripción de nuestra startup "Pro Dev" y los perfiles de los miembros del equipo.
 En el Perú, se estima que se desperdician aproximadamente 13 millones de toneladas en alimentos anualmente. Se estima que el 28% de las pérdidas ocurren en la etapa del procesamiento de los alimentos y el 25% en la etapa agrícola.
-Se ha podido observar que muchas empresas dedicadas a la industria alimentaria suelen vender sus productos a precios cómodos cuando están cerca de su fecha de vencimiento al pie de las puertas de su fábrica. Este es un ejemplo claro de aquellos productos almacenados hasta caducar y, en reiteradas ocasiones, debido a la desinformación, no se llegan a tomar los cuidados debidos, lo que genera pérdidas millonarias a las empresas. Esta problemática nos motiva a formar esta startup y a desarrollar una aplicación que permita a las empresas vender sus productos a precios accesibles y a los clientes adquirir productos de calidad a precios bajos.
+Se ha podido observar que muchas empresas dedicadas a la industria alimentaria suelen vender sus productos a precios cómodos cuando están cerca de su fecha de vencimiento al pie de las puertas de su fábrica. Este es un ejemplo claro de aquellos productos almacenados hasta caducar y, en reiteradas ocasiones, debido a la desinformación, no se llegan a tomar los cuidados debidos, lo que genera pérdidas millonarias a las empresas.
 
 <div id='1.1.1.'><h4> 1.1.1. Descripción del startup</h4></div>
-ProDev, es una startup la cual se enfoca en vender productos de calidad a precios altamente accesibles. Nuestra empresa nace debido a la gran preocupación por el desperdicio de alimentos a nivel nacional. Hemos buscado abordar dicho problema desarrollando una aplicación la cual permite a nuestros clientes la compra de productos de supermercados o negocios a precios altamente accesibles, esto tomando en cuenta que los productos están cerca a su fecha de vencimiento y de tal manera evitando el desperdicio de estos alimentos. El desarrollo de nuestra aplicación <b>EcoMarket</b> contará con una atractiva e intuitiva interfaz, como a la vez contará con un catálogo variado de centros comerciales y empresas, asegurándonos de que el cliente cuente con la mayor diversidad de productos posible.
+ProDev, es una startup la cual se enfoca en vender productos de calidad a precios altamente accesibles. Nuestra empresa nace debido a la gran preocupación por el desperdicio de alimentos a nivel nacional. Hemos buscado abordar dicho problema desarrollando una aplicación la cual permite a nuestros clientes la compra de productos de supermercados o negocios a precios altamente accesibles, esto tomando en cuenta que los productos están cerca a su fecha de vencimiento y de tal manera evitando el desperdicio de estos alimentos. El desarrollo de nuestra aplicación contará con una atractiva e intuitiva interfaz, como a la vez contará con un catálogo variado de centros comerciales y empresas, asegurándonos de que el cliente cuente con la mayor diversidad de productos posible.
 
 **Misión:** Poder ofrecer un servicio de excelente calidad a nuestros clientes y a la vez mantener la alta calidad en nuestros productos. 
 
 **Visión:** Ser líderes a nivel nacional en la venta y distribución de productos con precios accesibles y a la vez con gran calidad, buscando lograr más de 10,000 de ventas al mes.
+
 
 ##### Logotipo de la Startup: 
 
@@ -160,7 +161,7 @@ ProDev, es una startup la cual se enfoca en vender productos de calidad a precio
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------:|
 |                                                                    Mi nombre es Fernando Quispe, soy una persona proactiva que puede aportar y liderar la colaboración en equipo con el objetivo de un logro común. Me gusta el desarrollo de software y poder contribuir a la sociedad con lo que me apasiona. Tengo como meta adquirir los conocimientos de una manera clara para poder aplicarlos en los distintos proyectos tal cuál como el proyecto actual.                                                                    |    <img src="imagenes/FernandoQuispe.png"/>                                                                          |
 | Mi nombre es Nicolas Cortes, tengo 21 años y estudio la carrera de Ingenieria de Software en la Universidad Peruana de Ciencias Aplicadas. Soy una persona responsable y proactiva que siempre busca ayudar en todo lo posible a su grupo para lograr terminar cualquier tipo de trabajo o actividad de la forma mas rapida y presentable posible. Mi meta al terminar este curso es lograr entender todos los conceptos nuevos que sean necesarios para posteriormente aplicarlos mas adelante en mi carrera y en el mundo laboral. | <img height="150" src="./imagenes/NicolasCortesHidalgo.jpeg" width="150"/> 
-     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|                                                                 Mi nombre es Frank Junior Salazar Saldarriaga, tengo 23 años y estudio la carrera de Ingeniería de Software en la UPC. Soy una persona autodidacta, proactiva y desarrolladora del trabajo en equipo, a la cual le gusta el hecho de poder crear cosas nuevas que tengan un impacto en las personas. Mi meta al terminar el curso es dominar cada uno de los lenguajes que se ven durante el curso.                                                                  |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                                       |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                                                                            |
 
@@ -170,27 +171,21 @@ EcoMarket ofrece una óptima solución con el objetivo de lograr reducir el desp
 
 
 ##### What (Qué)
-La falta de acceso a productos vitales por parte de las familias peruanas en estado de pobreza y la preocupación por reducir el desperdicio de alimentos tanto por parte de empresas como de vendedores persisten. Este desafío se agrava ante el contexto de inseguridad alimentaria que afecta a más de la mitad de las familias en 18 regiones de Perú, donde la carestía y la crisis de fertilizantes aumentan el riesgo de no satisfacer las necesidades básicas, según Infobae.
-
+La falta de acceso a productos vitales por parte de las familias peruanas en estado de pobreza y la preocupación por reducir el desperdicio de alimentos tanto por parte de empresas, como de los vendedores
 ##### When (Cuando)
-Este problema tiene raíces profundas, exacerbadas por la crisis económica y sanitaria reciente que incrementó la pobreza en 2,7 millones de personas respecto a los niveles pre-pandemia, subrayando la urgencia de encontrar soluciones efectivas, según el País.
-
+Este problema inicia desde hace ya muchos años, debido al desconocimiento de soluciones para lograr la venta de productos con su fecha de vencimiento próxima.
 ##### Where (Dónde)
 ###### ¿Dónde surge el problema?
-Se manifiesta en empresas y bodegas dedicadas a la venta de productos alimenticios, enfrentando el desafío de gestionar eficientemente el inventario próximo a vencer.
-
+El problema se puede encontrar en empresas y bodegas las cuales se dedican al rubro de ventas de productos alimenticios.
 ##### Who (Quién)
-Afecta principalmente a familias peruanas en situaciones de pobreza y pobreza extrema, y por el lado empresarial, a aquellas entidades que luchan por minimizar las pérdidas por desperdicio de alimentos.
-
+Familias peruanas que se encuentran en la pobreza y pobreza extrema y, por el lado empresarial, aquellas empresas que no encuentran soluciones para evitar la pérdida generada por el desperdicio de estos productos.
 ##### Why (Por qué)
-El incremento en la falta de accesibilidad a productos esenciales debido a precios elevados, junto al desconocimiento empresarial de estrategias para reducir pérdidas económicas por desperdicio, alimenta este ciclo de inseguridad alimentaria y desaprovechamiento de recursos según Infobae.
-
+Porque en la actualidad la falta de accesibilidad debido a los precios excesivos en los productos va en crecimiento. Por el lado empresarial, el desconocimiento de soluciones para evitar las pérdidas económicas debido al desperdicio de estos alimentos.
 
 ### 2H
 ##### How (Cómo)
 ###### ¿Cómo se utilizará el producto?
-El problema surge cuando bodegas o supermercados enfrentan dificultades para vender productos próximos a su fecha de vencimiento, evidenciando una falta de estrategias para gestionar eficazmente el inventario y promover la venta de estos productos.
-
+El problema surge en el momento en el que las bodegas o supermercados no logran vender sus productos y estos ya se encuentran próximos a vencer.
 ##### How much (Cuánto)
 ###### ¿Cuál es la magnitud del problema?
 La magnitud del problema es considerable, con comerciantes sufriendo grandes pérdidas al no poder vender sus productos. El fenómeno de esperar rebajas para realizar compras se intensifica, con un 63,5% de consumidores aguardando ofertas para adquirir productos cercanos a su vencimiento, resaltando la necesidad de implementar soluciones que beneficien tanto a consumidores como a comerciantes, según SaleCycle.
