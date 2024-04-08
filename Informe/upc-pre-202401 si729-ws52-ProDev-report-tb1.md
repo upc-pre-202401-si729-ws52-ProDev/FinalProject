@@ -106,11 +106,19 @@ URL del repositorio del proyecto:
    4.8.1. [Database Diagram](#4.8.1.)<br>
 5. [**Capítulo V: Product Implementation, Validation & Deployment**](#5.)<br>
 
-## Student Outcomes
-|Criterio especifico|Acciones realizadas|Conclusiones|
-|-|:-|-|
-|||
-|||
+## Student Outcome
+El curso contribuye al cumplimiento del Student Outcome ABET:
+<b>ABET – EAC - Student Outcome 3</b>
+
+**Criterio:** Capacidad de comunicarse efectivamente con un rango de audiencias.
+En el siguiente cuadro se describe las acciones realizadas y enunciados de
+conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
+del ABET – EAC - Student Outcome 3
+
+| Criterio especifico                                                                                                                                                                | Acciones realizadas                                                                                                                                                | Conclusiones                                                                                                                                                                                                                                                                             |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | <b>Quispe Condori, Fernando Daniel</b><br/> TB1: Desarrollo del vídeo de exposición comunicando las ideas de nuestros artefactos.   <br/> **Cortez, Nicolas** TB1: | **TB1:** En esta entrega pudimos concluir que el desarrollar nuestros artefactos para el análisis de los requisitos de nuestra idea de software, no solo basta con tenerlo en un informe. Tenemos que comunicarlo y explicarlo para que una audiencia general pueda entender claramente. |
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | <b>Quispe Condori, Fernando Daniel</b><br/> TB1: Desarrollo artefactos Needfinding y Diagramas de clases y datos.   <br/> **Cortez, Nicolas** TB1:                 | **TB1:** Tenemos cómo conclusión que nuestros artefactos de obtenciónde requisitos tienen que también enfocarse al público en general, ya sea con distintas especialidades por ejemplo. Para una correcta comunicación entre todos y llevar el proyecto de forma satisfactoria.          |
 
 
 <div id='1.'><h2>Capítulo I: Introducción</h2></div>
