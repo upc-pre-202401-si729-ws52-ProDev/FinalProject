@@ -211,16 +211,17 @@ El alto costo de los alimentos ha reducido las ventas de algunas empresas, ya qu
 <div id='1.2.2.2.'><h5> 1.2.2.2. Lean UX Assumptions</h5></div>
 
 ##### **Business Assumptions:**
-1. **
-2. **
-3. **
-4. **
-5. **
-6. **
-7. **
-8. **
-9. **
-10. **
+1. *Creo que mis clientes tienen la necesidad de adquirir productos alimenticios de calidad a precios accesibles.*
+2. *Estas necesidades se pueden resolver con una aplicación en donde encuentres estos productos a un precio más accesible de lo cotidiano.*
+3. *Mis clientes iniciales serán personas que no cuentan con el dinero para la compra de productos alimenticios.*
+4. *El valor número 1 que un cliente quiere obtener de mi producto es adquirir una variedad de productos alimenticios a buen precio.*
+5. *Obtendré la mayoría de mis clientes a través de recomendaciones y publicidad en redes sociales.*
+6. *Voy a ganar dinero por comisiones en cada venta.*
+7. *Mi principal competencia en el mercado serán las grandes empresas con sus propios descuentos.*
+8. *Los venceremos debido a nuestra variedad de productos y amplio catálogo de supermercados.*
+9. *Mi mayor riesgo es la poca variedad o la limitada cantidad de productos.*
+10. *Resolveremos esto a través de Recomendar el mismo producto pero de una marca diferente a la que nuestros usuarios quieren comprar.*
+11. *Sabremos que tenemos éxito cuando veamos los siguientes cambios en el comportamiento del cliente: Han aumentado las compras de diversos productos que ofrecemos.*
 
 ##### **User Assumptions:**
 ###### **¿Quién es el usuario?**
