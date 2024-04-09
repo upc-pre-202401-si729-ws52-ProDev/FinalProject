@@ -265,7 +265,7 @@ Intuitivo, funcional y eficaz, donde el usuario de forma rápida y sencilla real
 
 ## ***Lean UX Canvas:***
 
-<img src="./imagenes/Canvas.jpg" width="500" height="500">
+<img src="./imagenes/Canvas.jpg">
 
 <div id='1.3.'><h3> 1.3. Segmento objetivo</h3></div>
 
