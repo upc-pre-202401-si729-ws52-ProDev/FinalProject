@@ -3,7 +3,7 @@
 <p align="center">
   <img src="./imagenes/upcLogo.png" width="250" height="250">
 </p>
-<h4 style="text-align: center;"> Ingeniería de Software </h4>
+<h4 style="text-align: center;"> Ingengggiería de Software </h4>
 <h4 style="text-align: center;">Desarrollo de Aplicaciones Open Source</h4>
 <h4 style="text-align: center;"> Ciclo 2024-01 </h4>
 <h4 style="text-align: center;"> WS52</h4>
