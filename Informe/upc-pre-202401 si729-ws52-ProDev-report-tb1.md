@@ -161,7 +161,7 @@ ProDev, es una startup la cual se enfoca en vender productos de calidad a precio
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------:|
 |                                                                    Mi nombre es Fernando Quispe, soy una persona proactiva que puede aportar y liderar la colaboración en equipo con el objetivo de un logro común. Me gusta el desarrollo de software y poder contribuir a la sociedad con lo que me apasiona. Tengo como meta adquirir los conocimientos de una manera clara para poder aplicarlos en los distintos proyectos tal cuál como el proyecto actual.                                                                    |    <img src="imagenes/FernandoQuispe.png"/>                                                                          |
 | Mi nombre es Nicolas Cortes, tengo 21 años y estudio la carrera de Ingenieria de Software en la Universidad Peruana de Ciencias Aplicadas. Soy una persona responsable y proactiva que siempre busca ayudar en todo lo posible a su grupo para lograr terminar cualquier tipo de trabajo o actividad de la forma mas rapida y presentable posible. Mi meta al terminar este curso es lograr entender todos los conceptos nuevos que sean necesarios para posteriormente aplicarlos mas adelante en mi carrera y en el mundo laboral. | <img height="150" src="./imagenes/NicolasCortesHidalgo.jpeg" width="150"/> 
-|                                                                 Mi nombre es Frank Junior Salazar Saldarriaga, tengo 23 años y estudio la carrera de Ingeniería de Software en la UPC. Soy una persona autodidacta, proactiva y desarrolladora del trabajo en equipo, a la cual le gusta el hecho de poder crear cosas nuevas que tengan un impacto en las personas. Mi meta al terminar el curso es dominar cada uno de los lenguajes que se ven durante el curso.                                                                  | <img height="150" src="./imagenes/FrankSalazar.jpg" width="150"/>
+|                                                                 Mi nombre es Frank Junior Salazar Saldarriaga, tengo 23 años y estudio la carrera de Ingeniería de Software en la UPC. Soy una persona autodidacta, proactiva y desarrolladora del trabajo en equipo, a la cual le gusta el hecho de poder crear cosas nuevas que tengan un impacto en las personas. Mi meta al terminar el curso es dominar cada uno de los lenguajes que se ven durante el curso.                                                                  | <img src="./imagenes/Franksaldarriaga.jpg"/>
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                                       |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                                                                            |
 
@@ -224,7 +224,8 @@ El alto costo de los alimentos ha reducido las ventas de algunas empresas, ya qu
 11. *Sabremos que tenemos éxito cuando veamos los siguientes cambios en el comportamiento del cliente: Han aumentado las compras de diversos productos que ofrecemos.*
 
 ##### **User Assumptions:**
-###### **¿Quién es el usuario?** Personas que no cuentan con los suficientes recursos.
+###### **¿Quién es el usuario?** 
+Personas que no cuentan con los suficientes recursos.
 
 ###### **¿Qué problemas resuelve nuestro producto?**
 Resuelve el problema de la mala alimentación de las personas por no tener los recursos suficientes para acceder a los productos alimenticios. También resuelve el problema de la pérdida de dinero de las empresas por el desperdicio de estos productos.
@@ -245,19 +246,19 @@ Intuitivo, funcional y eficaz, donde el usuario de forma rápida y sencilla real
 
 * **Hypothesis Statement 01:**
 
-  **Creemos que** 
+###### Usuario Cliente
+  **Creemos que**, al desarrollar una aplicación en dónde se pueda encontrar productos alimenticios a precios considerablemente más accesibles
 
-  **Sabremos** que hemos tenido éxito
+  **Lograremos**, apoyar a aquellos ciudadanos que no cuentan con los recursos suficientes para acceder a estos productos
 
-  **Cuando** 
+  **Sabremos que hemos tenido éxito**, cuando la cantidad de productos vendidos de forma exitosa se haya incrementado en un 40% con respecto a los tres primeros meses de lanzada la aplicación.
 
-* **Hypothesis Statement 02:**
+###### Usuario Empresa
+**Creemos que**, al comprar los productos que están próximos  a su fecha de caducidad o tuvieron defectos en el empaquetado.
 
-   **Hypothesis Statement 03:**
+**Lograremos**, evitar desechar estos alimentos y a la vez evitaremos las grandes pérdidas que esto provocaba para las empresas.
 
-
-* **Hypothesis Statement 04:**
-
+**Sabremos que hemos tenido éxito**, cuando la totalidad de los productos adquiridos hayan sido vendidos de manera exitosa.
 
 <div id='1.2.2.4.'><h5> 1.2.2.4. Lean UX Canvas</h5></div>
 
