@@ -225,26 +225,22 @@ El alto costo de los alimentos ha reducido las ventas de algunas empresas, ya qu
 
 ##### **User Assumptions:**
 ###### **¿Quién es el usuario?**
+Personas que no cuentan con los suficientes recursos.
 
-
-###### **¿Qué problemas tiene nuestro producto? ¿Resolver?**
-
+###### **¿Qué problemas resuelve nuestro producto?**
+Resuelve el problema de la mala alimentación de las personas por no tener los recursos suficientes para acceder a los productos alimenticios. También resuelve el problema de la pérdida de dinero de las empresas por el desperdicio de estos productos.
 
 ###### **¿Qué características son importantes?**
+Poder adquirir el producto que necesitemos desde cualquier punto a precios totalmente accesibles.
 
-
-###### **¿Dónde encaja nuestro producto en su trabajo o vida?**
-
+###### **¿Dónde encaja nuestro producto en su trabajo o vida?** 
+En su día a día
 
 ###### **¿Cuándo y cómo es nuestro producto usado?**
-
+Siempre que necesiten productos alimenticios a precios totalmente accesibles, tan solo ingresando a la aplicación.
 
 ###### **¿Cómo debe verse nuestro producto y cómo debe comportarse?**
-
-
-###### **Feature Assumptions:**
-
-
+Intuitivo, funcional y eficaz, donde el usuario de forma rápida y sencilla realice sus pedidos y sin mayor complicación también el pago.
 
 <div id='1.2.2.3.'><h5> 1.2.2.3. Lean UX Hypothesis Statements.</h5></div>
 
