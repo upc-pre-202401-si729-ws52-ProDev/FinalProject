@@ -264,8 +264,9 @@ Intuitivo, funcional y eficaz, donde el usuario de forma rápida y sencilla real
 <div id='1.2.2.4.'><h5> 1.2.2.4. Lean UX Canvas</h5></div>
 
 
-## ***Lean UX Canvas:***
+#### ***Lean UX Canvas:***
 
+Se presenta el artefacto realizado Lean UX Canvas. La cuál nos ayuda a tener una visión general de nuestro producto y cómo se llevará a cabo.
 <img src="./imagenes/Canvas.jpg">
 
 <div id='1.3.'><h3> 1.3. Segmento objetivo</h3></div>
@@ -348,14 +349,16 @@ A continuacion se presentan las preguntas para el sector de Empresas
 
   <div id='2.3.'><h3> 2.3. Needfinding</h3></div>
   <h4>2.3.1 User Persona</h4>
-  A continuación se presentan las User Personas para nuestro producto. En base a nuestros dos segmentos objetivos bien definidos.
+  A continuación se presentan las User Personas para nuestro producto. En base a nuestros dos segmentos objetivos definidos. Se realizaron los artefactos en la herramienta UXPressia.
 
    - Segmento Clientes: Personas que adquieren productos a través de nuestra plataforma.
    - Segmento Empresas: Personas que venden productos a través de nuestra plataforma.
 
-   User Persona de Cliente: URL(Click aquí para ver la User Persona de Cliente)
+   User Persona de Cliente: Click [aquí](https://uxpressia.com/w/ezex3/p/uLv62) para ver la User Persona de Cliente
+      <img src="imagenes/UserPersonaCliente.png" alt="UserPersonaCliente">
 
-   User Persona de Empresa: URL(Click aquí para ver la User Persona de Empresa)
+   User Persona de Empresa: Click [aquí](https://uxpressia.com/w/ezex3/p/WoZAm) para ver la User Persona de Empresa
+      <img src="imagenes/UserPersonaEmpresa.png" alt="UserPersonaCliente">
   <h4>2.3.2 User Task Matrix</h4>
   A continuación se presenta el User Task Matrix con las tareas de los usuarios y la importancia y frecuencia para cada usuario.
 
@@ -382,7 +385,16 @@ Se presenta para el segmento de empresarios:
 | Realizar donaciones                                | Baja        | Baja       |
 
   <h4>2.3.3 User Journey Mapping</h4>
+    A continuación se presenta el User Journey Mapping para el segmento de clientes y empresas.
+
+  User Journey Mapping de Cliente: Click [aquí](https://uxpressia.com/w/ezex3/p/1b3e7) para ver el User Journey Mapping de Cliente
+      <img src="imagenes/UserJourneyMappingCliente.jpg" alt="UserJourneyCliente">
+
+  User Journey Mapping de Empresa: Click [aquí](https://uxpressia.com/w/ezex3/p/1b3e7) para ver el User Journey Mapping de Empresa
+      <img src="imagenes/UserJourneyMappingEmpresa.jpg" alt="UserJourneyEmpresa">
+
   <h4>2.3.4 Empathy Mapping</h3>
+    A continuación se presenta el Empathy Mapping para el segmento de clientes y empresas.
 <p><strong>Cliente</strong></p>
 <img src="./imagenes/EmpathyMapCliente.png" width="500" height="500">
 <p><strong>Vendedor</strong></p>
@@ -395,6 +407,20 @@ Se presenta para el segmento de empresarios:
 <img src="./imagenes/AsIs2.jpg" width="500" height="500">
 
 <h3>2.4 Ubiquitious language</h3>
+<p>Se presenta el lenguaje ubicuo para nuestro producto EcoMarket.</p>
+
+| Término | Definición |
+|---------|------------|
+| EcoMarket | Plataforma de venta de productos alimenticios a precios accesibles |
+| Cliente | Persona que adquiere productos a través de nuestra plataforma |
+| Empresa | Persona que vende productos a través de nuestra plataforma |
+| Producto | Alimento que se vende en nuestra plataforma |
+| Vendedor | Persona que vende productos a través de nuestra plataforma |
+| Comprador | Persona que adquiere productos a través de nuestra plataforma |
+| Precio | Costo de un producto |
+| Descuento | Reducción del precio de un producto |
+| Oferta | Producto con un precio reducido |
+
 
 <h2>Capitulo III: Requirements Specification</h2>
 <h3>3.1 To-Be Scenario Mapping</h3>
@@ -680,6 +706,12 @@ https://www.salecycle.com/es/blog/estadisticas/rebajas-estadisticas-marketing/
 
 
 
-<div id='Anexos'><h2>Anexos</h2></div>
+<div id='Anexos'><h2>Anexos</h2>
+
+- Repositorio de GitHub:
+- Artefacto User Persona: https://uxpressia.com/w/ezex3/p/WoZAm https://uxpressia.com/w/ezex3/p/uLv62
+- Artefacto User Journey Mapping:
+
+</div>
 
 
