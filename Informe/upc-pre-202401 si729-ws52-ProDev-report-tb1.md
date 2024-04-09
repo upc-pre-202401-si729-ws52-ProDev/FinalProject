@@ -198,12 +198,12 @@ Este escenario subraya la importancia de desarrollar e implementar políticas y 
 
 ##### **Problem Statement:**
 
-###### Ciudadanos peruanos
+###### **Ciudadanos peruanos**
 El alto costo de los alimentos coloca a muchas personas de bajos ingresos en una situación difícil porque no pueden afrontar los precios actuales. Aunque algunas empresas venden productos cercanos a su fecha de vencimiento con descuentos, no todos los residentes tienen acceso a estas ofertas.
 
 ¿Cómo podemos reducir el desperdicio de alimentos ayudando a las personas de bajos ingresos a obtener alimentos a precios más bajos y garantizando al mismo tiempo la seguridad alimentaria?
 
-###### Empresas peruanas
+###### **Empresas peruanas**
 El alto costo de los alimentos ha reducido las ventas de algunas empresas, ya que los consumidores prefieren opciones más baratas. Además, muchos de estos productos se almacenan hasta que caducan y finalmente se desechan, lo que cuesta dinero a las empresas.
 
 ¿Cómo ayudamos a las empresas a reducir el desperdicio de alimentos y aumentar las ganancias para que puedan vender estos productos a precios más bajos y hacerlos accesibles a los consumidores?
