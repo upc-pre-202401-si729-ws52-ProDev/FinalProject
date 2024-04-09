@@ -224,8 +224,7 @@ El alto costo de los alimentos ha reducido las ventas de algunas empresas, ya qu
 11. *Sabremos que tenemos éxito cuando veamos los siguientes cambios en el comportamiento del cliente: Han aumentado las compras de diversos productos que ofrecemos.*
 
 ##### **User Assumptions:**
-###### **¿Quién es el usuario?**
-Personas que no cuentan con los suficientes recursos.
+###### **¿Quién es el usuario?** Personas que no cuentan con los suficientes recursos.
 
 ###### **¿Qué problemas resuelve nuestro producto?**
 Resuelve el problema de la mala alimentación de las personas por no tener los recursos suficientes para acceder a los productos alimenticios. También resuelve el problema de la pérdida de dinero de las empresas por el desperdicio de estos productos.
