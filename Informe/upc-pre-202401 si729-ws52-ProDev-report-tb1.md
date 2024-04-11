@@ -18,7 +18,7 @@
 |  Quispe Condori, Fernando Daniel  |    U20221C628    |
 |  Cortes Hidalgo, Nicolas Andres   |    U202016311    |
 | Salazar Saldarriaga, Frank Junior |    U20181H103    |
-|                                   |                  |
+|Macedo Calsina, Anderson Walter    |    U20201C179    |
 
 ## Registro de versiones del informe
 |   Fecha    | Versión |      Autor      |              Descripción de modificación               |
