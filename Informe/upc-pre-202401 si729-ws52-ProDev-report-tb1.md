@@ -682,7 +682,52 @@ Se presenta para el segmento de empresarios:
 
 <div id='4.4.'><h3> 4.4. Prototipo de alta fidelidad</h3></div>
 
-[//]: #CAPITULO4
+<div id='4.5.'><h3> 4.5. Web Application Prototyping</h3></div>
+
+<div id='4.6.'><h3> 4.6. Domain-Driven Software Architecture.</h3></div>
+
+<div id='4.7.'><h3> 4.7. Software Object-Oriented Design. </h3>
+En esta sección detallaremos el diseño orientado a objetos de la aplicación EcoMarket. Para ello, se presentará el diagrama de clases correspondiente a nuestra solución.
+
+<div id="4.7.1."><h4>4.7.1. Diagrama de Clases</h4>
+    El siguiente diagrama fue realizado en la herramienta de Lucidchart, el cual muestra las clases y relaciones entre ellas para el sistema EcoMarket.
+    <img src="imagenes/EcoMarketDiagramaClases.png">
+</div>
+
+<div id="4.7.1."><h4>4.7.2. Class Dictionary</h4>
+A continuación se presenta el diccionario de clases correspondiente al diagrama de clases de EcoMarket.
+
+| Clase | Descripción |
+|-------|-------------|
+| User | Clase base que representa a un usuario de la aplicación. |
+| Customer | Clase que hereda de User y representa a un cliente de EcoMarket. |
+| Seller | Clase que hereda de User y representa a un vendedor de EcoMarket. |
+| Product | Clase que representa un producto en la plataforma. |
+| Cart | Clase que representa el carrito de compras de un cliente. |
+| Order | Clase que representa una orden de compra realizada por un cliente. |
+| PaymentMethod | Clase que representa un método de pago en la aplicación. |
+| Notification | Clase que representa una notificación enviada a un usuario. |
+| Profile | Clase que representa el perfil de un vendedor en la plataforma. |
+| Sale | Clase que representa una venta realizada por un vendedor. |
+| Category | Clase que representa una categoría de productos en la plataforma. |
+| Review | Clase que representa una reseña de un producto realizada por un cliente. |
+| Address | Clase que representa una dirección de envío de un cliente. |
+| Image | Clase que representa una imagen asociada a un producto. |
+| Discount | Clase que representa un descuento aplicado a un producto. |
+| Offer | Clase que representa una oferta especial en la plataforma. |
+| Stock | Clase que representa el stock disponible de un producto. |
+| Company | Clase que representa una empresa en la plataforma. |
+| Report | Clase que representa un reporte de ventas de un vendedor. |
+| Contact | Clase que representa la información de contacto de un vendedor. |
+| Feedback | Clase que representa un feedback de un cliente sobre un producto. |
+| Rating | Clase que representa la calificación de un producto por parte de un cliente. |
+| SaleHistory | Clase que representa el historial de ventas de un vendedor. |
+| Payment | Clase que representa un pago realizado por un cliente. |
+</div>
+
+</div>
+
+<div id='4.8.'><h3> 4.8. Database Design. </h3></div>
 
 <div id='5.'><h2>Capítulo 5: Product Development</h2></div>
 
