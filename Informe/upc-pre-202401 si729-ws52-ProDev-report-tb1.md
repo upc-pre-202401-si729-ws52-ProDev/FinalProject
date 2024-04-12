@@ -673,7 +673,120 @@ Se presenta para el segmento de empresarios:
 <div id='4.1.'><h3> 4.1. Style Guidelines</h3></div>
 
 
-<div id='4.2.'><h3> 4.2. Information Architecture</h3></div>
+<div id='4.2.'><h3> 4.2. Information Architecture</h3>
+En esta sección detallaremos la arquitectura de información de nuestro diseño UX para tener documentado y una percepción del tipo de organización que tendremos en nuestros productos para nuestros usuarios.
+
+<div id='4.2.1'><h4>4.2.1. Organization Systems.</h4>
+En esta sección detallamos los sistemas de organización que utilizaremos en nuestra aplicación EcoMarket.Tanto para el segmento de clientes como para el segmento de empresas, se utilizarán los siguientes sistemas de organización:
+
+  <h5>Segmento Cliente</h5>
+  <ul>
+    <li>Menú de navegación: Se utilizará un menú de navegación en la parte superior de la página para permitir a los clientes acceder a diferentes secciones de la aplicación, como la página principal, el carrito de compras, el historial de compras y el perfil.</li>
+    <li>Barra de búsqueda: Se incluirá una barra de búsqueda en la parte superior de la página para permitir a los clientes buscar productos específicos por nombre o categoría.</li>
+    <li>Filtros de búsqueda: Se proporcionarán filtros de búsqueda en la página de resultados para permitir a los clientes refinar su búsqueda por categoría, precio, marca y otras características.</li>
+    <li>Categorías de productos: Se organizarán los productos en diferentes categorías, como alimentos, bebidas, productos orgánicos, productos en oferta, etc., para facilitar la navegación y la búsqueda de productos.</li>
+    <li>Carrito de compras: Se mostrará un resumen de los productos seleccionados en el carrito de compras, incluyendo imágenes, nombres, precios y cantidades, para que los clientes puedan revisar y completar su compra fácilmente.</li>
+    <li>Historial de compras: Se proporcionará un historial de compras detallado para que los clientes puedan revisar todas las compras anteriores, incluyendo productos comprados, fechas, precios y métodos de pago utilizados.</li>
+  </ul>
+
+  <h5>Segmento Empresa</h5>
+  <ul>
+    <li>Menú de navegación: Se utilizará un menú de navegación en la parte superior de la página para permitir a las empresas acceder a diferentes secciones de la aplicación, como la página principal, la lista de productos, el historial de ventas y el perfil.</li>
+    <li>Barra de búsqueda: Se incluirá una barra de búsqueda en la parte superior de la página para permitir a las empresas buscar productos específicos por nombre o categoría.</li>
+    <li>Filtros de búsqueda: Se proporcionarán filtros de búsqueda en la página de resultados para permitir a las empresas refinar su búsqueda por categoría, precio, marca y otras características.</li>
+    <li>Lista de productos: Se mostrará una lista de productos en venta, incluyendo imágenes, nombres, precios y cantidades disponibles, para que las empresas puedan gestionar y actualizar su inventario fácilmente.</li>
+    <li>Historial de ventas: Se proporcionará un historial de ventas detallado para que las empresas puedan revisar todas las ventas anteriores, incluyendo productos vendidos, fechas, precios y métodos de pago utilizados.</li>
+    <li>Perfil de empresa: Se mostrará un perfil detallado de la empresa, incluyendo información de contacto, dirección, horario de atención, métodos de pago aceptados y políticas de devolución, para que los clientes puedan conocer más sobre la empresa y sus productos.</li>
+  </ul>
+</div>
+
+<div id='4.2.2'><h4>4.2.2. Labeling Systems.</h4>
+En esta sección detallamos los sistemas de etiquetado que utilizaremos en nuestra aplicación EcoMarket. Tanto para el segmento de clientes como para el segmento de empresas, se utilizarán los siguientes sistemas de etiquetado:
+
+  <h5>Segmento Cliente</h5>
+  <ul>
+    <li>Etiquetas de productos: Se utilizarán etiquetas descriptivas en los productos para indicar características como orgánico, vegano, sin gluten, en oferta, etc., para que los clientes puedan identificar rápidamente los productos que cumplen con sus preferencias.</li>
+    <li>Etiquetas de categorías: Se utilizarán etiquetas de categorías en la página de resultados de búsqueda y en la lista de productos para indicar la categoría a la que pertenece cada producto, como alimentos, bebidas, productos orgánicos, etc., para facilitar la navegación y la búsqueda de productos.</li>
+    <li>Etiquetas de filtros: Se utilizarán etiquetas de filtros en la página de resultados de búsqueda para indicar los filtros aplicados, como precio, marca, tamaño, etc., para que los clientes puedan ver y modificar fácilmente los filtros seleccionados.</li>
+    <li>Etiquetas de estado: Se utilizarán etiquetas de estado en el carrito de compras y en el historial de compras para indicar el estado de cada producto, como en stock, agotado, enviado, entregado, etc., para que los clientes puedan seguir el progreso de sus compras.</li>
+  </ul>
+
+  <h5>Segmento Empresa</h5>
+  <ul>
+    <li>Etiquetas de productos: Se utilizarán etiquetas descriptivas en los productos para indicar características como orgánico, vegano, sin gluten, en oferta, etc., para que las empresas puedan destacar las cualidades de sus productos y atraer a los clientes.</li>
+    <li>Etiquetas de categorías: Se utilizarán etiquetas de categorías en la lista de productos para indicar la categoría a la que pertenece cada producto, como alimentos, bebidas, productos orgánicos, etc., para facilitar la gestión y organización del inventario.</li>
+    <li>Etiquetas de filtros: Se utilizarán etiquetas de filtros en la página de resultados de búsqueda y en la lista de productos para indicar los filtros aplicados, como precio, marca, tamaño, etc., para que las empresas puedan ver y modificar fácilmente los filtros seleccionados.</li>
+    <li>Etiquetas de estado: Se utilizarán etiquetas de estado en la lista de productos y en el historial de ventas para indicar el estado de cada producto, como en stock, agotado, en oferta, vendido, etc., para que las empresas puedan seguir el progreso de sus ventas.</li>
+    </ul>
+
+
+</div>
+
+<div id='4.2.3'><h4>4.2.3. SEO Tags and Meta Tags </h4>
+En esta sección detalleremos las etiquetas SEO y meta etiquetas que utilizaremos en nuestra aplicación EcoMarket. Tanto para el segmento de clientes como para el segmento de empresas, se utilizarán las siguientes etiquetas SEO y meta etiquetas:
+
+  <h5>Segmento Cliente</h5>
+  <ul>
+    <li>Etiquetas de título: Se utilizarán etiquetas de título descriptivas y relevantes en cada página para mejorar la visibilidad y el posicionamiento en los motores de búsqueda, como "EcoMarket - Tienda de productos orgánicos y sostenibles".</li>
+    <li>Meta descripciones: Se incluirán meta descripciones informativas y atractivas en cada página para proporcionar un resumen conciso del contenido y atraer a los usuarios a hacer clic en los resultados de búsqueda, como "Descubre una amplia selección de productos orgánicos y sostenibles en EcoMarket".</li>
+    <li>Etiquetas de encabezado: Se utilizarán etiquetas de encabezado H1, H2 y H3 en cada página para estructurar y organizar el contenido de manera clara y jerárquica, facilitando la lectura y la indexación por parte de los motores de búsqueda.</li>
+    <li>Etiquetas alt de imágenes: Se incluirán etiquetas alt descriptivas en todas las imágenes para mejorar la accesibilidad y la indexación de contenido por parte de los motores de búsqueda, como "Producto orgánico - EcoMarket".</li>
+    <li>Etiquetas de enlace: Se utilizarán etiquetas de enlace descriptivas y relevantes en todos los enlaces internos y externos para mejorar la navegación y la experiencia del usuario, como "Ver más productos orgánicos en EcoMarket".</li>
+  </ul>
+
+  <h5>Segmento Empresa</h5>
+  <ul>
+    <li>Etiquetas de título: Se utilizarán etiquetas de título descriptivas y relevantes en cada página para mejorar la visibilidad y el posicionamiento en los motores de búsqueda, como "EcoMarket - Vende tus productos orgánicos y sostenibles".</li>
+    <li>Meta descripciones: Se incluirán meta descripciones informativas y atractivas en cada página para proporcionar un resumen conciso del contenido y atraer a los usuarios a hacer clic en los resultados de búsqueda, como "Únete a EcoMarket y vende tus productos orgánicos y sostenibles en línea".</li>
+    <li>Etiquetas de encabezado: Se utilizarán etiquetas de encabezado H1, H2 y H3 en cada página para estructurar y organizar el contenido de manera clara y jerárquica, facilitando la lectura y la indexación por parte de los motores de búsqueda.</li>
+    <li>Etiquetas alt de imágenes: Se incluirán etiquetas alt descriptivas en todas las imágenes para mejorar la accesibilidad y la indexación de contenido por parte de los motores de búsqueda, como "Producto orgánico - EcoMarket".</li>
+  </ul>
+</div>
+
+<div id='4.2.4'><h4>4.2.4. Searching Systems.</h4>
+En esta sección detalleremos los sistemas de búsqueda que utilizaremos en nuestra aplicación EcoMarket. Tanto para el segmento de clientes como para el segmento de empresas, se utilizarán los siguientes sistemas de búsqueda:
+
+  <h5>Segmento Cliente</h5>
+  <ul>
+    <li>Búsqueda por palabra clave: Se proporcionará una barra de búsqueda en la parte superior de la página para permitir a los clientes buscar productos específicos por nombre, marca, categoría o palabra clave, facilitando la búsqueda y la navegación.</li>
+    <li>Filtros de búsqueda: Se incluirán filtros de búsqueda en la página de resultados para permitir a los clientes refinar su búsqueda por categoría, precio, marca, tamaño, etc., para encontrar productos específicos de manera rápida y eficiente.</li>
+    <li>Búsqueda avanzada: Se ofrecerá una búsqueda avanzada con opciones adicionales, como ordenar por relevancia, precio, popularidad, etc., para que los clientes puedan personalizar y ajustar los resultados de búsqueda según sus preferencias.</li>
+    <li>Búsqueda predictiva: Se implementará una función de búsqueda predictiva que sugiere productos relevantes a medida que el cliente escribe en la barra de búsqueda, para ayudar a los clientes a encontrar rápidamente lo que están buscando.</li>
+    <li>Búsqueda por voz: Se integrará la búsqueda por voz para permitir a los clientes buscar productos utilizando comandos de voz, mejorando la accesibilidad y la experiencia del usuario.</li>
+  </ul>
+
+  <h5>Segmento Empresa</h5>
+  <ul>
+    <li>Búsqueda por palabra clave: Se proporcionará una barra de búsqueda en la parte superior de la página para permitir a las empresas buscar productos específicos por nombre, marca, categoría o palabra clave, facilitando la gestión y la organización del inventario.</li>
+    <li>Filtros de búsqueda: Se incluirán filtros de búsqueda en la página de resultados para permitir a las empresas refinar su búsqueda por categoría, precio, marca, tamaño, etc., para encontrar productos específicos de manera rápida y eficiente.</li>
+    <li>Búsqueda avanzada: Se ofrecerá una búsqueda avanzada con opciones adicionales, como ordenar por relevancia, precio, popularidad, etc., para que las empresas puedan personalizar y ajustar los resultados de búsqueda según sus necesidades.</li>
+  </ul>
+
+</div>
+
+<div id='4.2.5'><h4>4.2.5. Navigation Systems.</h4>
+En esta sección detalleremos los sistemas de navegación que utilizaremos en nuestra aplicación EcoMarket. Tanto para el segmento de clientes como para el segmento de empresas, se utilizarán los siguientes sistemas de navegación:
+
+  <h5>Segmento Cliente</h5>
+    <ul>
+        <li>Menú de navegación: Se incluirá un menú de navegación en la parte superior de la página con opciones como página principal, categorías, ofertas, carrito de compras, historial de compras y perfil, para permitir a los clientes acceder rápidamente a diferentes secciones de la aplicación.</li>
+        <li>Barra de búsqueda: Se proporcionará una barra de búsqueda en la parte superior de la página para permitir a los clientes buscar productos específicos por nombre, marca, categoría o palabra clave, facilitando la navegación y la búsqueda.</li>
+        <li>Menú desplegable: Se utilizarán menús desplegables para mostrar subcategorías y opciones adicionales en las páginas de categorías y resultados de búsqueda, para ayudar a los clientes a explorar y encontrar productos de manera eficiente.</li>
+        <li>Enlaces rápidos: Se incluirán enlaces rápidos en la parte inferior de la página para permitir a los clientes acceder a secciones importantes, como preguntas frecuentes, políticas de envío, términos y condiciones, etc., para obtener información adicional y soporte.</li>
+        <li>Botones de llamada a la acción: Se utilizarán botones de llamada a la acción en las páginas de productos y en el carrito de compras para guiar a los clientes a realizar acciones específicas, como agregar al carrito, comprar ahora, ver más detalles, etc., para mejorar la experiencia de compra.</li>
+    </ul>
+
+  <h5>Segmento Empresa</h5>
+  <ul>
+      <li>Menú de navegación
+      Se incluirá un menú de navegación en la parte superior de la página con opciones como página principal, lista de productos, historial de ventas, perfil y configuración, para permitir a las empresas acceder rápidamente a diferentes secciones de la aplicación.</li>
+      <li>Barra de búsqueda: Se proporcionará una barra de búsqueda en la parte superior de la página para permitir a las empresas buscar productos específicos por nombre, marca, categoría o palabra clave, facilitando la gestión y la organización del inventario.</li>
+      <li>Menú desplegable: Se utilizarán menús desplegables para mostrar opciones adicionales y funciones en las páginas de lista de productos y resultados de ventas, para ayudar a las empresas a gestionar y actualizar su inventario de manera eficiente.</li>
+      <li>Enlaces rápidos: Se incluirán enlaces rápidos en la parte inferior de la página para permitir a las empresas acceder a secciones importantes, como políticas de venta, métodos de pago, términos y condiciones, etc., para obtener información adicional y soporte.</li>
+      <li>Botones de llamada a la acción: Se utilizarán botones de llamada a la acción en las páginas de productos y en el historial de ventas para guiar a las empresas a realizar acciones específicas, como editar producto, actualizar stock, ver detalles de venta, etc., para mejorar la gestión de la tienda.</li>
+  </ul>
+</div>
+</div>
 
 <div id='4.3.'><h3> 4.3. Wireframes</h3></div>
 
