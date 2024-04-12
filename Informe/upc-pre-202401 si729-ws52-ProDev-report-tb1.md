@@ -734,7 +734,15 @@ A continuación se presenta el diccionario de clases correspondiente al diagrama
 
 </div>
 
-<div id='4.8.'><h3> 4.8. Database Design. </h3></div>
+<div id='4.8.'><h3> 4.8. Database Design. </h3>
+En esta sección detallaremos el diseño de la base de datos de la aplicación EcoMarket. Para ello, se presentará el diagrama entidad-relación correspondiente a nuestra solución.
+
+<div id="4.8.1."><h4>4.8.1. Database Diagram</h4>
+Se presenta el modelo físico de la base de datos de EcoMarket, el cual fue realizado en la herramienta de Vertabelo. 
+<img src="imagenes/EcoMarketDatabaseDiagram.png">
+</div>
+
+</div>
 
 <div id='5.'><h2>Capítulo 5: Product Development</h2></div>
 
