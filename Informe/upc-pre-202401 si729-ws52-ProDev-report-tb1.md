@@ -702,32 +702,34 @@ En esta sección detallaremos el diseño orientado a objetos de la aplicación E
 <div id="4.7.1."><h4>4.7.2. Class Dictionary</h4>
 A continuación se presenta el diccionario de clases correspondiente al diagrama de clases de EcoMarket.
 
-| Clase | Descripción |
-|-------|-------------|
-| User | Clase base que representa a un usuario de la aplicación. |
-| Customer | Clase que hereda de User y representa a un cliente de EcoMarket. |
-| Seller | Clase que hereda de User y representa a un vendedor de EcoMarket. |
-| Product | Clase que representa un producto en la plataforma. |
-| Cart | Clase que representa el carrito de compras de un cliente. |
-| Order | Clase que representa una orden de compra realizada por un cliente. |
-| PaymentMethod | Clase que representa un método de pago en la aplicación. |
-| Notification | Clase que representa una notificación enviada a un usuario. |
-| Profile | Clase que representa el perfil de un vendedor en la plataforma. |
-| Sale | Clase que representa una venta realizada por un vendedor. |
-| Category | Clase que representa una categoría de productos en la plataforma. |
-| Review | Clase que representa una reseña de un producto realizada por un cliente. |
-| Address | Clase que representa una dirección de envío de un cliente. |
-| Image | Clase que representa una imagen asociada a un producto. |
-| Discount | Clase que representa un descuento aplicado a un producto. |
-| Offer | Clase que representa una oferta especial en la plataforma. |
-| Stock | Clase que representa el stock disponible de un producto. |
-| Company | Clase que representa una empresa en la plataforma. |
-| Report | Clase que representa un reporte de ventas de un vendedor. |
-| Contact | Clase que representa la información de contacto de un vendedor. |
-| Feedback | Clase que representa un feedback de un cliente sobre un producto. |
-| Rating | Clase que representa la calificación de un producto por parte de un cliente. |
-| SaleHistory | Clase que representa el historial de ventas de un vendedor. |
-| Payment | Clase que representa un pago realizado por un cliente. |
+| Clase                    | Descripción                                                                                                                                  |
+|--------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| User                     | Representa a un usuario de nuestra aplicación conteniendo datos de autenticación y verificación de Account                                   |
+| Account                  | Representa la cuenta de un usuario en nuestra aplicación, conteniendo información de perfil y credenciales                                   |
+| RessetPasswordController | Controlador para el proceso de restablecimiento de contraseña                                                                                |
+| Profile                  | Representa el perfil de un usuario en nuestra aplicación, conteniendo información personal y de contacto. Clase base para Customer y Company |
+| Customer                 | Representa a un cliente de nuestra aplicación, conteniendo información de compras y preferencias de productos                                |
+| Company                  | Representa a una empresa en nuestra aplicación, conteniendo información de ventas y productos en stock                                       |
+| Product                  | Representa un producto en nuestra aplicación, conteniendo información de nombre, descripción, precio y stock                                 |
+| ShoppingCart             | Representa el carrito de compras de un cliente en nuestra aplicación, conteniendo productos seleccionados y total a pagar                    |
+|Purchase | Representa una compra realizada por un cliente en nuestra aplicación, conteniendo información de productos adquiridos y total pagado         |
+| Payment | Representa la información del pago realizado por un Purchase en nuestra aplicación, conteniendo método de pago y monto pagado                |
+| PaymentController | Controlador para el proceso de pago de un Purchase                                                                                           |
+| ExternalPaymentService | Clase que interactúa con un servicio externo para procesar pagos de un Purchase                                                              |
+|CartItem | Representa un producto seleccionado por un cliente en el carrito de compras, conteniendo información de producto y cantidad seleccionada     |
+|Review | Representa una reseña realizada por un cliente sobre un producto en nuestra aplicación, conteniendo calificación y comentario                |
+|PublicationListController | Controlador para la gestión y visualización  de productos en venta de una Company en nuestra aplicación                                      |
+|HistoryController | Controlador para la gestión y visualización de compras y ventas realizadas por un Customer o Company en nuestra aplicación                   |
+|Message | Representa un mensaje enviado por un usuario a otro en nuestra aplicación, conteniendo información de emisor, receptor y contenido          |
+|Conversation | Representa una conversación entre dos usuarios en nuestra aplicación, conteniendo mensajes enviados y usuarios participantes                |
+|CardLinkingController | Controlador para el proceso de vinculación de tarjetas de crédito a una cuenta de usuario en nuestra aplicación                              |
+|ExternalPaymentService | Crea un metodo de pago externo que se asocia con CardLinkingController para procesar pagos de un Purchase                                    |
+|PaymentMethod | Representa un método de pago asociado a una cuenta de usuario en nuestra aplicación, conteniendo información de tarjeta y dirección de facturación |
+|ManageProducts | Controlador para la gestión y visualización de productos en venta de una Company en nuestra aplicación                                      |
+|Donation | Representa una donación realizada por un cliente en nuestra aplicación, conteniendo información de monto y causa                             |
+|Ong | Representa una organización no gubernamental en nuestra aplicación, conteniendo información de causas y donaciones recibidas                   |
+| Category | Representa una categoría de productos en nuestra aplicación, conteniendo información de nombre y productos asociados                        |
+
 </div>
 
 </div>
