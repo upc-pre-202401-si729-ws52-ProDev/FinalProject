@@ -854,16 +854,142 @@ En esta sección detallaremos el diseño de la base de datos de la aplicación E
 Se presenta el modelo físico de la base de datos de EcoMarket, el cual fue realizado en la herramienta de Vertabelo. 
 <img src="imagenes/EcoMarketDatabaseDiagram.png">
 </div>
-
 </div>
 
-<div id='5.'><h2>Capítulo 5: Product Development</h2></div>
-
+<div id='5.'><h2>Capítulo 5: Product Implementation, Validation & Deployment. </h2></div>
+En este capítulo se presentará el desarrollo del producto EcoMarket, detallando las etapas de implementación, pruebas y despliegue de la aplicación.
+Se describirán los procesos y herramientas utilizadas para llevar a cabo el desarrollo del producto, así como los resultados obtenidos y las lecciones aprendidas durante el proceso. 
+ 
 <div id='5.1.'><h3> 5.1. Software Configuration Management.</h3></div>
+En esta sección establecemos las decisiones y convenciones que nos permitirán mantener la consistencia durante el ciclo de vida de nuestro producto.
+<div id='5.1.1'><h4>5.1.1. Software Development Environment Configuration.</h4></div>
+En esta sección describimos nuestros productos y herramientas utilizadas para el desarrollo de EcoMarket, así como la documentación y repositorios asociados a nuestro proyecto.
+
+
+- Documentación Producto: [EcoMarket]()   Realizamos nuestra documentación en un repositorio de nuestra organización en GitHub Pro Dev, para mantener un control de versiones y colaboración eficiente.
+- Repositorio de GitHub: [EcoMarket]()  Utilizamos GitHub para alojar nuestro código fuente y colaborar en el desarrollo de EcoMarket.
+- Product UX/UI Design: [EcoMarket]() Figma es la herramienta que utilizamos para el diseño de la interfaz de usuario y experiencia de usuario de EcoMarket.
+- Requirements Management: [EcoMarket]() Trello es la herramienta que utilizamos para la gestión de requisitos y seguimiento de tareas en EcoMarket.
+- Software Testing: [EcoMarket]() Gherkin es el lenguaje de especificación que utilizamos para escribir pruebas de aceptación en EcoMarket.
+- Software Development: [EcoMarket]() Java, Html, CSS, JavaScript and Angular son los lenguajes y tecnologías que utilizamos para el desarrollo de EcoMarket.
+- Software Deployment: [EcoMarket]() Git es la herramienta que utilizamos para el despliegue de EcoMarket en un entorno de producción.
+<div id='5.1.2'><h4>5.1.2. Source Code Management.</h4></div>
+
+Nuestro proyecto EcoMarket se encuentra alojado en un repositorio de GitHub, donde se gestionan las versiones del código fuente y se colabora en el desarrollo del producto.
+Tenemos cómo convención el manejo de GitFlow, donde se utilizan las ramas main, develop, feature, release y hotfix para organizar el flujo de trabajo y mantener un control de versiones eficiente.
+Repositorio de GitHub: [RepositorioGitHub]()
+El flujo de trabajo de GitFlow se describe a continuación:
+- La rama main contiene la versión estable y en producción del producto.
+- La rama develop contiene la versión en desarrollo del producto.
+- Las ramas feature se utilizan para desarrollar nuevas funcionalidades del producto.
+- Las ramas release se utilizan para preparar la versión de producción del producto.
+- Las ramas hotfix se utilizan para corregir errores críticos en la versión de producción del producto.
+- Se utilizan pull requests para revisar y aprobar los cambios antes de fusionar las ramas.
+
+Imagen que ilustra el flujo de trabajo de GitFlow:
+
+<img src="imagenes/GitFlow.png">
+
+Los commits están detallados por Conventional Commits, donde se utiliza un formato estándar para describir los cambios realizados en el código fuente. 
+
+<div id='5.1.3'><h4>5.1.3. Source Code Style Guide & Conventions.</h4></div>
+
+Detallaremos las convenciones que tomamos en cuenta para mantener un código limpio y legible en nuestro proyecto EcoMarket en la primera fase de Landing Page.
+
+- HTML: Detallaremos prácticas que seguimos para tener un código HTML limpio y legible.
+- - Identación de etiquetas: Utilizamos una tabulación de dos espacios para indentar las etiquetas HTML.
+- - Comentarios: Utilizamos comentarios HTML para documentar el código y explicar su funcionalidad.
+- - Convención nombre de id: Todo id debe ser descriptivo y en minúsculas, utilizando guiones bajos para separar palabras.
+
+- CSS: Detallaremos prácticas que seguimos para tener un código CSS limpio y legible.
+- - Identación de reglas: Utilizamos una tabulación de dos espacios para indentar las reglas CSS.
+- - Comentarios: Utilizamos comentarios CSS para documentar el código y explicar su funcionalidad.
+- - Convención nombre de clases: Todo nombre de clase debe ser descriptivo y en minúsculas, utilizando guiones bajos para separar palabras.
+
+- JavaScript: Detallaremos prácticas que seguimos para tener un código JavaScript limpio y legible.
+- - Identación de bloques: Utilizamos una tabulación de dos espacios para indentar los bloques de código JavaScript.
+- - Comentarios: Utilizamos comentarios JavaScript para documentar el código y explicar su funcionalidad.
+
+
+<div id='5.1.4'><h4>5.1.4. Software Deployment Configuration.</h4></div>
+En estac sección detallaremos el proceso de despliegue de la aplicación EcoMarket en un entorno de producción. Para ello, se describirán las herramientas y servicios utilizados, así como los pasos y configuraciones necesarias para llevar a cabo el despliegue de la aplicación.
+
+- Landing Page Deployment:
+- - GitHub Pages: Utilizamos GitHub Pages para alojar la Landing Page de EcoMarket en un entorno de producción.
+
+Se detallan fotos de la configuración y despliegue de nuestra landing page
 
 <div id='5.2.'><h3> 5.2. Landing Page, Services & Applications Implementation.</h3></div>
 
+En esta sección explicaremos y evidenciaremos el proceso de implementación, pruebas, documentación y despliegue de todos los productos de EcoMarket. 
+Donde detallamos por sprint las actividades realizadas y los resultados obtenidos en cada uno de ellos.
 
+<div id='5.2.1'><h4>5.2.1. Sprint 1</h4> </div>
+Nuestro Sprint #1 se basa en la implementación de la Landing Page de EcoMarket, donde se detallan las actividades realizadas y los resultados obtenidos en cada una de ellas.
+<div id="5.2.1.1"><h5>5.2.1.1. Sprint Planning 1</h5></div>
+
+| Sprint #                           | Sprint 1   | 
+|------------------------------------|------------|
+| **Sprint Planning Background**         |
+| Date                               | 2023-04-17 |
+| Time                               | 3 weeks    |
+| Location                           | Remote |
+| Prepared by                        | Product Owner |
+| Attendaces(to planning meeting)    | Product Owner, Scrum Master, Development Team |
+| Sprint n – 1 Review Summary        | |
+| Sprint n – 1 Retrospective Summary | |
+| **Sprint Goal & User Stories**         |
+| Sprint 1 Goal                      | Implementar la Landing Page de EcoMarket |
+|Sprint Velocity                     | 8 |
+|Sum of Story Points                 | 8 |
+
+<div id="5.2.1.2"><h5>5.2.1.2. Sprint Backlog 1</h5></div>
+
+|Sprint # 1 |                | | |             |                   |             |                                         |
+|-----------|----------------|-|-|-------------|-------------------|-------------|-----------------------------------------|
+| User Story | Work-Item Task |
+|Id | Title | Id | Title | Description | Estimation(Hours) | Assigned To | Status(To-Do/In-Process/To-Review/Done) |
+| US001 | Crear estructura HTML | 1.1 | Crear archivo index.html | Crear el archivo index.html con la estructura básica de una página web | 2 | Developer 1 | Done |
+
+
+<div id="5.2.1.3"><h5>5.2.1.3. Development Evidence for Sprint Review.</h5></div> 
+En esta sección se presentan las evidencias de desarrollo de la Landing Page de EcoMarket, donde se detallan los commits realizados.
+
+|Repository | Branch | Commit Id| Commit Message      | Commit Message Body | Commited on (Date) |
+|-----------|--------|----------|---------------------|---------------------|--------------------|
+| EcoMarket | main | 123456 | feat:Initial commit | Create index.html | 2023-04-17 |
+
+
+
+<div id="5.2.1.4"><h5>5.2.1.4. Testing Suite Evidence for Sprint Review.</h5></div> 
+En esta sección se presentan las evidencias de las pruebas realizadas en la Landing Page de EcoMarket, donde se detallan los resultados obtenidos.
+
+|Repository | Branch | Commit Id| Commit Message      | Commit Message Body | Commited on (Date) |
+|-----------|--------|----------|---------------------|---------------------|--------------------|
+| EcoMarket | main | 123456 | test:Initial commit | Create index.html | 2023-04-17 |
+<div id="5.2.1.5"><h5>5.2.1.5. Execution Evidence for Sprint Review.</h5></div> 
+En este Sprint pudimos detallar los requisitos y Needfinding de nuestros usuarios. Y de esta manera realizar nuestra documentacion:
+<img src="imagenes/Needfinding.png">
+
+Posteriormente realizamos nuestras User Stories:
+
+<img src="imagenes/UserStories.png">
+
+Desarrollamos nuestra Landing Page y documentamos nuestro proceso:
+
+<img src="imagenes/LandingPage.png">
+<img src="imagenes/Documentacion.png">
+
+<div id="5.2.1.6"><h5>5.2.1.6. Services Documentation Evidence for Sprint Review.</h5></div> 
+Las evidencias de este sprint son la documentación de los servicios utilizados en la implementación de la Landing Page de EcoMarket.
+
+<div id="5.2.1.7"><h5>5.2.1.7. Software Deployment Evidence for Sprint Review. </h5></div> 
+
+Las evidencias para el desarrollo en este sprint son el despliegue de la Landing Page de EcoMarket en un entorno de producción.
+
+<div id="5.2.1.8"><h5>5.2.1.8. Team Collaboration Insights during Sprint.</h5></div> 
+
+Se adjuntan las evidencias de colaboración del equipo durante el Sprint #1 de EcoMarket por integrante.
 
 <div id='Conclusiones'><h2>Conclusiones</h2></div>
 
@@ -885,6 +1011,7 @@ https://www.salecycle.com/es/blog/estadisticas/rebajas-estadisticas-marketing/
 - Repositorio de GitHub:
 - Artefacto User Persona: https://uxpressia.com/w/ezex3/p/WoZAm https://uxpressia.com/w/ezex3/p/uLv62
 - Artefacto User Journey Mapping:
+
 
 </div>
 
