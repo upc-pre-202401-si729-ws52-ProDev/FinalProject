@@ -646,28 +646,131 @@ Se presenta para el segmento de empresarios:
   <td>Como desarrollador que trabaja en la aplicación de EcoMarket, quiero registrar a una nueva organización mediante una API para visualizar las organizaciones afiliadas a nuestra aplicación</td> 
   <td><strong>Escenario 1:</strong>  
     
-<strong>Given</strong> que tengo acceso a la API de registro de organizaciones,  
+<strong>Given</strong> tengo acceso a la API de registro de organizaciones,  
 <strong>When</strong> envío una solicitud con datos válidos de una nueva organización,  
 <strong>Then</strong> la organización se registra exitosamente en la base de datos y recibo una confirmación.
   
   <strong>Escenario 2:</strong>  
-<strong>Given</strong> que tengo acceso a la API de registro de organizaciones,  
+<strong>Given</strong> tengo acceso a la API de registro de organizaciones,  
 <strong>When</strong> envío una solicitud con datos inválidos de una nueva organización,  
-<strong>Then</strong> la solicitud es rechazada y recibo un mensaje de error adecuado.</td></tr>
+<strong>Then</strong> la solicitud es rechazada y recibo un mensaje de error adecuado.</td> <td>-</td></tr>
 
 <tr><th>TS02</th> <td>Get Organization</td> 
   <td>Como desarrollador que trabaja en la aplicación de EcoMarket, quiero obtener la información de una organización mediante una API para mostrarla en la aplicación cuando se solicite</td> 
   <td><strong>Escenario 1:</strong>  
     
-<strong>Given</strong> que tengo acceso a la API de obtención de información de organizaciones,  
+<strong>Given</strong> tengo acceso a la API de obtención de información de organizaciones,  
 <strong>When</strong> solicito la información de una organización existente,  
 <strong>Then</strong> recibo la información de la organización en el formato esperado.  
   
   <strong>Escenario 2:</strong>  
-<strong>Given</strong> que tengo acceso a la API de obtención de información de organizaciones,  
-<strong>When</strong> olicito la información de una organización que no existe,  
-<strong>Then</strong> lrecibo un mensaje de error adecuado.</td></tr>
+<strong>Given</strong> tengo acceso a la API de obtención de información de organizaciones,  
+<strong>When</strong> solicito la información de una organización que no existe,  
+<strong>Then</strong> recibo un mensaje de error adecuado.</td> <td>-</td></tr>
 
+<tr><th>TS03</th> <td>Post User</td> 
+  <td>Como desarrollador que trabaja en la aplicación de EcoMarket quiero registrar a un nuevo usuario mediante una API para visualizar los usuarios afiliados a nuestra aplicación</td> 
+  <td><strong>Escenario 1:</strong>  
+    
+<strong>Given</strong> tengo acceso a la API de registro de usuarios,  
+<strong>When</strong> envío una solicitud con datos válidos de un nuevo usuario,  
+<strong>Then</strong> el usuario se registra exitosamente en la base de datos y recibo una confirmación.  
+  
+  <strong>Escenario 2:</strong>  
+<strong>Given</strong> tengo acceso a la API de registro de usuarios,  
+<strong>When</strong> envío una solicitud con datos inválidos de un nuevo usuario,  
+<strong>Then</strong> la solicitud es rechazada y recibo un mensaje de error adecuado.</td> <td>-</td></tr>
+
+<tr><th>TS04</th> <td>Get User</td> 
+  <td>Como desarrollador que trabaja en la aplicación de EcoMarket quiero obtener la información de un usuario mediante una API para mostrarla en la aplicación cuando se solicite.</td> 
+  <td><strong>Escenario 1:</strong>  
+    
+<strong>Given</strong> tengo acceso a la API de obtención de información de usuarios,  
+<strong>When</strong> solicito la información de un usuario existente,  
+<strong>Then</strong> recibo la información del usuario en el formato esperado.  
+  
+  <strong>Escenario 2:</strong>  
+<strong>Given</strong> tengo acceso a la API de obtención de información de usuarios,  
+<strong>When</strong> solicito la información de un usuario que no existe,  
+<strong>Then</strong> recibo un mensaje de error adecuado.</td> <td>-</td></tr>
+
+<tr><th>TS05</th> <td>Post Payment Cards</td> 
+  <td>Como desarrollador que trabaja en la aplicación de EcoMarket, quiero registrar la información de pago de las organizaciones mediante una API para contar con la información para pagos futuros.</td> 
+  <td><strong>Escenario 1:</strong>  
+    
+<strong>Given</strong> tengo acceso a la API de registro de tarjetas de pago,  
+<strong>When</strong> envío una solicitud con datos válidos de una tarjeta de pago para una organización,  
+<strong>Then</strong> la tarjeta de pago se registra exitosamente en la base de datos y recibo una confirmación.  
+  
+  <strong>Escenario 2:</strong>  
+<strong>Given</strong> tengo acceso a la API de registro de tarjetas de pago,  
+<strong>When</strong> envío una solicitud con datos inválidos de una tarjeta de pago,  
+<strong>Then</strong> la solicitud es rechazada y recibo un mensaje de error adecuado.</td> <td>-</td></tr>
+
+<tr><th>TS06</th> <td>Get Payment Cards</td> 
+  <td>Como desarrollador que trabaja en la aplicación de EcoMarket, quiero obtener la información de pago de las organizaciones mediante una API para recibir los pagos en la aplicación cuando sea solicite</td> 
+  <td><strong>Escenario 1:</strong>  
+    
+<strong>Given</strong> tengo acceso a la API de obtención de información de tarjetas de pago,  
+<strong>When</strong> solicito la información de tarjetas de pago de una organización,  
+<strong>Then</strong> recibo la información de las tarjetas de pago en el formato esperado.  
+  
+  <strong>Escenario 2:</strong>  
+<strong>Given</strong> tengo acceso a la API de obtención de información de tarjetas de pago,  
+<strong>When</strong> solicito la información de tarjetas de pago de una organización que no tiene tarjetas registradas,  
+<strong>Then</strong> recibo un mensaje indicando que no hay tarjetas registradas.</td> <td>-</td></tr>
+
+<tr><th>TS07</th> <td>Post Orders</td> 
+  <td>Como desarrollador que trabaja en la aplicación de EcoMarket, quiero registrar a una nueva orden mediante una API para mantener el registro de los pedidos</td> 
+  <td><strong>Escenario 1:</strong>  
+    
+<strong>Given</strong> tengo acceso a la API de registro de pedidos,  
+<strong>When</strong> envío una solicitud con datos válidos de una nueva orden,  
+<strong>Then</strong> la orden se registra exitosamente en la base de datos y recibo una confirmación.  
+  
+  <strong>Escenario 2:</strong>  
+<strong>Given</strong> tengo acceso a la API de registro de pedidos,  
+<strong>When</strong> envío una solicitud con datos inválidos de una nueva orden,  
+<strong>Then</strong> la solicitud es rechazada y recibo un mensaje de error adecuado.</td> <td>-</td></tr>
+
+<tr><th>TS08</th> <td>Get Orders</td> 
+  <td>Como desarrollador que trabaja en la aplicación de EcoMarket, quiero obtener la informacion de las ordenes mediante una API para mostrarla en la aplicacion cuando se necesite</td> 
+  <td><strong>Escenario 1:</strong>  
+    
+<strong>Given</strong> tengo acceso a la API de obtencion de informacion de los pedidos,  
+<strong>When</strong> solicito la informacion de las ordenes realizadas,  
+<strong>Then</strong> Recibo la informacion de las ordenes en el formato esperado  
+  
+  <strong>Escenario 2:</strong>  
+<strong>Given</strong> tengo acceso a la API de obtencion de informacion de los pedidos,  
+<strong>When</strong> solicito la informacion de las ordenes pero no se ha realizado ninguna orden,  
+<strong>Then</strong> Recibo un mensaje indicando que aun no se han realizado pedidos</td> <td>-</td></tr>
+
+<tr><th>TS09</th> <td>Get Orders by selected product</td> 
+  <td>Como desarrollador que trabaja en la aplicación de EcoMarket, quiero obtener la información de las ordenes que tienen un o varios productos en comun mediante una API para mostrarla en la aplicación cuando sea solicite.</td> 
+  <td><strong>Escenario 1:</strong>  
+    
+<strong>Given</strong> tengo acceso a la API de obtencion de informacion de los ordenes por productos seleccionados,  
+<strong>When</strong> solicito la informacion de las ordenes realizadas segun el producto seleccionado,  
+<strong>Then</strong> Recibo la informacion de las ordenes segun el producto seleccionado en el formato esperado.  
+  
+  <strong>Escenario 2:</strong>  
+<strong>Given</strong> tengo acceso a la API de obtencion de informacion de los ordenes por productos seleccionados,  
+<strong>When</strong> solicito la informacion de las ordenes que contienen un pedido aun no registrado,  
+<strong>Then</strong> Recibo un mensaje de error adecuado.</td> <td>-</td></tr>
+
+<tr><th>TS09</th> <td>Get Orders by user</td> 
+  <td>Como desarrollador que trabaja en la aplicación de EcoMarket, quiero obtener la información de los pedidos que ha realizado un usuario en concreto mediante una API para mostrarla en la aplicación cuando sea solicite.</td> 
+  <td><strong>Escenario 1:</strong>  
+    
+<strong>Given</strong> tengo acceso a la API de obtencion de informacion de las ordenes segun el usuario,  
+<strong>When</strong> solicito la informacion de los pedidos que ha realizado un usuario,  
+<strong>Then</strong> Recibo la informacion de las ordenes que ha realizado el usuario seleccionado en el formato esperado.  
+  
+  <strong>Escenario 2:</strong>  
+<strong>Given</strong> tengo acceso a la API de obtencion de informacion de los ordenes por usuario,  
+<strong>When</strong> solicito la informacion de las ordenes de un usuario que aun no ha realizado pedidos,  
+<strong>Then</strong> Recibo un mensaje indicando que no hay registro de pedidos realizados por dicho usuario</td> <td>-</td></tr>
 </table>
 
 <h3>3.3 Impact Mapping</h3>
