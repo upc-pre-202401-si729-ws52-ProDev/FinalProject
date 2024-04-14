@@ -866,16 +866,19 @@ Se presenta para el segmento de empresarios:
 <div id='4.1.1'><h4>4.1.1. General Style Guidelines.</h4>
 Branding: Nuestro logo se expresa mediante un carro de compras, el cual representa la acción de ir de compras. Este carrito transmite la idea de tener que ir a por compras de  alimentos para el hogar, lo que refleja la idea de negocio. El carro se representa en un fondo negro y delineado con un color blanco, que al ser colores opuestos generan que el usuario tome énfasis en el logo. Además de haber utilizado estos colores por temas estéticos.
 
-
-
 <img src="./imagenes/logo2.png">
-
 
 Typography: Para la tipografía se seleccionó el estilo ‘Titan One’ por la confianza que transmite sin dejar de lado la legibilidad. Estas fuentes ofrecen una apariencia moderna y amigable, sin dejar de lado el lado serio.
 
-
-
 <img src="./imagenes/tipografia.png" >
+
+Colors: Nuestros colores principales los cuales representarán nuestra aplicación web han sido cuidadosamente seleccionados por su combinación de facilidad visual y el color amistoso que transmite al usuario. El primer color que tenemos es el #F8BD00 el cual en el contexto de ventas tiene un significado de crecimiento o incremento, dando a entender que el negocio va de manera creciente en cuanto a ventas y de manera colateral transmitir confianza debido a ello. El siguiente color que tenemos es el #25328B el cual se encarga de transmitir positivismo y confianza en el usuario. En cuanto a los colores #FFFFFF y #000000 se utilizaron para crear contraste en los textos utilizados y a la vez crear un aspecto más estético.
+
+<img src="./imagenes/colors.png" >
+
+Spacing: En nuestra landing page de EcoMarket, el espaciado juega un papel importante como divisor de la información proporcionada a nuestros usuarios. Es fundamental que la web sea intuitiva, en la cuál se pueda navegar de forma sencilla. Por ello presentamos la información de manera ordenada, con un espaciado que permite ver la información legible.
+
+Tono de Comunicación y lenguaje aplicado: Entendemos que evitar el desperdicio de los alimentos requiere dedicación y compromiso. En nuestra plataforma, nos esforzamos por acompañarte en cada paso de este camino. Nuestro tono de comunicación y lenguaje se distingue por ser respetuoso y entusiasta, alentandote a comprar nuestros productos, no solo por el precio accesible, sino pensando en que contribuyes a que no se desperdicien los alimentos.. Así como la UPC  inspira a sus estudiantes a alcanzar sus metas, nosotros te motivamos a dar lo mejor para el bienestar de tus mascotas
 
 
 <div id='4.2.'><h3> 4.2. Information Architecture</h3>
