@@ -1074,16 +1074,12 @@ En esta sección describimos nuestros productos y herramientas utilizadas para e
 
 - Documentación Producto: [EcoMarket]()   Realizamos nuestra documentación en un repositorio de nuestra organización en GitHub Pro Dev, para mantener un control de versiones y colaboración eficiente.
 - Repositorio de GitHub: [EcoMarket]()  Utilizamos GitHub para alojar nuestro código fuente y colaborar en el desarrollo de EcoMarket.
-- Product UX/UI Design: [EcoMarket]() Figma es la herramienta que utilizamos para el diseño de la interfaz de usuario y experiencia de usuario de EcoMarket.
-- Requirements Management: [EcoMarket]() Trello es la herramienta que utilizamos para la gestión de requisitos y seguimiento de tareas en EcoMarket.
-- Software Testing: [EcoMarket]() Gherkin es el lenguaje de especificación que utilizamos para escribir pruebas de aceptación en EcoMarket.
-- Software Development: [EcoMarket]() Java, Html, CSS, JavaScript and Angular son los lenguajes y tecnologías que utilizamos para el desarrollo de EcoMarket.
-- Software Deployment: [EcoMarket]() Git es la herramienta que utilizamos para el despliegue de EcoMarket en un entorno de producción.
+- Software Development: [Landing Page]() Java, Html, CSS, JavaScript and Angular son los lenguajes y tecnologías que utilizamos para el desarrollo de EcoMarket.
 <div id='5.1.2'><h4>5.1.2. Source Code Management.</h4></div>
 
 Nuestro proyecto EcoMarket se encuentra alojado en un repositorio de GitHub, donde se gestionan las versiones del código fuente y se colabora en el desarrollo del producto.
 Tenemos cómo convención el manejo de GitFlow, donde se utilizan las ramas main, develop, feature, release y hotfix para organizar el flujo de trabajo y mantener un control de versiones eficiente.
-Repositorio de GitHub: [RepositorioGitHub]()
+Repositorio de GitHub: [RepositorioGitHub](https://github.com/upc-pre-202401-si729-ws52-ProDev/FinalProject/tree/main)
 El flujo de trabajo de GitFlow se describe a continuación:
 - La rama main contiene la versión estable y en producción del producto.
 - La rama develop contiene la versión en desarrollo del producto.
@@ -1091,6 +1087,10 @@ El flujo de trabajo de GitFlow se describe a continuación:
 - Las ramas release se utilizan para preparar la versión de producción del producto.
 - Las ramas hotfix se utilizan para corregir errores críticos en la versión de producción del producto.
 - Se utilizan pull requests para revisar y aprobar los cambios antes de fusionar las ramas.
+
+Para el desarrollo de nuestro informe desarrollamos en la rama develop para luego fusionarlo con main y cumplir el GitFlow
+
+<img src="imagenes/GitFlowEcoMarket.png">
 
 Imagen que ilustra el flujo de trabajo de GitFlow:
 
