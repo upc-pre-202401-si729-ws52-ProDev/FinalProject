@@ -14,20 +14,19 @@
 ## Team Members
 |              Nombre               | Código de alumno |
 |:---------------------------------:|:----------------:|
-|                                   |                  |
 |  Quispe Condori, Fernando Daniel  |    U20221C628    |
 |  Cortes Hidalgo, Nicolas Andres   |    U202016311    |
 | Salazar Saldarriaga, Frank Junior |    U20181H103    |
 |Macedo Calsina, Anderson Walter    |    U20201C179    |
 
 ## Registro de versiones del informe
-|   Fecha    | Versión |      Autor      |              Descripción de modificación               |
-|:----------:|:-------:|:---------------:|:------------------------------------------------------:|
-| 01/04/2024 |   1.0   | Quispe Fernando |     Creación de nuestro repositorio e inicio en capítulo 1    |
-| 08/04/2024 |   1.1   |  Salazar Frank  |              Actualizació del informe capitulo 1              |
-| 09/04/2024 |   1.2   |  Cortes Nicolas | Elaboracion de user stories, product backlog e impact mapping |
-| 12/04/2024 |   1.3   |  Cortes Nicolas |  Elaboracion de los diagramas c4, mejora de los user stories  |
-
+|   Fecha    | Versión |      Autor      |                   Descripción de modificación                    |
+|:----------:|:-------:|:---------------:|:----------------------------------------------------------------:|
+| 01/04/2024 |   1.0   | Quispe Fernando |      Creación de nuestro repositorio e inicio en capítulo 1      |
+| 08/04/2024 |   1.1   |  Salazar Frank  |               Actualizació del informe capitulo 1                |
+| 09/04/2024 |   1.2   | Cortes Nicolas  |  Elaboracion de user stories, product backlog e impact mapping   |
+| 12/04/2024 |   1.3   | Cortes Nicolas  |   Elaboracion de los diagramas c4, mejora de los user stories    |
+| 12/04/2024 |   1.4   | Quispe Fernando | Incorporación diagrama de clases y modelado Diseño Base de datos |
 ## Project Report Collaboration Insights
 
 
@@ -344,7 +343,33 @@ A continuacion se presentan las preguntas para el sector de Empresas
 
 
   <div id='2.2.2.'><h4> 2.2.2. Registro de entrevistas</h4></div>
+
+***Entrevistas a empresas***
+
+| Nombre entrevistado                     | Stephanie Ccama                                                                                                                                                                                                                                                                                                             |
+|-----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Edad                                    | 19 años                                                                                                                                                                                                                                                                                                                     |
+| Departamento                            | Lima                                                                                                                                                                                                                                                                                                                        |
+| <img src="imagenes/EntrevistEmpresa1.png"/> | En esta entrevista nos detalla acerca de su empresa familiar la cuál ella administra, dónde menciona que ante productos defectuosos y/o con fecha de vencimientos muchas veces lo que hacen es botarlo. Estarían dispuesta a usar nuestra aplicación y también a realizar muchas donaciones.                             |
+| Duración entrevista: 03:37 min          | [URL](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221c628_upc_edu_pe/Ea8IgRWiDqlJuIEa1LVY5OABIZSASae-pZPRl-coy46yVw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=CUrpvW) |
+
+
   <div id='2.2.3.'><h4> 2.2.3. Análisis de entrevistas</h4></div>
+
+<p>En esta sección se presentará el análisis de las entrevistas realizadas a los usuarios. Se presentarán las respuestas obtenidas y se realizará un análisis de las mismas.</p>
+
+SEGMENTO EMPRESAS:
+- Nos detallan que sí estan dispuestos a usar nuestra aplicación.
+- Están dispuestos a realizar donaciones.
+- En muchas ocasiones botan los productos defectuosos y/o con fecha de vencimiento.
+-   Les llama la atención la idea de vender productos a punto de vencer y/o defectuosos a un precio más bajo a través de nuestra plataforma.
+-   Están abiertos a tener un sistema de ventas a través de MarketPlace. 
+
+SEGMENTO CLIENTES:
+-   Nos detallan que sí estan dispuestos a usar nuestra aplicación.
+-  Les llama la atención la idea de comprar productos a punto de vencer y/o defectuosos a un precio más bajo a través de nuestra plataforma.
+- Lo que buscan es encontrar 
+
 
   <div id='2.3.'><h3> 2.3. Needfinding</h3></div>
   <h4>2.3.1 User Persona</h4>
@@ -1175,7 +1200,7 @@ https://www.salecycle.com/es/blog/estadisticas/rebajas-estadisticas-marketing/
 - Artefacto User Persona: https://uxpressia.com/w/ezex3/p/WoZAm https://uxpressia.com/w/ezex3/p/uLv62
 - Artefacto User Journey Mapping:
 
-
+</div>
 </div>
 
 
