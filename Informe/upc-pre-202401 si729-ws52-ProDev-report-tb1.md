@@ -833,8 +833,9 @@ Se presenta para el segmento de empresarios:
 
 <div id='4.'><h2>Capítulo 4: Product Design</h2></div>
 <div id='4.1.'><h3> 4.1. Style Guidelines</h3></div>
-
-
+<div id='4.1.1'><h4>4.1.1. General Style Guidelines.</h4>
+Branding: Nuestro logo se expresa mediante un carro de compras, el cual representa la acción de ir de compras. Este carrito transmite la idea de tener que ir a por compras de  alimentos para el hogar, lo que refleja la idea de negocio. El carro se representa en un fondo negro y delineado con un color blanco, que al ser colores opuestos generan que el usuario tome énfasis en el logo. Además de haber utilizado estos colores por temas estéticos.
+  
 <div id='4.2.'><h3> 4.2. Information Architecture</h3>
 En esta sección detallaremos la arquitectura de información de nuestro diseño UX para tener documentado y una percepción del tipo de organización que tendremos en nuestros productos para nuestros usuarios.
 
