@@ -23,25 +23,27 @@
 |   Fecha    | Versión |      Autor      |                   Descripción de modificación                    |
 |:----------:|:-------:|:---------------:|:----------------------------------------------------------------:|
 | 01/04/2024 |   1.0   | Quispe Fernando |      Creación de nuestro repositorio e inicio en capítulo 1      |
-| 08/04/2024 |   1.1   |  Salazar Frank  |               Actualizació del informe capitulo 1                |
-| 09/04/2024 |   1.2   | Cortes Nicolas  |  Elaboracion de user stories, product backlog e impact mapping   |
-| 12/04/2024 |   1.3   | Cortes Nicolas  |   Elaboracion de los diagramas c4, mejora de los user stories    |
+| 08/04/2024 |   1.1   |  Salazar Frank  |               Actualización del informe capitulo 1               |
+| 09/04/2024 |   1.2   | Cortes Nicolas  |  Elaboración de user stories, product backlog e impact mapping   |
+| 12/04/2024 |   1.3   | Cortes Nicolas  |   Elaboración de los diagramas c4, mejora de los user stories    |
 | 12/04/2024 |   1.4   | Quispe Fernando | Incorporación diagrama de clases y modelado Diseño Base de datos |
+| 12/04/2024 |   1.4   |      Todos      |                   Revisión final - Entrega TB1                   |
 ## Project Report Collaboration Insights
 
 
-URL del repositorio del proyecto:
+URL de la organización en Github del proyecto: https://github.com/upc-pre-202401-si729-ws52-ProDev 
 
 **TB1**
 
-|            Integrante             |                                                           Tareas Asignadas                                                           |
-|:---------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------:|
-|  Quispe Condori, Fernando Daniel  |                                     Elaboración Preguntas de Entrevitas - Artefactos Capítulo 2                                      |
+|            Integrante             |                                                                                    Tareas Asignadas                                                                                     |
+|:---------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|  Quispe Condori, Fernando Daniel  |                    Elaboración Preguntas de Entrevitas - Artefactos Capítulo 2  , Elaboración Diagrama de clases, Diagrama de base de datos. Colaboración en general                    |
 |  Cortes Hidalgo, Nicolas Andres   | Elaboracion de los Emphaty maps, As-Is y To-Be Scenario Mapping, Ubiquitous Langiage, User Stories, Impact Mapping, Product Backlog y diagramas de contexto, contenedores y componentes |
-| Salazar Saldarriaga, Frank Junior |                            Startup Profile, Solution Profile, Lean UX, Segmentos Objetivos, Landing Page                             |
+| Salazar Saldarriaga, Frank Junior |                                                      Startup Profile, Solution Profile, Lean UX, Segmentos Objetivos, Landing Page                                                      |
+|Macedo Calsina, Anderson Walter    |                                                                 Web Application Design, Prototyping Design, Entrevistas                                                                 |
 
 
-***TB1 Github***
+***TB1 Github***: https://github.com/upc-pre-202401-si729-ws52-ProDev/FinalProject 
 
 
 ## Contenido
@@ -368,7 +370,7 @@ SEGMENTO EMPRESAS:
 SEGMENTO CLIENTES:
 -   Nos detallan que sí estan dispuestos a usar nuestra aplicación.
 -  Les llama la atención la idea de comprar productos a punto de vencer y/o defectuosos a un precio más bajo a través de nuestra plataforma.
-- Lo que buscan es encontrar 
+- Lo que buscan es encontrar productos a precio barato.
 
 
   <div id='2.3.'><h3> 2.3. Needfinding</h3></div>
@@ -444,6 +446,9 @@ Se presenta para el segmento de empresarios:
 | Precio | Costo de un producto |
 | Descuento | Reducción del precio de un producto |
 | Oferta | Producto con un precio reducido |
+|Donación | Entrega de productos a determinada ONG y/o institución |
+| Fecha de vencimiento | Fecha en la que un producto caduca |
+|Problema | Tipo de problema del producto con defecto y/o fecha de vencimiento |
 
 
 <h2>Capitulo III: Requirements Specification</h2>
@@ -885,6 +890,7 @@ En esta sección detallamos los sistemas de organización que utilizaremos en nu
     <li>Lista de productos: Se mostrará una lista de productos en venta, incluyendo imágenes, nombres, precios y cantidades disponibles, para que las empresas puedan gestionar y actualizar su inventario fácilmente.</li>
     <li>Historial de ventas: Se proporcionará un historial de ventas detallado para que las empresas puedan revisar todas las ventas anteriores, incluyendo productos vendidos, fechas, precios y métodos de pago utilizados.</li>
     <li>Perfil de empresa: Se mostrará un perfil detallado de la empresa, incluyendo información de contacto, dirección, horario de atención, métodos de pago aceptados y políticas de devolución, para que los clientes puedan conocer más sobre la empresa y sus productos.</li>
+    <li>Sección Donaciones: Se mostrará a detalle todas las donaciones realizadas por parte de la empresa.</li>
   </ul>
 </div>
 
@@ -978,7 +984,7 @@ En esta sección detalleremos los sistemas de navegación que utilizaremos en nu
 
 <div id='4.3.'><h3> 4.3. Wireframes</h3></div>
 
-<div id='4.4.'><h3> 4.4. Prototipo de alta fidelidad</h3></div>
+<div id='4.4.'><h3> 4.4. Web Applications UX/UI Design.</h3></div>
 
 <div id='4.5.'><h3> 4.5. Web Application Prototyping</h3></div>
 
@@ -1076,9 +1082,11 @@ El flujo de trabajo de GitFlow se describe a continuación:
 
 Imagen que ilustra el flujo de trabajo de GitFlow:
 
-<img src="imagenes/GitFlow.png">
+<img src="imagenes/GitFlowFlujo.png">
 
 Los commits están detallados por Conventional Commits, donde se utiliza un formato estándar para describir los cambios realizados en el código fuente. 
+
+<img src="imagenes/ConventionalCommit.png">
 
 <div id='5.1.3'><h4>5.1.3. Source Code Style Guide & Conventions.</h4></div>
 
