@@ -1332,7 +1332,7 @@ Fowler, M. (s. f.). bliki: Domain Driven Design. martinfowler.com. https://mart
 - Enlace Landing Page: https://upc-pre-202401-si729-ws52-prodev.github.io/LandingPage/
 - Enlace Informe: https://github.com/upc-pre-202401-si729-ws52-ProDev/FinalProject 
 - Enlace Diseño Figma: https://www.figma.com/file/2WKh7U7c7ffAzRhlY3ni09/Landing-Page?type=design&node-id=0%3A1&mode=design&t=ZxPaRkbQ0Ds3Fsfk-1
-- Enlace Video:     
+- Enlace Video:     https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221c628_upc_edu_pe/EcQ62Ws3OsFKke8cbTEPzwwBPv1e6kVuGJP_yCgbuYi20A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=DAb8gb 
 
 </div>
 </div>
