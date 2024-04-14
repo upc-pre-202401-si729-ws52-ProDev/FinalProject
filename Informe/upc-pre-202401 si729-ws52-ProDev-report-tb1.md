@@ -620,26 +620,54 @@ Se presenta para el segmento de empresarios:
 <strong>When</strong> el vendedor navega a la página de registro,  
 <strong>Then</strong> la aplicación muestra la página de registro para vendedores.  
 
-<strong>Escenario 2</strong>: Ingreso de Información de Registro  
-<strong>Given</strong> que el vendedor está en la página de registro,  
-<strong>When</strong> el vendedor ingresa la información requerida, como correo, nombre de empresa, RUC, dirección, teléfono y contraseña,  
+<strong>Escenario 2</strong>: Ingreso de Información de Registro   
+<strong>Given</strong> que el vendedor está en la página de registro,   
+<strong>When</strong> el vendedor ingresa la información requerida, como correo, nombre de empresa, RUC, dirección, teléfono y contraseña,   
 <strong>Then</strong> la aplicación permite al vendedor proporcionar la información necesaria para el registro.   
 
-<strong>Escenario 3:</strong> Validación de la Información de Registro   
-<strong>Given</strong> que el vendedor ha ingresado la información de registro,  
-<strong>When</strong> el vendedor hace clic en "Registrarse",  
+<strong>Escenario 3:</strong> Validación de la Información de Registro    
+<strong>Given</strong> que el vendedor ha ingresado la información de registro,   
+<strong>When</strong> el vendedor hace clic en "Registrarse",   
 <strong>Then</strong> la aplicación valida los datos ingresados para garantizar que sean correctos y completos.   
 
-<strong>Escenario 4:</strong> Creación de la Cuenta de Vendedor  
-<strong>Given</strong> que la información de registro ha sido validada con éxito,  
-<strong>When</strong> el vendedor confirma y crea la cuenta de vendedor,  
-<strong>Then</strong> la aplicación registra al vendedor en la plataforma  
-<strong>And</strong>  muestra un mensaje de confirmación.  
+<strong>Escenario 4:</strong> Creación de la Cuenta de Vendedor   
+<strong>Given</strong> que la información de registro ha sido validada con éxito,   
+<strong>When</strong> el vendedor confirma y crea la cuenta de vendedor,   
+<strong>Then</strong> la aplicación registra al vendedor en la plataforma   
+<strong>And</strong>  muestra un mensaje de confirmación.   
 
 <strong>Escenario 5:</strong> Error en el Registro   
-<strong>Given</strong> que la información de registro no es válida o está incompleta,  
-<strong>When</strong> el vendedor intenta registrarse sin proporcionar datos válidos,  
+<strong>Given</strong> que la información de registro no es válida o está incompleta,   
+<strong>When</strong> el vendedor intenta registrarse sin proporcionar datos válidos,   
 <strong>Then</strong> la aplicación muestra un mensaje de error indicando que el registro ha fallado y qué campos deben corregirse.</td> <th>EP005</th></tr>
+
+<tr><th colspan = "5">Segmento Landing Page</th></tr>
+<tr><th>TS01</th> <td>Post Organizacion</td> 
+  <td>Como desarrollador que trabaja en la aplicación de EcoMarket, quiero registrar a una nueva organización mediante una API para visualizar las organizaciones afiliadas a nuestra aplicación</td> 
+  <td><strong>Escenario 1:</strong>  
+    
+<strong>Given</strong> que tengo acceso a la API de registro de organizaciones,  
+<strong>When</strong> envío una solicitud con datos válidos de una nueva organización,  
+<strong>Then</strong> la organización se registra exitosamente en la base de datos y recibo una confirmación.
+  
+  <strong>Escenario 2:</strong>  
+<strong>Given</strong> que tengo acceso a la API de registro de organizaciones,  
+<strong>When</strong> envío una solicitud con datos inválidos de una nueva organización,  
+<strong>Then</strong> la solicitud es rechazada y recibo un mensaje de error adecuado.</td></tr>
+
+<tr><th>TS02</th> <td>Get Organization</td> 
+  <td>Como desarrollador que trabaja en la aplicación de EcoMarket, quiero obtener la información de una organización mediante una API para mostrarla en la aplicación cuando se solicite</td> 
+  <td><strong>Escenario 1:</strong>  
+    
+<strong>Given</strong> que tengo acceso a la API de obtención de información de organizaciones,  
+<strong>When</strong> solicito la información de una organización existente,  
+<strong>Then</strong> recibo la información de la organización en el formato esperado.  
+  
+  <strong>Escenario 2:</strong>  
+<strong>Given</strong> que tengo acceso a la API de obtención de información de organizaciones,  
+<strong>When</strong> olicito la información de una organización que no existe,  
+<strong>Then</strong> lrecibo un mensaje de error adecuado.</td></tr>
+
 </table>
 
 <h3>3.3 Impact Mapping</h3>
