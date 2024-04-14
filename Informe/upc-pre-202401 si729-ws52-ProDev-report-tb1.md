@@ -864,27 +864,27 @@ Se presenta para el segmento de empresarios:
 <div id='4.'><h2>Capítulo 4: Product Design</h2></div>
 <div id='4.1.'><h3> 4.1. Style Guidelines</h3></div>
 <div id='4.1.1'><h4>4.1.1. General Style Guidelines.</h4>
-Branding: Nuestro logo se expresa mediante un carro de compras, el cual representa la acción de ir de compras. Este carrito transmite la idea de tener que ir a por compras de  alimentos para el hogar, lo que refleja la idea de negocio. El carro se representa en un fondo negro y delineado con un color blanco, que al ser colores opuestos generan que el usuario tome énfasis en el logo. Además de haber utilizado estos colores por temas estéticos.
+Branding: Nuestro logo se expresa mediante un carro de compras, el cual representa la acción de ir de compras. Este carrito transmite la idea de tener que ir a por compras de  alimentos para el hogar, lo que refleja la idea de negocio. El carro se representa en un fondo negro y delineado con un color blanco, que al ser colores opuestos generan que el usuario tome énfasis en el logo. Además de haber utilizado estos colores por temas estéticos. <br>
 
-<img src="./imagenes/logo2.png">
+<img src="./imagenes/logo2.png"> <br>
 
-Typography: Para la tipografía se seleccionó el estilo ‘Titan One’ por la confianza que transmite sin dejar de lado la legibilidad. Estas fuentes ofrecen una apariencia moderna y amigable, sin dejar de lado el lado serio.
+Typography: Para la tipografía se seleccionó el estilo ‘Titan One’ por la confianza que transmite sin dejar de lado la legibilidad. Estas fuentes ofrecen una apariencia moderna y amigable, sin dejar de lado el lado serio. <br>
 
-<img src="./imagenes/tipografia.png" >
+<img src="./imagenes/tipografia.png" > <br>
 
-Colors: Nuestros colores principales los cuales representarán nuestra aplicación web han sido cuidadosamente seleccionados por su combinación de facilidad visual y el color amistoso que transmite al usuario. El primer color que tenemos es el #F8BD00 el cual en el contexto de ventas tiene un significado de crecimiento o incremento, dando a entender que el negocio va de manera creciente en cuanto a ventas y de manera colateral transmitir confianza debido a ello. El siguiente color que tenemos es el #25328B el cual se encarga de transmitir positivismo y confianza en el usuario. En cuanto a los colores #FFFFFF y #000000 se utilizaron para crear contraste en los textos utilizados y a la vez crear un aspecto más estético.
+Colors: Nuestros colores principales los cuales representarán nuestra aplicación web han sido cuidadosamente seleccionados por su combinación de facilidad visual y el color amistoso que transmite al usuario. El primer color que tenemos es el #F8BD00 el cual en el contexto de ventas tiene un significado de crecimiento o incremento, dando a entender que el negocio va de manera creciente en cuanto a ventas y de manera colateral transmitir confianza debido a ello. El siguiente color que tenemos es el #25328B el cual se encarga de transmitir positivismo y confianza en el usuario. En cuanto a los colores #FFFFFF y #000000 se utilizaron para crear contraste en los textos utilizados y a la vez crear un aspecto más estético. <br>
 
-<img src="./imagenes/colors.png" >
+<img src="./imagenes/colors.png" > <br>
 
-Spacing: En nuestra landing page de EcoMarket, el espaciado juega un papel importante como divisor de la información proporcionada a nuestros usuarios. Es fundamental que la web sea intuitiva, en la cuál se pueda navegar de forma sencilla. Por ello presentamos la información de manera ordenada, con un espaciado que permite ver la información legible.
+Spacing: En nuestra landing page de EcoMarket, el espaciado juega un papel importante como divisor de la información proporcionada a nuestros usuarios. Es fundamental que la web sea intuitiva, en la cuál se pueda navegar de forma sencilla. Por ello presentamos la información de manera ordenada, con un espaciado que permite ver la información legible. <br>
 
-Tono de Comunicación y lenguaje aplicado: Entendemos que evitar el desperdicio de los alimentos requiere dedicación y compromiso. En nuestra plataforma, nos esforzamos por acompañarte en cada paso de este camino. Nuestro tono de comunicación y lenguaje se distingue por ser respetuoso y entusiasta, alentandote a comprar nuestros productos, no solo por el precio accesible, sino pensando en que contribuyes a que no se desperdicien los alimentos.. Así como la UPC  inspira a sus estudiantes a alcanzar sus metas, nosotros te motivamos a dar lo mejor para el bienestar de tus mascotas
+Tono de Comunicación y lenguaje aplicado: Entendemos que evitar el desperdicio de los alimentos requiere dedicación y compromiso. En nuestra plataforma, nos esforzamos por acompañarte en cada paso de este camino. Nuestro tono de comunicación y lenguaje se distingue por ser respetuoso y entusiasta, alentandote a comprar nuestros productos, no solo por el precio accesible, sino pensando en que contribuyes a que no se desperdicien los alimentos.. Así como la UPC  inspira a sus estudiantes a alcanzar sus metas, nosotros te motivamos a dar lo mejor para el bienestar de tus mascotas <br>
 
-<div id='4.1.2'><h4>4.1.2. Web Style Guidelines.</h4>
+<div id='4.1.2'><h4>4.1.2. Web Style Guidelines.</h4> <br>
 
-<img src="./imagenes/websignup.png" >
+<img src="./imagenes/websignup.png" > <br>
 
-<img src="./imagenes/landing.png" >
+<img src="./imagenes/landing.png" > <br>
 
 <div id='4.2.'><h3> 4.2. Information Architecture</h3>
 En esta sección detallaremos la arquitectura de información de nuestro diseño UX para tener documentado y una percepción del tipo de organización que tendremos en nuestros productos para nuestros usuarios.
@@ -1004,17 +1004,17 @@ En esta sección detalleremos los sistemas de navegación que utilizaremos en nu
 
 <div id='4.3.'><h3> 4.3. Landing Page UI Design.</h3></div>
 
-<div id='4.3.1'><h4>4.3.1 Landing Page Wireframe.</h4></div>
+<div id='4.3.1'><h4>4.3.1 Landing Page Wireframe.</h4></div> <br>
 
-<img src="./imagenes/landingwireframe.png" >
+<img src="./imagenes/landingwireframe.png" > <br>
 
-<div id='4.3.2'><h4>4.3.2 Landing Page Mock-up.</h4></div>
+<div id='4.3.2'><h4>4.3.2 Landing Page Mock-up.</h4></div> <br>
 
 <img src="./imagenes/landing1.png" >
 <img src="./imagenes/landing2.png" >
 <img src="./imagenes/landing3.png" >
 <img src="./imagenes/landing4.png" >
-<img src="./imagenes/landing5.png" >
+<img src="./imagenes/landing5.png" > <br>
 
 <div id='4.4.'><h3> 4.4. Web Applications UX/UI Design.</h3></div>
 
