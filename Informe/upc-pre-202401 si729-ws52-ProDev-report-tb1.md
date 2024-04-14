@@ -1002,7 +1002,19 @@ En esta sección detalleremos los sistemas de navegación que utilizaremos en nu
 </div>
 </div>
 
-<div id='4.3.'><h3> 4.3. Wireframes</h3></div>
+<div id='4.3.'><h3> 4.3. Landing Page UI Design.</h3></div>
+
+<div id='4.3.1'><h4>4.3.1 Landing Page Wireframe.</h4></div>
+
+<img src="./imagenes/landingwireframe.png" >
+
+<div id='4.3.2'><h4>4.3.2 Landing Page Mock-up.</h4></div>
+
+<img src="./imagenes/landing1.png" >
+<img src="./imagenes/landing2.png" >
+<img src="./imagenes/landing3.png" >
+<img src="./imagenes/landing4.png" >
+<img src="./imagenes/landing5.png" >
 
 <div id='4.4.'><h3> 4.4. Web Applications UX/UI Design.</h3></div>
 
