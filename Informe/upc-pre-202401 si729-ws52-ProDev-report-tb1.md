@@ -23,9 +23,10 @@
 ## Registro de versiones del informe
 |   Fecha    | Versión |      Autor      |              Descripción de modificación               |
 |:----------:|:-------:|:---------------:|:------------------------------------------------------:|
-| 01/04/2024 |   1.0   | Quispe Fernando | Creación de nuestro repositorio e inicio en capítulo 1 |
-| 08/04/2024 |   1.1   |  Salazar Frank  |          Actualizació del informe capitulo 1           |
-
+| 01/04/2024 |   1.0   | Quispe Fernando |     Creación de nuestro repositorio e inicio en capítulo 1    |
+| 08/04/2024 |   1.1   |  Salazar Frank  |              Actualizació del informe capitulo 1              |
+| 09/04/2024 |   1.2   |  Cortes Nicolas | Elaboracion de user stories, product backlog e impact mapping |
+| 12/04/2024 |   1.3   |  Cortes Nicolas |  Elaboracion de los diagramas c4, mejora de los user stories  |
 
 ## Project Report Collaboration Insights
 
