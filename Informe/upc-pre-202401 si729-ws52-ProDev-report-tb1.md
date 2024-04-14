@@ -320,7 +320,7 @@ que los usuarios necesitan y un funcionamiento providencial.
 
   A continuacion se presentan las preguntas para el sector de Clientes
 
-1. ¿Nos podrías brindar por favor tu nombre, edad, ocupación, nivel de ducación y nivel aproximado de ingresos?
+1. ¿Nos podrías brindar por favor tu nombre, edad, ocupación, nivel de educación y nivel aproximado de ingresos?
 2. ¿Dónde resides actualmente?
 3. ¿Cuál es tu principal motivo para comprar productos en línea?
 4. ¿Qué tipo de productos sueles comprar en línea?
@@ -354,6 +354,38 @@ A continuacion se presentan las preguntas para el sector de Empresas
 | Departamento                            | Lima                                                                                                                                                                                                                                                                                                                        |
 | <img src="imagenes/EntrevistEmpresa1.png"/> | En esta entrevista nos detalla acerca de su empresa familiar la cuál ella administra, dónde menciona que ante productos defectuosos y/o con fecha de vencimientos muchas veces lo que hacen es botarlo. Estarían dispuesta a usar nuestra aplicación y también a realizar muchas donaciones.                             |
 | Duración entrevista: 03:37 min          | [URL](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221c628_upc_edu_pe/Ea8IgRWiDqlJuIEa1LVY5OABIZSASae-pZPRl-coy46yVw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=CUrpvW) |
+
+| Nombre entrevistado                          | Kevin Palomino                                                                                                                                                                                                                                                             |
+|----------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Edad                                         | 22 años                                                                                                                                                                                                                                                                    |
+| Departamento                                 | Lima                                                                                                                                                                                                                                                                       |
+| <img src="imagenes/EntrevistaEmpresa2.png"/> | En esta entrvista Kevin detalla acerca de su empresa que venden a través de Redes Sociales. Afrontaron muchas crisis, pero están dispuestos a vender productos siempre y cuando la fecha de vencimiento esté correcta ya que jamás venderían productos que estén vencidos. |
+| Duración entrevista: 04:51 min               | [URL](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181h103_upc_edu_pe/EbWjDXKAVNRJnxzqalZsIUABFUWpzneNUpV3hm5E49Cm2w?e=B1DrWc)                                                                                                                                     |
+
+
+***Entrevista a clientes***
+
+
+| Nombre entrevistado                          | Fernando Quispe                                                                                                                                                                                                                                                                                    |
+|----------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Edad                                         | 19 años                                                                                                                                                                                                                                                                                            |
+| Departamento                                 | Lima                                                                                                                                                                                                                                                                                               |
+| <img src="imagenes/EntrevistaCliente1.png"/> | En la entrevista Fernando nos señala que producto de la crisis económica tuvo que reducir su capacidad económica llevándolo a conocer la compra en línea dónde puede el comprar productos en oferta. Es por ello que estaría abierto a usar una plataforma web dónde consiga productos económicos. |
+| Duración entrevista: 03:54 min               | [URL](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c179_upc_edu_pe/EaS6aMjlVkhBl4s1bd6W9f4BxabN0w_QhWxEIBcWG1tL7g)                                                                                                                                                                                                                                                                                                |
+
+| Nombre entrevistado                          | Melisa Luque                                                                                                                                                                                                                                                                                                                  |
+|----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Edad                                         | 20 años                                                                                                                                                                                                                                                                                                                       |
+| Departamento                                 | Lima                                                                                                                                                                                                                                                                                                                          |
+| <img src="imagenes/EntrevistaCliente2.png"/> | En esta entrevista Melisa nos cuenta que estaría dispuesta a utilizar la plataforma ya que sería de mucha ayuda para ella.                                                                                                                                                                                                    |
+| Duración entrevista: 03:37 min               | [URL](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c179_upc_edu_pe/Edd5zAkIv3lFhmQbu8elXPYBpazevYwKEvVjTXgB0mzYUg?e=612tlm&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
+
+| Nombre entrevistado                          | Andrea García                                                                                                                                                                                              |
+|----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Edad                                         | 20 años                                                                                                                                                                                                    |
+| Departamento                                 | Lima                                                                                                                                                                                                       |
+| <img src="imagenes/EntrevistaCliente3.png"/> | En la entrevista Andrea nos relata lo difícil que ha sido para ella la pandemia lo que la ha afecta económicamente a partir de ahí esta buscando constantemente ofertas sobre todo en línea dónde más hay. |
+| Duración entrevista: 03:37 min               | [URL ](https://drive.google.com/file/d/1DCItMb8vaBsD3ePaFMu6hRixOpOFS8mz/view)                                                                                                                             |
 
 
   <div id='2.2.3.'><h4> 2.2.3. Análisis de entrevistas</h4></div>
@@ -1018,7 +1050,48 @@ En esta sección detalleremos los sistemas de navegación que utilizaremos en nu
 
 <div id='4.4.'><h3> 4.4. Web Applications UX/UI Design.</h3></div>
 
+Mock Up para ambos Segmentos:
+
+<img src="imagenes/MockupApp1.jpg" >
+<img src="imagenes/MockupApp2.jpg" >
+<img src="imagenes/MockupApp3.jpg" >
+<img src="imagenes/MockupApp4.jpg" >
+<img src="imagenes/MockupApp5.jpg" >
+<img src="imagenes/MockupApp6.jpg" >
+<img src="imagenes/MockupApp7.jpg" >
+<img src="imagenes/MockupApp8.jpg" >
+<img src="imagenes/MockupApp9.jpg" >
+<img src="imagenes/MockupApp10.jpg" >
+<img src="imagenes/MockupApp11.jpg" >
+<img src="imagenes/MockupApp12.jpg" >
+<img src="imagenes/MockupApp13.jpg" >
+<img src="imagenes/MockupApp14.jpg" >
+<img src="imagenes/MockupApp15.jpg" >
+
+Wireframes para ambos segmentos:
+
+<img src="imagenes/Wireframe1.jpg" >
+<img src="imagenes/Wireframe2.jpg" >
+<img src="imagenes/Wireframe3.jpg" >
+<img src="imagenes/Wireframe4.jpg" >
+<img src="imagenes/Wireframe5.jpg" >
+<img src="imagenes/Wireframe6.jpg" >
+<img src="imagenes/Wireframe7.jpg" >
+<img src="imagenes/Wireframe8.jpg" >
+<img src="imagenes/Wireframe9.jpg" >
+
 <div id='4.5.'><h3> 4.5. Web Application Prototyping</h3></div>
+
+A continuacion detallamos los user flow de la aplicación EcoMarket para los segmentos de clientes y empresas.
+<img src="imagenes/Userflow1.png" >
+<img src="imagenes/Userflow2.png" >
+<img src="imagenes/Userflow3.png" >
+<img src="imagenes/Userflow4.png" >
+<img src="imagenes/Userflow5.png" >
+<img src="imagenes/Userflow6.png" >
+<img src="imagenes/Userflow7.png" >
+<img src="imagenes/Userflow8.png" >
+
 
 <div id='4.6.'><h3> 4.6. Domain-Driven Software Architecture.</h3></div>
 <div id='4.6.1'><h4>4.6.1 Software Architecture Context Diagram</h4></div>
@@ -1092,9 +1165,9 @@ En esta sección establecemos las decisiones y convenciones que nos permitirán 
 En esta sección describimos nuestros productos y herramientas utilizadas para el desarrollo de EcoMarket, así como la documentación y repositorios asociados a nuestro proyecto.
 
 
-- Documentación Producto: [EcoMarket]()   Realizamos nuestra documentación en un repositorio de nuestra organización en GitHub Pro Dev, para mantener un control de versiones y colaboración eficiente.
-- Repositorio de GitHub: [EcoMarket]()  Utilizamos GitHub para alojar nuestro código fuente y colaborar en el desarrollo de EcoMarket.
-- Software Development: [Landing Page]() Java, Html, CSS, JavaScript and Angular son los lenguajes y tecnologías que utilizamos para el desarrollo de EcoMarket.
+- Documentación Producto: [EcoMarket](https://github.com/upc-pre-202401-si729-ws52-ProDev/FinalProject)   Realizamos nuestra documentación en un repositorio de nuestra organización en GitHub Pro Dev, para mantener un control de versiones y colaboración eficiente.
+- Repositorios de GitHub: [EcoMarket](https://github.com/upc-pre-202401-si729-ws52-ProDev)  Utilizamos GitHub para alojar nuestro código fuente y colaborar en el desarrollo de EcoMarket.
+- Software Development: [Landing Page](https://upc-pre-202401-si729-ws52-prodev.github.io/LandingPage/) Java, Html, CSS, JavaScript and Angular son los lenguajes y tecnologías que utilizamos para el desarrollo de EcoMarket.
 <div id='5.1.2'><h4>5.1.2. Source Code Management.</h4></div>
 
 Nuestro proyecto EcoMarket se encuentra alojado en un repositorio de GitHub, donde se gestionan las versiones del código fuente y se colabora en el desarrollo del producto.
@@ -1156,90 +1229,112 @@ Donde detallamos por sprint las actividades realizadas y los resultados obtenido
 Nuestro Sprint #1 se basa en la implementación de la Landing Page de EcoMarket, donde se detallan las actividades realizadas y los resultados obtenidos en cada una de ellas.
 <div id="5.2.1.1"><h5>5.2.1.1. Sprint Planning 1</h5></div>
 
-| Sprint #                           | Sprint 1   | 
-|------------------------------------|------------|
+| Sprint #                           | Sprint 1                                                                       | 
+|------------------------------------|--------------------------------------------------------------------------------|
 | **Sprint Planning Background**         |
-| Date                               | 2023-04-17 |
-| Time                               | 3 weeks    |
-| Location                           | Remote |
-| Prepared by                        | Product Owner |
-| Attendaces(to planning meeting)    | Product Owner, Scrum Master, Development Team |
-| Sprint n – 1 Review Summary        | |
-| Sprint n – 1 Retrospective Summary | |
+| Date                               | 2024 - Marzo Abril                                                             |
+| Time                               | 3 weeks                                                                        |
+| Location                           | Remote                                                                         |
+| Prepared by                        | ProDev                                                                         |
+| Attendaces(to planning meeting)    | Team of ProDev                                                                 |
+| Sprint n – 1 Review Summary        | En esta sprint se enfoca en el desarrollo de nuestra Landing Page              |
+| Sprint n – 1 Retrospective Summary | Al hacer nuestra retrospectiva nos detallamos nuestras oportunidades a mejorar |
 | **Sprint Goal & User Stories**         |
-| Sprint 1 Goal                      | Implementar la Landing Page de EcoMarket |
-|Sprint Velocity                     | 8 |
-|Sum of Story Points                 | 8 |
+| Sprint 1 Goal                      | Implementar la Landing Page de EcoMarket                                       |
+|Sprint Velocity                     | 8                                                                              |
+|Sum of Story Points                 | 8                                                                              |
 
 <div id="5.2.1.2"><h5>5.2.1.2. Sprint Backlog 1</h5></div>
 
-|Sprint # 1 |                | | |             |                   |             |                                         |
-|-----------|----------------|-|-|-------------|-------------------|-------------|-----------------------------------------|
+| Sprint # 1 |                | | |             |                   |             |                                         |
+|------------|----------------|-|-|-------------|-------------------|-------------|-----------------------------------------|
 | User Story | Work-Item Task |
-|Id | Title | Id | Title | Description | Estimation(Hours) | Assigned To | Status(To-Do/In-Process/To-Review/Done) |
-| US001 | Crear estructura HTML | 1.1 | Crear archivo index.html | Crear el archivo index.html con la estructura básica de una página web | 2 | Developer 1 | Done |
-
-
+| Id         | Title | Id | Title | Description | Estimation(Hours) | Assigned To | Status(To-Do/In-Process/To-Review/Done) |
+| US11       | Crear estructura HTML | 1.1 | Crear archivo index.html | Crear el archivo index.html con la estructura básica de una página web | 2 | Frank       | Done |
+| US12       | Crear estructura CSS | 1.2 | Crear archivo style.css | Crear el archivo style.css con la estructura básica de estilos de la página web | 2 | Nicolas     | Done |
+| US13       | Crear estructura JavaScript | 1.3 | Crear archivo script.js | Crear el archivo script.js con la estructura básica de scripts de la página web | 2 | Frank       | Done |
+| US14       | Elaboración Header | 1.4 | Crear Header | Crear el header de la página web con el logo y menú de navegación | 2 | Fernando    | Done |
+| US15       | Elaboración Footer | 1.5 | Crear Footer | Crear el footer de la página web con información de contacto y enlaces rápidos | 2 | Anderson    | Done |
+| US15       | Elaboración Sección Principal | 1.6 | Crear Sección Principal | Crear la sección principal de la página web con información destacada y llamada a la acción | 2 | Frank       | Done |
 <div id="5.2.1.3"><h5>5.2.1.3. Development Evidence for Sprint Review.</h5></div> 
 En esta sección se presentan las evidencias de desarrollo de la Landing Page de EcoMarket, donde se detallan los commits realizados.
 
-|Repository | Branch | Commit Id| Commit Message      | Commit Message Body | Commited on (Date) |
-|-----------|--------|----------|---------------------|---------------------|--------------------|
-| EcoMarket | main | 123456 | feat:Initial commit | Create index.html | 2023-04-17 |
-
+| Repository  | Branch | Commit Id| Commit Message      | Commit Message Body | Commited on (Date) |
+|-------------|--------|----------|---------------------|---------------------|--------------------|
+| LandingPage | main | f102367…044e389 | feat:Initial commit | Create index.html   | 2024 - 04 -17      |
+| LandingPage | main | 044e389…4cefb7f | test:Initial commit | Create index.html   | 2024-04-17         |
+| LandingPage | main | e6a6b01…067a8d1 | test:Initial commit | Create css          | 2024-04-17         |
+| LandingPage | main | 4cefb7f…cbcff97 | test:Initial commit | Create js files     | 2024-04-17         |
+| LandingPage | main |  5f6e995…e905aae | test:Initial commit | Create landing      | 2024-04-17         |
+| LandingPage | main | a7838e2…39a4018 | test:Initial commit | Update index.html   | 2024-04-17         |
 
 
 <div id="5.2.1.4"><h5>5.2.1.4. Testing Suite Evidence for Sprint Review.</h5></div> 
 En esta sección se presentan las evidencias de las pruebas realizadas en la Landing Page de EcoMarket, donde se detallan los resultados obtenidos.
 
-|Repository | Branch | Commit Id| Commit Message      | Commit Message Body | Commited on (Date) |
-|-----------|--------|----------|---------------------|---------------------|--------------------|
-| EcoMarket | main | 123456 | test:Initial commit | Create index.html | 2023-04-17 |
+Para nuestra TB1: Evidenciamos la lista de commits que realizamos aportando a nuestro informe. 
+
+<img src="imagenes/commitsInforme.png">
+
 <div id="5.2.1.5"><h5>5.2.1.5. Execution Evidence for Sprint Review.</h5></div> 
 En este Sprint pudimos detallar los requisitos y Needfinding de nuestros usuarios. Y de esta manera realizar nuestra documentacion:
-<img src="imagenes/Needfinding.png">
 
-Posteriormente realizamos nuestras User Stories:
+Para posteriormente desarrollar nuestra Landing Page y documentamos nuestro proceso:
 
-<img src="imagenes/UserStories.png">
-
-Desarrollamos nuestra Landing Page y documentamos nuestro proceso:
-
-<img src="imagenes/LandingPage.png">
-<img src="imagenes/Documentacion.png">
+<img src="imagenes/DesarrolloLanding.png">
 
 <div id="5.2.1.6"><h5>5.2.1.6. Services Documentation Evidence for Sprint Review.</h5></div> 
 Las evidencias de este sprint son la documentación de los servicios utilizados en la implementación de la Landing Page de EcoMarket.
+
+Utilizamos el servicio de GitHub Pages para nuestro despliegue:
+
+<img src="imagenes/DespliegueLanding1.png">
 
 <div id="5.2.1.7"><h5>5.2.1.7. Software Deployment Evidence for Sprint Review. </h5></div> 
 
 Las evidencias para el desarrollo en este sprint son el despliegue de la Landing Page de EcoMarket en un entorno de producción.
 
+<img src="imagenes/DespliegueLanding2.png">
+
+<img src="imagenes/DespliegueLanding3.png">
 <div id="5.2.1.8"><h5>5.2.1.8. Team Collaboration Insights during Sprint.</h5></div> 
 
 Se adjuntan las evidencias de colaboración del equipo durante el Sprint #1 de EcoMarket por integrante.
+
+<img src="imagenes/Insights1.png">
+
+<img src="imagenes/Insights2.png">
 
 <div id='Conclusiones'><h2>Conclusiones</h2></div>
 
 <div id='ConclusionesYrecomendaciones'><h3> Conclusiones y Recomendaciones</h3></div>
 
+- En la entrega de la TB1: Tenemos como conclusión que el desarrollo de nuestra landing page para podoer mostrar nuestro producto EcoMarket fue un éxito, ya que pudimos implementarla de manera eficiente y con un diseño atractivo para los usuarios.
+- De la mis manera, la obtención de los requisitos por parte de nuestros usuarios nos permitió elaborar el diseño de nuestro producto y así poder implementarlo de manera eficiente.
+- Recomendaciones: Tenemos cómo recomendación que tenemos que seguir trabajando en equipo y seguir con la misma metodología de trabajo para poder seguir avanzando en nuestro proyecto. Puesto que, elaboraremos
+nuestro Fronted Web Application en Angular y nuestro Backend en Java.
 
-
-
+  
 <div id='Bibliografia'><h2>Bibliografía</h2></div>
 
 Romero, D. (2023, 17 abril). Rebajas: estadísticas ecommerce, marketing y comportamiento. SaleCycle. 
 https://www.salecycle.com/es/blog/estadisticas/rebajas-estadisticas-marketing/
 
+Conventional commits. (s. f.). Conventional Commits. https://www.conventionalcommits.org/en/v1.0.0/
 
+Fowler, M. (s. f.). bliki: Domain Driven Design. martinfowler.com. https://martinfowler.com/bliki/DomainDrivenDesign.html 
 
 
 <div id='Anexos'><h2>Anexos</h2>
 
-- Repositorio de GitHub:
+- Organización de GitHub: https://github.com/upc-pre-202401-si729-ws52-ProDev
 - Artefacto User Persona: https://uxpressia.com/w/ezex3/p/WoZAm https://uxpressia.com/w/ezex3/p/uLv62
-- Artefacto User Journey Mapping:
+- Enlace Landing Page: https://upc-pre-202401-si729-ws52-prodev.github.io/LandingPage/
+- Enlace Informe: https://github.com/upc-pre-202401-si729-ws52-ProDev/FinalProject 
+- Enlace Diseño Figma: https://www.figma.com/file/2WKh7U7c7ffAzRhlY3ni09/Landing-Page?type=design&node-id=0%3A1&mode=design&t=ZxPaRkbQ0Ds3Fsfk-1
+- Enlace Video:     
 
+</div>
 </div>
 </div>
 
