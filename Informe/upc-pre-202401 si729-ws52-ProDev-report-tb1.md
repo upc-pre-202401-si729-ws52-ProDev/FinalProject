@@ -880,6 +880,11 @@ Spacing: En nuestra landing page de EcoMarket, el espaciado juega un papel impor
 
 Tono de Comunicación y lenguaje aplicado: Entendemos que evitar el desperdicio de los alimentos requiere dedicación y compromiso. En nuestra plataforma, nos esforzamos por acompañarte en cada paso de este camino. Nuestro tono de comunicación y lenguaje se distingue por ser respetuoso y entusiasta, alentandote a comprar nuestros productos, no solo por el precio accesible, sino pensando en que contribuyes a que no se desperdicien los alimentos.. Así como la UPC  inspira a sus estudiantes a alcanzar sus metas, nosotros te motivamos a dar lo mejor para el bienestar de tus mascotas
 
+<div id='4.1.2'><h4>4.1.2. Web Style Guidelines.</h4>
+
+<img src="./imagenes/websignup.png" >
+
+<img src="./imagenes/landing.png" >
 
 <div id='4.2.'><h3> 4.2. Information Architecture</h3>
 En esta sección detallaremos la arquitectura de información de nuestro diseño UX para tener documentado y una percepción del tipo de organización que tendremos en nuestros productos para nuestros usuarios.
