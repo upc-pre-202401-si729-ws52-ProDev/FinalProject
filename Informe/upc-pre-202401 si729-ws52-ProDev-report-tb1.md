@@ -1083,14 +1083,14 @@ Wireframes para ambos segmentos:
 <div id='4.5.'><h3> 4.5. Web Application Prototyping</h3></div>
 
 A continuacion detallamos los user flow de la aplicación EcoMarket para los segmentos de clientes y empresas.
-<img src="imagenes/Userflow1.png" >
-<img src="imagenes/Userflow2.png" >
-<img src="imagenes/Userflow3.png" >
-<img src="imagenes/Userflow4.png" >
-<img src="imagenes/Userflow5.png" >
-<img src="imagenes/Userflow6.png" >
-<img src="imagenes/Userflow7.png" >
-<img src="imagenes/Userflow8.png" >
+<img src="imagenes/Userflow1.jpg" >
+<img src="imagenes/Userflow2.jpg" >
+<img src="imagenes/Userflow3.jpg" >
+<img src="imagenes/Userflow4.jpg" >
+<img src="imagenes/Userflow5.jpg" >
+<img src="imagenes/Userflow6.jpg" >
+<img src="imagenes/Userflow7.jpg" >
+<img src="imagenes/Userflow8.jpg" >
 
 
 <div id='4.6.'><h3> 4.6. Domain-Driven Software Architecture.</h3></div>
