@@ -1496,16 +1496,19 @@ Nuestro Sprint #2 se basa en la primera versión de nuestro fronted-web applicat
 
 <div id="5.2.2.2"><h5>5.2.1.2. Sprint Backlog 2</h5></div>
 
-| Sprint # 1 |                | | |             |                   |             |                                         |
-|------------|----------------|-|-|-------------|-------------------|-------------|-----------------------------------------|
+| Sprint # 2 |                | | |             |                   |             |                                         
+|------------|----------------|-|-|-------------|-------------------|-------------|
 | User Story | Work-Item Task |
-| Id         | Title | Id | Title | Description | Estimation(Hours) | Assigned To | Status(To-Do/In-Process/To-Review/Done) |
-| US11       | Crear estructura HTML | 1.1 | Crear archivo index.html | Crear el archivo index.html con la estructura básica de una página web | 2 | Frank       | Done |
-| US12       | Crear estructura CSS | 1.2 | Crear archivo style.css | Crear el archivo style.css con la estructura básica de estilos de la página web | 2 | Nicolas     | Done |
-| US13       | Crear estructura JavaScript | 1.3 | Crear archivo script.js | Crear el archivo script.js con la estructura básica de scripts de la página web | 2 | Frank       | Done |
-| US14       | Elaboración Header | 1.4 | Crear Header | Crear el header de la página web con el logo y menú de navegación | 2 | Fernando    | Done |
-| US15       | Elaboración Footer | 1.5 | Crear Footer | Crear el footer de la página web con información de contacto y enlaces rápidos | 2 | Anderson    | Done |
-| US15       | Elaboración Sección Principal | 1.6 | Crear Sección Principal | Crear la sección principal de la página web con información destacada y llamada a la acción | 2 | Frank       | Done |
+| Id         | Title | Id | Description | Estimation(Hours) | Assigned To | Status(To-Do/In-Process/To-Review/Done) |
+| USAP01       | Registrarse en la aplicacion | 2.1  | Crear el componente que permita el registro de un nuevo usuario con los datos correspondientes | 4 | Frank       | Done |
+| USAP02       | Iniciar sesion en la aplicacion | 2.2 | Crear el componente que permita el inicio de sesion con credenciales ya registradas | 2 | Nicolas     | Done |
+| USAP03       | Editar perfil | 2.3 | Crear el componente que permita editar el perfil de un usuario de la aplicacion | 3 | Frank       | Done |
+| USAP04       | Catalogo de productos | 2.4 | Crear el componente que muestre un catalogo de productos al momento de iniciar sesion | 3 | Fernando    | Done |
+| USAP05       | Poner a la venta un producto | 2.5 | Crear el componente que le permita a la empresa o a un vendedor poner a la venta un producto cualquiera | 4 | Anderson    | Done |
+| USAP06       | Informacion detallada del producto | 2.6 | Crear el componente que permita que, al hacer click en un producto, se muestren los detalles del mismo | 3 | Frank       | Done |
+| USAP07       | Poner un producto disponible para donacion | 2.7 | Crear un componente que permita a una empresa o vendedor un producto disponible para la donacion | 5 | Anderson       | Done |
+| USAP08       | Vista previa de los productos en el carrito de compras | 2.8 | Crear un componente que permita ver los productos seleccionaods antes de comprarlos en un carrito de compras | 4 | Nicolas       | Done |
+| USAP09       | Realizar el pago de un producto | 2.9 | Crear un componente que permita a un usuario realizar el pago de un producto ingresando su tarjeta de debito o credito | 5 | Fernando       | Done |
 <div id="5.2.2.3"><h5>5.2.2.3. Development Evidence for Sprint Review.</h5></div> 
 En esta sección se presentan las evidencias de desarrollo de la Landing Page de EcoMarket, donde se detallan los commits realizados.
 
