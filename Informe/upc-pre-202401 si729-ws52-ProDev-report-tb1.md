@@ -1547,7 +1547,19 @@ Enlace de la aplicacion: https://fronted-ecomarket.web.app/login
 
 Las evidencias para el desarrollo en este sprint son el despliegue de la Landing Page de EcoMarket en un entorno de producción.
 
-<img src="imagenes/5.7.jpeg">
+<table>
+  <tr><th>User Story</th> <th>Titulo</th> <th>Descripcion</th> <th>Imagen de prueba</th></tr>
+  <tr><th>USAP01</th> <th>Registrarse en la Aplicacion</th> <th>Como visitante del sitio web "EcoMarket", quiero registarme en la aplicacion para poder acceder a todas sus funcionalidades.</th> <th></th></tr>
+  <tr><th>USAP02</th> <th>Ingresar a la Aplicacion</th> <th>Como visitante del sitio web "EcoMarket", quiero iniciar sesion en la aplicacion para poder acceder a todas sus funcionalidades.</th> <th><img src="imagenes/5.7.jpeg" width = "1500" height = "200"></th></tr>
+  <tr><th>USAP03</th> <th>Editar Perfil</th> <th>Como usuario registrado de la aplicacion EcoMarket, quiero editar mi perfil publico para que se muestren datos apropiados acerca de mi propia persona o de mi empresa</th> <th></th></tr>
+  <tr><th>USAP04</th> <th>Catalogo de productos</th> <th>Como usuario registrado de la aplicacion EcoMarket, quiero que, al ingresar en la aplicacion, se me muestre un catalogo de productos los cuales son exhibidos por las empresas, para asi poder elegir una posible compra</th> <th></th></tr>
+  <tr><th>USAP05</th> <th>Poner a la venta un producto</th> <th>Como empresario/vendedor registrado en la aplicacion, quiero poder poner a la venta productos para que usuarios de la aplicacion puedan comprarlos</th> <th></th></tr>
+  <tr><th>USAP06</th> <th>Informacion detallada del producto</th> <th>Como usuario de la aplicacion EcoMarket, quiero poder acceder a la informacion detallada de un producto para estar bien informado acerca de sus caracteristicas y poder decidir de mejor manera si comprar el producto o no</th> <th></th></tr>
+  <tr><th>USAP07</th> <th>Poner un producto disponible para donacion</th> <th>Como empresario/vendedor registrado en la aplicacion, quiero poder colocar productos para ser donados a organizaciones beneficas</th> <th></th></tr>
+  <tr><th>USAP08</th> <th>Vista previa de los productos en el carrito de compras</th> <th>Como usuario registrado en EcoMarket, quiero que se muestre un resumen de compra con respecto a las compras que voy a realizar, indicandoseme el subtotal de la compra y el precio de cada uno de los productos</th> <th></th></tr>
+  <tr><th>USAP09</th> <th>Realizar pago de un producto</th> <th>Como usuario de la aplicacion EcoMarket, quiero poder colocar los datos de mi tarjeta de credito o debito para poder comprar un producto</th> <th></th></tr>
+</table>
+
 <div id="5.2.2.8"><h5>5.2.2.8. Team Collaboration Insights during Sprint.</h5></div> 
 
 Se adjuntan las evidencias de colaboración del equipo durante el Sprint #2 de EcoMarket por integrante.
