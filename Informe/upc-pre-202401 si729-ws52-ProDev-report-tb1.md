@@ -152,10 +152,10 @@ ProDev, es una startup la cual se enfoca en vender productos de calidad a precio
 
 ##### Logotipo de la Startup: 
 
-<img src="imagenes/LogoProDev.jpg">
+<img src="imagenes/LogoProDev.jpg" width = "300" height = "300">
 
 ##### Logotipo del producto
-<img src="imagenes/LogoEcoMarket.png" alt="LogoEcoMarket">
+<img src="imagenes/LogoEcoMarket.png" alt="LogoEcoMarket" width = "300" height = "300">
 
 <div id='1.1.2.'><h4> 1.1.2. Perfiles de los integrantes del equipo</h4></div>
 
@@ -170,26 +170,31 @@ ProDev, es una startup la cual se enfoca en vender productos de calidad a precio
 EcoMarket ofrece una óptima solución con el objetivo de lograr reducir el desperdicio de alimentos y permitir el ingreso adicional a aquellas empresas que ya contaban con los egresos que generarían el desperdicio de sus productos. Nuestros clientes podrán acumular puntos por cada compra exitosa realizada, los cuales les permitirán obtener descuentos en futuras ventas. Las empresas tendrán opciones como la publicación de sus productos y un registro de ventas para cada uno de ellos. EcoMarket obtendrá ganancias a través de una comisión por cada venta exitosa realizada. Por estos motivos se propone a EcoMarket como solución para reducir el desperdicio innecesario de alimentos y con ello realizar un negocio sostenible mediante la venta de estos.
 <div id='1.2.1.'><h4> 1.2.1. Antecedentes y Problemática</h4></div>
 
-
+### 5W
 ##### What (Qué)
-La falta de acceso a productos vitales por parte de las familias peruanas en estado de pobreza y la preocupación por reducir el desperdicio de alimentos tanto por parte de empresas, como de los vendedores
+La falta de acceso a productos vitales por parte de las familias peruanas en estado de pobreza es un problema persistente que afecta a muchas comunidades en el país. Además, existe una preocupación generalizada por reducir el desperdicio de alimentos tanto por parte de empresas como de los vendedores minoristas.
+
 ##### When (Cuando)
-Este problema inicia desde hace ya muchos años, debido al desconocimiento de soluciones para lograr la venta de productos con su fecha de vencimiento próxima.
-##### Where (Dónde)
-###### ¿Dónde surge el problema?
-El problema se puede encontrar en empresas y bodegas las cuales se dedican al rubro de ventas de productos alimenticios.
+Este problema ha estado en curso durante muchos años en Perú. Se remonta a décadas atrás debido al desconocimiento de soluciones efectivas para lograr la venta de productos con fechas de vencimiento próximas.
+
+#### Where (Dónde)
+¿Dónde surge el problema?
+El problema se origina en diversas áreas, principalmente en empresas y bodegas que se dedican al rubro de ventas de productos alimenticios en todo el país.
+
 ##### Who (Quién)
-Familias peruanas que se encuentran en la pobreza y pobreza extrema y, por el lado empresarial, aquellas empresas que no encuentran soluciones para evitar la pérdida generada por el desperdicio de estos productos.
+Familias peruanas que se encuentran en la pobreza y pobreza extrema son las más afectadas por la falta de acceso a productos vitales. Por otro lado, en el ámbito empresarial, aquellas empresas que no encuentran soluciones para evitar la pérdida generada por el desperdicio de estos productos enfrentan desafíos significativos.
+
 ##### Why (Por qué)
-Porque en la actualidad la falta de accesibilidad debido a los precios excesivos en los productos va en crecimiento. Por el lado empresarial, el desconocimiento de soluciones para evitar las pérdidas económicas debido al desperdicio de estos alimentos.
+La creciente falta de accesibilidad a productos esenciales debido a los precios excesivos está provocando un aumento en la desigualdad económica en Perú. En el caso de las empresas, el desconocimiento de soluciones para evitar las pérdidas económicas debido al desperdicio de alimentos es un factor clave.
 
 ### 2H
-##### How (Cómo)
-###### ¿Cómo se utilizará el producto?
-El problema surge en el momento en el que las bodegas o supermercados no logran vender sus productos y estos ya se encuentran próximos a vencer.
-##### How much (Cuánto)
-###### ¿Cuál es la magnitud del problema?
-La magnitud del problema es considerable, con comerciantes sufriendo grandes pérdidas al no poder vender sus productos. El fenómeno de esperar rebajas para realizar compras se intensifica, con un 63,5% de consumidores aguardando ofertas para adquirir productos cercanos a su vencimiento, resaltando la necesidad de implementar soluciones que beneficien tanto a consumidores como a comerciantes, según SaleCycle.
+#### How (Cómo)
+##### ¿Cómo se utilizará el producto?
+El producto se utilizará como una herramienta para abordar el problema en el momento en que las bodegas o supermercados no logran vender sus productos antes de que estos alcancen su fecha de vencimiento.
+
+#### How much (Cuánto)
+##### ¿Cuál es la magnitud del problema?
+La magnitud del problema es considerable, con comerciantes sufriendo grandes pérdidas al no poder vender sus productos antes de que caduquen. Según SaleCycle, el fenómeno de esperar rebajas para realizar compras se intensifica, con un 63,5% de consumidores esperando ofertas para adquirir productos cercanos a su vencimiento. Esto resalta la necesidad urgente de implementar soluciones que beneficien tanto a consumidores como a comerciantes.
 
 Este escenario subraya la importancia de desarrollar e implementar políticas y estrategias enfocadas tanto en la accesibilidad a alimentos para las familias en situación de vulnerabilidad como en la optimización de procesos por parte de las empresas para minimizar el desperdicio de alimentos, generando un impacto positivo tanto social como económico.
 
@@ -267,7 +272,7 @@ Intuitivo, funcional y eficaz, donde el usuario de forma rápida y sencilla real
 #### ***Lean UX Canvas:***
 
 Se presenta el artefacto realizado Lean UX Canvas. La cuál nos ayuda a tener una visión general de nuestro producto y cómo se llevará a cabo.
-<img src="./imagenes/Canvas.jpg">
+<img src="./imagenes/LeanUXCanvas.png">
 
 <div id='1.3.'><h3> 1.3. Segmento objetivo</h3></div>
 
@@ -352,15 +357,22 @@ A continuacion se presentan las preguntas para el sector de Empresas
 |-----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Edad                                    | 19 años                                                                                                                                                                                                                                                                                                                     |
 | Departamento                            | Lima                                                                                                                                                                                                                                                                                                                        |
-| <img src="imagenes/EntrevistEmpresa1.png"/> | En esta entrevista nos detalla acerca de su empresa familiar la cuál ella administra, dónde menciona que ante productos defectuosos y/o con fecha de vencimientos muchas veces lo que hacen es botarlo. Estarían dispuesta a usar nuestra aplicación y también a realizar muchas donaciones.                             |
+| <img src="imagenes/EntrevistEmpresa1.png" width = "1800" height ="200"> | En esta entrevista, Stephanie nos detalla acerca de su empresa familiar, la cuál es administra por ella producto de un retiro temprano por parte de su padre. Stephanie menciona que se encuentra con frecuencia con productos defectuosos o con fechas de vencimiento proximas, este tipo de productos son declarados por su empresa como merma y son desechados, perdiendo todo valor que pudiesen tener. Sin embargo, ella menciona que estarían dispuesta a usar nuestra aplicación y también a realizar muchas donaciones.                             |
 | Duración entrevista: 03:37 min          | [URL](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221c628_upc_edu_pe/Ea8IgRWiDqlJuIEa1LVY5OABIZSASae-pZPRl-coy46yVw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=CUrpvW) |
 
 | Nombre entrevistado                          | Kevin Palomino                                                                                                                                                                                                                                                             |
 |----------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Edad                                         | 22 años                                                                                                                                                                                                                                                                    |
 | Departamento                                 | Lima                                                                                                                                                                                                                                                                       |
-| <img src="imagenes/EntrevistaEmpresa2.png"/> | En esta entrvista Kevin detalla acerca de su empresa que venden a través de Redes Sociales. Afrontaron muchas crisis, pero están dispuestos a vender productos siempre y cuando la fecha de vencimiento esté correcta ya que jamás venderían productos que estén vencidos. |
+| <img src="imagenes/EntrevistaEmpresa2.png" width = "1550" height ="200"> | En esta entrevista, Kevin nos detalla acerca de su empresa propia, en la que se realizan ventas de productos a través de las Redes Sociales. Despues de la pandemia, afrontaron muchas crisis y vieron reducidas en un numero considerable sus ganacias producto de la perdida de clientes. No obstante, están dispuestos a vender productos siempre y cuando la fecha de vencimiento esté correcta ya que jamás venderían productos que estén vencidos. |
 | Duración entrevista: 04:51 min               | [URL](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181h103_upc_edu_pe/EbWjDXKAVNRJnxzqalZsIUABFUWpzneNUpV3hm5E49Cm2w?e=B1DrWc)                                                                                                                                     |
+
+| Nombre entrevistado                          | Esteban Morales                                                                                                                                                                                              |
+|----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Edad                                         | 25 años                                                                                                                                                                                                    |
+| Departamento                                 | Lima                                                                                                                                                                                                       |
+| <img src="imagenes/Entrevista6.png" width = "1700" height ="200"> | En la entrevista, Esteban nos cuenta que es gerente de operaciones en una de las sedes de la cadena de supermercados "Plaza Vea". Esteban cuenta que desechan una gran cantidad de productos debido a que, los productos proximos a vencer y defectuosos son declarados como merma y son, en su mayoria, desechados. Esteban dice que no veria con malos ojos la existencia de una aplicacion que permita a las empresas vender sus productos proximos a vencer a un precio menos. |
+| Duración entrevista: 05:34 min               | [URL ](https://drive.google.com/file/d/1iLOrUPxAp5IVJKUenVJAE1f0DgCCLRKz/view?usp=sharing)                                                                                                                             |
 
 
 ***Entrevista a clientes***
@@ -370,21 +382,21 @@ A continuacion se presentan las preguntas para el sector de Empresas
 |----------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Edad                                         | 19 años                                                                                                                                                                                                                                                                                            |
 | Departamento                                 | Lima                                                                                                                                                                                                                                                                                               |
-| <img src="imagenes/EntrevistaCliente1.png"/> | En la entrevista Fernando nos señala que producto de la crisis económica tuvo que reducir su capacidad económica llevándolo a conocer la compra en línea dónde puede el comprar productos en oferta. Es por ello que estaría abierto a usar una plataforma web dónde consiga productos económicos. |
+| <img src="imagenes/EntrevistaCliente1.png" width = "1550" height ="200"> | En la entrevista, Fernando nos señala que producto de la crisis económica tuvo que reducir su capacidad económica. Fernando se vio visto a reducir sus gastos generales puesto que no puede costearse ciertos productos que antes podia comprar con total normalidad. Esto lo llevo a conocer la compra en línea, dónde puede el comprar productos en oferta. Es por ello que estaría abierto a usar una plataforma web dónde consiga productos económicos. |
 | Duración entrevista: 03:54 min               | [URL](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c179_upc_edu_pe/EaS6aMjlVkhBl4s1bd6W9f4BxabN0w_QhWxEIBcWG1tL7g)                                                                                                                                                                                                                                                                                                |
 
 | Nombre entrevistado                          | Melisa Luque                                                                                                                                                                                                                                                                                                                  |
 |----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Edad                                         | 20 años                                                                                                                                                                                                                                                                                                                       |
 | Departamento                                 | Lima                                                                                                                                                                                                                                                                                                                          |
-| <img src="imagenes/EntrevistaCliente2.png"/> | En esta entrevista Melisa nos cuenta que estaría dispuesta a utilizar la plataforma ya que sería de mucha ayuda para ella.                                                                                                                                                                                                    |
+| <img src="imagenes/EntrevistaCliente2.png" width = "2000" height ="200"> | En esta entrevista Melisa nos cuenta que su familia vive en una zona bastante pobre del pais y que, por lo tanto, desde siempre han contado con dificultades para acceder a los productos de la canasta basica. Melissa cuenta que, tras la crisis economica derivada de la pandemia, esta dificultad para encontrar productos a precios comodos se ha incrementado, y que constantemente buscan la forma de encontrar productos alimenticios a un precio menor. Melissa cuenta ademas que estaría dispuesta a utilizar la plataforma ya que sería de mucha ayuda para ella.                                                                                                                                                                                                    |
 | Duración entrevista: 03:37 min               | [URL](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c179_upc_edu_pe/Edd5zAkIv3lFhmQbu8elXPYBpazevYwKEvVjTXgB0mzYUg?e=612tlm&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
 
 | Nombre entrevistado                          | Andrea García                                                                                                                                                                                              |
 |----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Edad                                         | 20 años                                                                                                                                                                                                    |
 | Departamento                                 | Lima                                                                                                                                                                                                       |
-| <img src="imagenes/EntrevistaCliente3.png"/> | En la entrevista Andrea nos relata lo difícil que ha sido para ella la pandemia lo que la ha afecta económicamente a partir de ahí esta buscando constantemente ofertas sobre todo en línea dónde más hay. |
+| <img src="imagenes/EntrevistaCliente3.png" width = "1725" height ="200"> | En la entrevista Andrea nos relata lo difícil que ha sido para ella la pandemia, pues un gran numero de empresas se han visto forzadas a incrementar el costo de productos alimenticios basicos. Andrea nos relata que su familia no cuenta con una solvencia economica para poder acceder a los nuevos precios de productos que ambos compraba. Nos indica ademas, que ve con buenos ojos que existan formas para acceder a productos basicos por un precio menor al encontrado en los mercados en general. |
 | Duración entrevista: 03:37 min               | [URL ](https://drive.google.com/file/d/1DCItMb8vaBsD3ePaFMu6hRixOpOFS8mz/view)                                                                                                                             |
 
 
@@ -392,18 +404,29 @@ A continuacion se presentan las preguntas para el sector de Empresas
 
 <p>En esta sección se presentará el análisis de las entrevistas realizadas a los usuarios. Se presentarán las respuestas obtenidas y se realizará un análisis de las mismas.</p>
 
-SEGMENTO EMPRESAS:
-- Nos detallan que sí estan dispuestos a usar nuestra aplicación.
-- Están dispuestos a realizar donaciones.
-- En muchas ocasiones botan los productos defectuosos y/o con fecha de vencimiento.
--   Les llama la atención la idea de vender productos a punto de vencer y/o defectuosos a un precio más bajo a través de nuestra plataforma.
--   Están abiertos a tener un sistema de ventas a través de MarketPlace. 
+<h4>Rango de edad de los posibles usuarios</h4>
+<p>Segun los entrevistados, estos se encuentran en un rango de edad desde los 21 hasta los 27 años. Tenemos que considerar que estas entrevistas se realizaron a personas jovenes, pues estos estan mas adaptados a las tecnologias de hoy en dia. Sin embargo, no descartamos que usuarios mayores de 30 años se sientan atraido por nuestra aplicacion.</p>
+<img src="imagenes/Rango de edades.png" width = "400" height ="400">
 
-SEGMENTO CLIENTES:
--   Nos detallan que sí estan dispuestos a usar nuestra aplicación.
--  Les llama la atención la idea de comprar productos a punto de vencer y/o defectuosos a un precio más bajo a través de nuestra plataforma.
-- Lo que buscan es encontrar productos a precio barato.
+<h4>Preferencias a la hora de comprar productos en linea</h4>
+<p>Luego de entrevistar tanto a cleintes como a empresarios, pudimos observar que el tipo de producto mas seleccionado a la hora de realizar compras en linea son las carnes, seguido de los productos electronicos y los lacteos. La categoria de "otros productos" corresponde productos varios comprados por los clientes, agrupando las categorias restantes.</p>
+<img src="imagenes/Rango de productos.png" width = 400" height ="400">
 
+<h4>Que tanto se sintieron afectados los posibles usuarios por la crisis economica?</h4>
+<p>Se le pregunto a nuestros entrevistados que tan afectados se sentian por la crisis economica. Se distinguieron 3 categorias, "poco afectado", "bastante afectado" y "muy afectado".</p>
+<img src="imagenes/Rango de afecto.png" width = "400" height ="400">
+
+<h4>Importancia de la calidad de un producto</h4>
+<p>Segun nuestros entrevistados, logramos identificar que los usuarios sienten que la calidad del producto afecta de 3 posibles manera a la importancia que ellos le dan a la hora de comprarlo.</p>
+<img src="imagenes/Importancia.png" width = "400" height ="400">
+  
+<h4>Importancia de la fecha de vencimiento de un producto</h4>
+<p>Segun nuestros entrevistados, la fecha de vencimiento es un factor que puede afectar de 3 posibles maneras la desicion de si comprar o no un producto: no muy importante, bastante importante y muy importante</p>
+<img src="imagenes/Importancia-fdv.png" width = "400" height ="400">
+
+<h4>Posible rentabilidad de la aplicacion</h4>
+<p>Nuestros entrevistados consideran que la rentabilidad de nuestra aplicacion puede ser medida a traves de 3 apartados: no rentable, rentable y muy rentable</p>
+<img src="imagenes/Rentabilidad.png" width = "400" height ="400">
 
   <div id='2.3.'><h3> 2.3. Needfinding</h3></div>
   <h4>2.3.1 User Persona</h4>
@@ -1332,7 +1355,7 @@ Fowler, M. (s. f.). bliki: Domain Driven Design. martinfowler.com. https://mart
 - Enlace Landing Page: https://upc-pre-202401-si729-ws52-prodev.github.io/LandingPage/
 - Enlace Informe: https://github.com/upc-pre-202401-si729-ws52-ProDev/FinalProject 
 - Enlace Diseño Figma: https://www.figma.com/file/2WKh7U7c7ffAzRhlY3ni09/Landing-Page?type=design&node-id=0%3A1&mode=design&t=ZxPaRkbQ0Ds3Fsfk-1
-- Enlace Video:     
+- Enlace Video:     https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221c628_upc_edu_pe/EcQ62Ws3OsFKke8cbTEPzwwBPv1e6kVuGJP_yCgbuYi20A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=DAb8gb 
 
 </div>
 </div>
