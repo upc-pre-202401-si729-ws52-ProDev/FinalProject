@@ -857,6 +857,133 @@ Se presenta para el segmento de empresarios:
 <strong>Given</strong> tengo acceso a la API de obtencion de informacion de los ordenes por usuario,  
 <strong>When</strong> solicito la informacion de las ordenes de un usuario que aun no ha realizado pedidos,  
 <strong>Then</strong> Recibo un mensaje indicando que no hay registro de pedidos realizados por dicho usuario</td> <td>-</td></tr>
+
+<tr><th>USAP01</th> <td>Registrarse en la Aplicacion</td> 
+  <td>Como visitante del sitio web "EcoMarket", quiero registarme en la aplicacion para poder acceder a todas sus funcionalidades.</td> 
+  <td><strong>Escenario 1:</strong>  
+    
+<strong>Given</strong> Entro a la aplicacion web de EcoMarket,  
+<strong>When</strong> Le doy click al boton que dice "Sign-In",  
+<strong>And</strong> Lleno de forma correcta los campos solictados,  
+<strong>Then</strong> Recibo la notificacion que mi usuario ha sido registrado en la aplicacion.</td> <td>-</td></tr>
+
+<tr><th>USAP02</th> <td>Ingresar a la Aplicacion</td> 
+  <td>Como visitante del sitio web "EcoMarket", quiero iniciar sesion en la aplicacion para poder acceder a todas sus funcionalidades.</td> 
+  <td><strong>Escenario 1:</strong>  
+    
+<strong>Given</strong> Entro a la aplicacion web de EcoMarket,  
+<strong>When</strong> Le doy click al boton que dice "Log-In",  
+<strong>And</strong> Lleno de forma correcta los campos solictados,  
+<strong>Then</strong> Accedo de forma satisfactoria a la aplicacion
+  
+  <strong>Escenario 2:</strong>  
+<strong>Given</strong> Entro a la aplicacion web de EcoMarket,  
+<strong>When</strong> Le doy click al boton que dice "Log-In",  
+<strong>And</strong> Lleno de forma correcta los campos solictados,  
+<strong>Given</strong> Que no estoy registrado en la aplicacion,  
+<strong>Then</strong> La pagina me indica que no estoy registrado en la aplicacion y me redirije a la pantalla de registro de usuario  
+
+  <strong>Escenario 3:</strong>      
+<strong>Given</strong> Entro a la aplicacion web de EcoMarket,  
+<strong>When</strong> Le doy click al boton que dice "Log-In",  
+<strong>And</strong> Lleno de forma incorrecta alguno de los campos solicitados,  
+<strong>Then</strong> La pagina me indica un mensaje de error indicando que uno de los campos es incorrecto</td> <td>-</td></tr>
+
+<tr><th>USAP03</th> <td>Editar Perfil</td> 
+  <td>Como usuario registrado de la aplicacion EcoMarket, quiero editar mi perfil publico para que se muestren datos apropiados acerca de mi propia persona o de mi empresa</td> 
+  <td><strong>Escenario 1:</strong>  
+    
+<strong>Given</strong> Entro a la aplicacion web de EcoMarket,  
+<strong>When</strong> Ingreso de forma correcta a la aplicacion,  
+<strong>And</strong> Ingreso al apartado de "Editar Perfil" o "Editar Perfil de empresa",  
+<strong>When</strong> Lleno los campos solicitados de forma apropiada,  
+<strong>Then</strong> Los datos ingresados se muestran en mi perfil de usuario o de empresa segun lo llenado</td> <td>-</td></tr>
+
+<tr><th>USAP04</th> <td>Catalogo de productos</td> 
+  <td>Como usuario registrado de la aplicacion EcoMarket, quiero que, al ingresar en la aplicacion, se me muestre un catalogo de productos los cuales son exhibidos por las empresas, para asi poder elegir una posible compra</td> 
+  <td><strong>Escenario 1:</strong>  
+    
+<strong>Given</strong> Entro a la aplicacion web de EcoMarket,  
+<strong>And</strong> Ingreso de forma correcta a la aplicacion,   
+<strong>When</strong> Se realiza el inicio de sesion de forma satisfactoria,  
+<strong>Then</strong> Se me mostrara una pantalla con los productos exhibidos por ciertos empresarios o empresas</td> <td>-</td></tr>
+
+<tr><th>USAP05</th> <td>Poner a la venta un productoi</td> 
+  <td>Como empresario/vendedor registrado en la aplicacion, quiero poder poner a la venta productos para que usuarios de la aplicacion puedan comprarlos</td> 
+  <td><strong>Escenario 1:</strong>  
+    
+<strong>Given</strong> Ingreso de forma correcta a la aplicacion,  
+<strong>When</strong> Accedo a mi perfil de vendedor,   
+<strong>And</strong> Doy click al boton de "Añadir producto",  
+<strong>And</strong> Completo los datos del producto de forma satisfactoria,  
+<strong>Then</strong> El producto sera exhibido en el perfil del vendedor y podra ser visto por los demas usuarios
+  
+  <strong>Escenario 2:</strong>  
+<strong>Given</strong> Ingreso de forma correcta a la aplicacion,  
+<strong>When</strong> Accedo a mi perfil de vendedor,   
+<strong>And</strong> Doy click al boton de "Añadir producto",  
+<strong>And</strong> Completo los datos de forma incorrecta o no apropiada,  
+<strong>Then</strong> Se me mostrara un mensaje de error indicando que uno de los campos no ha sido llenado de forma correcta</td> <td>-</td></tr>
+
+<tr><th>USAP06</th> <td>Informacion detallada del producto</td> 
+  <td>Como usuario de la aplicacion EcoMarket, quiero poder acceder a la informacion detallada de un producto para estar bien informado acerca de sus caracteristicas y poder decidir de mejor manera si comprar el producto o no</td> 
+  <td><strong>Escenario 1:</strong>  
+    
+<strong>Given</strong> Ingreso de forma correcta a la aplicacion,  
+<strong>And</strong> Se muestra el catalogo de productos,  
+<strong>When</strong> Hago click en el producto que deseo comprar,  
+<strong>Then</strong> Se me muestra un recuadro del producto en el que se me muestran los detalles del mismo</td> <td>-</td></tr>
+
+  <tr><th>USAP07</th> <td>Poner un producto disponible para donacion</td> 
+  <td>Como empresario/vendedor registrado en la aplicacion, quiero poder colocar productos para ser donados a organizaciones beneficas</td> 
+  <td><strong>Escenario 1:</strong>  
+    
+<strong>Given</strong> Ingreso de forma correcta a la aplicacion,  
+<strong>When</strong> Accedo a mi perfil de vendedor,   
+<strong>And</strong> Doy click al boton de "Realizar donacion",  
+<strong>And</strong> Completo los datos del producto de forma satisfactoria,  
+<strong>Then</strong> El producto sera exhibido en el perfil del vendedor y estara disponible para que alguna organizacion pueda solicitar el recibimiento del mismo
+  
+  <strong>Escenario 2:</strong>  
+<strong>Given</strong> Ingreso de forma correcta a la aplicacion,  
+<strong>When</strong> Accedo a mi perfil de vendedor,   
+<strong>And</strong> Doy click al boton de "Realizar donacion",  
+<strong>And</strong> Completo los datos de forma incorrecta o no apropiada,  
+<strong>Then</strong> Se me mostrara un mensaje de error indicando que uno de los campos no ha sido llenado de forma correcta</td> <td>-</td></tr>
+
+<tr><th>USAP08</th> <td>Vista previa de los productos en el carrito de compras</td> 
+  <td>Como usuario registrado en EcoMarket, quiero que se muestre un resumen de compra con respecto a las compras que voy a realizar, indicandoseme el subtotal de la compra y el precio de cada uno de los productos</td> 
+  <td><strong>Escenario 1:</strong>  
+    
+<strong>Given</strong> Ingreso de forma correcta a la aplicacion,  
+<strong>And</strong> Se me muestra el catalogo de los producotos,   
+<strong>When</strong> Doy click a una serie de productos,  
+<strong>And</strong> Hago click en el icono del carrito de compras,  
+<strong>Then</strong> Se me mostrara un resumen de compra con los producto que he seleccionado
+  
+  <strong>Escenario 2:</strong>  
+<strong>Given</strong> Ingreso de forma correcta a la aplicacion,  
+<strong>And</strong> Se me muestra el catalogo de los producotos,   
+<strong>When</strong> Doy click a una serie de productos,  
+<strong>And</strong> Hago click en el icono del carrito de compras,  
+<strong>When</strong> Hago click en el icono del tacho de basura en el producto  
+<strong>Then</strong> El producto se eliminara del carrito de compras
+
+  <strong>Escenario 3:</strong>  
+<strong>Given</strong> Ingreso de forma correcta a la aplicacion,  
+<strong>And</strong> Se me muestra el catalogo de los producotos,   
+<strong>When</strong> Doy click a una serie de productos,  
+<strong>And</strong> Hago click en el icono del carrito de compras,  
+<strong>When</strong> Hago click en el icono de la suma o la resta en la cantidad de productos  
+<strong>Then</strong> El producto aumentara o disminuira en 1 su cantidad
+
+  <strong>Escenario 4:</strong>  
+<strong>Given</strong> Ingreso de forma correcta a la aplicacion,  
+<strong>And</strong> Se me muestra el catalogo de los producotos,   
+<strong>When</strong> Doy click a una serie de productos,  
+<strong>And</strong> Hago click en el icono del carrito de compras,  
+<strong>When</strong> Ingreso un codigo de bono en el apartado de "bono"  
+<strong>Then</strong> Se añadira un descuento correspondiente segun el bono ingresado</td> <td>-</td></tr>
 </table>
 
 <h3>3.3 Impact Mapping</h3>
