@@ -1544,16 +1544,14 @@ Utilizamos el servicio de GitHub Pages para nuestro despliegue:
 
 Las evidencias para el desarrollo en este sprint son el despliegue de la Landing Page de EcoMarket en un entorno de producción.
 
-<img src="imagenes/DespliegueLanding2.png">
-
-<img src="imagenes/DespliegueLanding3.png">
+<img src="imagenes/5.7.jpeg">
 <div id="5.2.2.8"><h5>5.2.2.8. Team Collaboration Insights during Sprint.</h5></div> 
 
-Se adjuntan las evidencias de colaboración del equipo durante el Sprint #1 de EcoMarket por integrante.
+Se adjuntan las evidencias de colaboración del equipo durante el Sprint #2 de EcoMarket por integrante.
 
-<img src="imagenes/Insights1.png">
+<img src="imagenes/5.8 c.jpeg">
 
-<img src="imagenes/Insights2.png">
+<img src="imagenes/5.8 b.jpeg">
 
 
 
