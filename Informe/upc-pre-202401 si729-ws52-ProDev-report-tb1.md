@@ -985,6 +985,27 @@ Se presenta para el segmento de empresarios:
 <strong>And</strong> Hago click en el icono del carrito de compras,  
 <strong>When</strong> Ingreso un codigo de bono en el apartado de "bono"  
 <strong>Then</strong> Se añadira un descuento correspondiente segun el bono ingresado</td> <td>-</td></tr>
+
+<tr><th>USAP09</th> <td>Realizar pago de un producto</td> 
+  <td>Como usuario de la aplicacion EcoMarket, quiero poder colocar los datos de mi tarjeta de credito o debito para poder comprar un producto</td> 
+  <td><strong>Escenario 1:</strong>  
+    
+<strong>Given</strong> Ingreso de forma correcta a la aplicacion,  
+<strong>When</strong> Doy click en un producto cualquiera,   
+<strong>And</strong> Accedo al carrito de compras,  
+<strong>And</strong> Doy click en "Ir a pagar",  
+<strong>Then</strong> Se me muestra la ventana de pago en la cual puedo ingresar los datos de mi tarjeta  
+<strong>And</strong> Ingreso los datos correctos de mi tarjeta,  
+<strong>Then</strong> El pago es procesado exitosamente.
+ 
+  <strong>Escenario 2:</strong>  
+<strong>Given</strong> Ingreso de forma correcta a la aplicacion,  
+<strong>When</strong> Doy click en un producto cualquiera,   
+<strong>And</strong> Accedo al carrito de compras,  
+<strong>And</strong> Doy click en "Ir a pagar",  
+<strong>Then</strong> Se me muestra la ventana de pago en la cual puedo ingresar los datos de mi tarjeta  
+<strong>When</strong> Uno o mas datos de la tarjeta son ingresados de forma incorrecta,  
+<strong>Then</strong> El pago no es procesado y manda un mensaje de error.</td> <td>-</td></tr>
 </table>
 
 <h3>3.3 Impact Mapping</h3>
