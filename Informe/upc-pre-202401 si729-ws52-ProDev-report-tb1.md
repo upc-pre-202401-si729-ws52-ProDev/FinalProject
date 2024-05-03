@@ -1494,7 +1494,7 @@ Nuestro Sprint #2 se basa en la primera versión de nuestro fronted-web applicat
 | Sprint Velocity                    | 8                                                                                                                                                                                 |
 | Sum of Story Points                | 8                                                                                                                                                                                 |
 
-<div id="5.2.1.2"><h5>5.2.1.2. Sprint Backlog 1</h5></div>
+<div id="5.2.2.2"><h5>5.2.1.2. Sprint Backlog 2</h5></div>
 
 | Sprint # 1 |                | | |             |                   |             |                                         |
 |------------|----------------|-|-|-------------|-------------------|-------------|-----------------------------------------|
@@ -1506,7 +1506,7 @@ Nuestro Sprint #2 se basa en la primera versión de nuestro fronted-web applicat
 | US14       | Elaboración Header | 1.4 | Crear Header | Crear el header de la página web con el logo y menú de navegación | 2 | Fernando    | Done |
 | US15       | Elaboración Footer | 1.5 | Crear Footer | Crear el footer de la página web con información de contacto y enlaces rápidos | 2 | Anderson    | Done |
 | US15       | Elaboración Sección Principal | 1.6 | Crear Sección Principal | Crear la sección principal de la página web con información destacada y llamada a la acción | 2 | Frank       | Done |
-<div id="5.2.1.3"><h5>5.2.1.3. Development Evidence for Sprint Review.</h5></div> 
+<div id="5.2.2.3"><h5>5.2.2.3. Development Evidence for Sprint Review.</h5></div> 
 En esta sección se presentan las evidencias de desarrollo de la Landing Page de EcoMarket, donde se detallan los commits realizados.
 
 | Repository  | Branch | Commit Id| Commit Message      | Commit Message Body | Commited on (Date) |
@@ -1519,35 +1519,35 @@ En esta sección se presentan las evidencias de desarrollo de la Landing Page de
 | LandingPage | main | a7838e2…39a4018 | test:Initial commit | Update index.html   | 2024-04-17         |
 
 
-<div id="5.2.1.4"><h5>5.2.1.4. Testing Suite Evidence for Sprint Review.</h5></div> 
+<div id="5.2.2.4"><h5>5.2.2.4. Testing Suite Evidence for Sprint Review.</h5></div> 
 En esta sección se presentan las evidencias de las pruebas realizadas en la Landing Page de EcoMarket, donde se detallan los resultados obtenidos.
 
 Para nuestra TB1: Evidenciamos la lista de commits que realizamos aportando a nuestro informe.
 
 <img src="imagenes/commitsInforme.png">
 
-<div id="5.2.1.5"><h5>5.2.1.5. Execution Evidence for Sprint Review.</h5></div> 
+<div id="5.2.2.5"><h5>5.2.2.5. Execution Evidence for Sprint Review.</h5></div> 
 En este Sprint pudimos detallar los requisitos y Needfinding de nuestros usuarios. Y de esta manera realizar nuestra documentacion:
 
 Para posteriormente desarrollar nuestra Landing Page y documentamos nuestro proceso:
 
 <img src="imagenes/DesarrolloLanding.png">
 
-<div id="5.2.1.6"><h5>5.2.1.6. Services Documentation Evidence for Sprint Review.</h5></div> 
+<div id="5.2.2.6"><h5>5.2.2.6. Services Documentation Evidence for Sprint Review.</h5></div> 
 Las evidencias de este sprint son la documentación de los servicios utilizados en la implementación de la Landing Page de EcoMarket.
 
 Utilizamos el servicio de GitHub Pages para nuestro despliegue:
 
 <img src="imagenes/DespliegueLanding1.png">
 
-<div id="5.2.1.7"><h5>5.2.1.7. Software Deployment Evidence for Sprint Review. </h5></div> 
+<div id="5.2.2.7"><h5>5.2.2.7. Software Deployment Evidence for Sprint Review. </h5></div> 
 
 Las evidencias para el desarrollo en este sprint son el despliegue de la Landing Page de EcoMarket en un entorno de producción.
 
 <img src="imagenes/DespliegueLanding2.png">
 
 <img src="imagenes/DespliegueLanding3.png">
-<div id="5.2.1.8"><h5>5.2.1.8. Team Collaboration Insights during Sprint.</h5></div> 
+<div id="5.2.2.8"><h5>5.2.2.8. Team Collaboration Insights during Sprint.</h5></div> 
 
 Se adjuntan las evidencias de colaboración del equipo durante el Sprint #1 de EcoMarket por integrante.
 
@@ -1589,5 +1589,7 @@ Fowler, M. (s. f.). bliki: Domain Driven Design. martinfowler.com. https://mart
 </div>
 </div>
 </div>
+
+
 
 
