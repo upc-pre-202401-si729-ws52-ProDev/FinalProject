@@ -1260,8 +1260,6 @@ Nuestro Sprint #1 se basa en la implementación de la Landing Page de EcoMarket,
 | Location                           | Remote                                                                         |
 | Prepared by                        | ProDev                                                                         |
 | Attendaces(to planning meeting)    | Team of ProDev                                                                 |
-| Sprint n – 1 Review Summary        | En esta sprint se enfoca en el desarrollo de nuestra Landing Page              |
-| Sprint n – 1 Retrospective Summary | Al hacer nuestra retrospectiva nos detallamos nuestras oportunidades a mejorar |
 | **Sprint Goal & User Stories**         |
 | Sprint 1 Goal                      | Implementar la Landing Page de EcoMarket                                       |
 |Sprint Velocity                     | 8                                                                              |
@@ -1327,6 +1325,88 @@ Se adjuntan las evidencias de colaboración del equipo durante el Sprint #1 de E
 <img src="imagenes/Insights1.png">
 
 <img src="imagenes/Insights2.png">
+
+<div id='5.2.2'><h4>5.2.2. Sprint 2</h4> </div>
+Nuestro Sprint #2 se basa en la primera versión de nuestro fronted-web application, donde se detallan las actividades realizadas y los resultados obtenidos en cada una de ellas.
+<div id="5.2.2.2"><h5>5.2.2.2. Sprint Planning 2</h5></div>
+
+| Sprint #                           | Sprint 2                                                                                                                                                                          | 
+|------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background**     |
+| Date                               | 2024 - Abril Mayo                                                                                                                                                                 |
+| Time                               | 3 weeks                                                                                                                                                                           |
+| Location                           | Remote                                                                                                                                                                            |
+| Prepared by                        | ProDev                                                                                                                                                                            |
+| Attendaces(to planning meeting)    | Team of ProDev                                                                                                                                                                    |
+| Sprint n – 1 Review Summary        | En la anterior sprint, nos centramos en el desarrollo de nuestra landing page.                                                                                                    |
+| Sprint n – 1 Retrospective Summary | Al hacer nuestra retrospectiva nos detallamos nuestras oportunidades a mejorar como mejorar nuestro informe y corregir ciertos detalles técnicos acerca de nuestran landing page. |
+| **Sprint Goal & User Stories**     |
+| Sprint 2 Goal                      | Implementar la primera versión del fronted web application.                                                                                                                       |
+| Sprint Velocity                    | 8                                                                                                                                                                                 |
+| Sum of Story Points                | 8                                                                                                                                                                                 |
+
+<div id="5.2.1.2"><h5>5.2.1.2. Sprint Backlog 1</h5></div>
+
+| Sprint # 1 |                | | |             |                   |             |                                         |
+|------------|----------------|-|-|-------------|-------------------|-------------|-----------------------------------------|
+| User Story | Work-Item Task |
+| Id         | Title | Id | Title | Description | Estimation(Hours) | Assigned To | Status(To-Do/In-Process/To-Review/Done) |
+| US11       | Crear estructura HTML | 1.1 | Crear archivo index.html | Crear el archivo index.html con la estructura básica de una página web | 2 | Frank       | Done |
+| US12       | Crear estructura CSS | 1.2 | Crear archivo style.css | Crear el archivo style.css con la estructura básica de estilos de la página web | 2 | Nicolas     | Done |
+| US13       | Crear estructura JavaScript | 1.3 | Crear archivo script.js | Crear el archivo script.js con la estructura básica de scripts de la página web | 2 | Frank       | Done |
+| US14       | Elaboración Header | 1.4 | Crear Header | Crear el header de la página web con el logo y menú de navegación | 2 | Fernando    | Done |
+| US15       | Elaboración Footer | 1.5 | Crear Footer | Crear el footer de la página web con información de contacto y enlaces rápidos | 2 | Anderson    | Done |
+| US15       | Elaboración Sección Principal | 1.6 | Crear Sección Principal | Crear la sección principal de la página web con información destacada y llamada a la acción | 2 | Frank       | Done |
+<div id="5.2.1.3"><h5>5.2.1.3. Development Evidence for Sprint Review.</h5></div> 
+En esta sección se presentan las evidencias de desarrollo de la Landing Page de EcoMarket, donde se detallan los commits realizados.
+
+| Repository  | Branch | Commit Id| Commit Message      | Commit Message Body | Commited on (Date) |
+|-------------|--------|----------|---------------------|---------------------|--------------------|
+| LandingPage | main | f102367…044e389 | feat:Initial commit | Create index.html   | 2024 - 04 -17      |
+| LandingPage | main | 044e389…4cefb7f | test:Initial commit | Create index.html   | 2024-04-17         |
+| LandingPage | main | e6a6b01…067a8d1 | test:Initial commit | Create css          | 2024-04-17         |
+| LandingPage | main | 4cefb7f…cbcff97 | test:Initial commit | Create js files     | 2024-04-17         |
+| LandingPage | main |  5f6e995…e905aae | test:Initial commit | Create landing      | 2024-04-17         |
+| LandingPage | main | a7838e2…39a4018 | test:Initial commit | Update index.html   | 2024-04-17         |
+
+
+<div id="5.2.1.4"><h5>5.2.1.4. Testing Suite Evidence for Sprint Review.</h5></div> 
+En esta sección se presentan las evidencias de las pruebas realizadas en la Landing Page de EcoMarket, donde se detallan los resultados obtenidos.
+
+Para nuestra TB1: Evidenciamos la lista de commits que realizamos aportando a nuestro informe.
+
+<img src="imagenes/commitsInforme.png">
+
+<div id="5.2.1.5"><h5>5.2.1.5. Execution Evidence for Sprint Review.</h5></div> 
+En este Sprint pudimos detallar los requisitos y Needfinding de nuestros usuarios. Y de esta manera realizar nuestra documentacion:
+
+Para posteriormente desarrollar nuestra Landing Page y documentamos nuestro proceso:
+
+<img src="imagenes/DesarrolloLanding.png">
+
+<div id="5.2.1.6"><h5>5.2.1.6. Services Documentation Evidence for Sprint Review.</h5></div> 
+Las evidencias de este sprint son la documentación de los servicios utilizados en la implementación de la Landing Page de EcoMarket.
+
+Utilizamos el servicio de GitHub Pages para nuestro despliegue:
+
+<img src="imagenes/DespliegueLanding1.png">
+
+<div id="5.2.1.7"><h5>5.2.1.7. Software Deployment Evidence for Sprint Review. </h5></div> 
+
+Las evidencias para el desarrollo en este sprint son el despliegue de la Landing Page de EcoMarket en un entorno de producción.
+
+<img src="imagenes/DespliegueLanding2.png">
+
+<img src="imagenes/DespliegueLanding3.png">
+<div id="5.2.1.8"><h5>5.2.1.8. Team Collaboration Insights during Sprint.</h5></div> 
+
+Se adjuntan las evidencias de colaboración del equipo durante el Sprint #1 de EcoMarket por integrante.
+
+<img src="imagenes/Insights1.png">
+
+<img src="imagenes/Insights2.png">
+
+
 
 <div id='Conclusiones'><h2>Conclusiones</h2></div>
 
