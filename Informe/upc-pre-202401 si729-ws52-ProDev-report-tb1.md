@@ -272,7 +272,7 @@ Intuitivo, funcional y eficaz, donde el usuario de forma rápida y sencilla real
 #### ***Lean UX Canvas:***
 
 Se presenta el artefacto realizado Lean UX Canvas. La cuál nos ayuda a tener una visión general de nuestro producto y cómo se llevará a cabo.
-<img src="./imagenes/Canvas.jpg">
+<img src="./imagenes/LeanUXCanvas.png">
 
 <div id='1.3.'><h3> 1.3. Segmento objetivo</h3></div>
 
