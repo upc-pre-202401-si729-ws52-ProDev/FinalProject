@@ -367,6 +367,13 @@ A continuacion se presentan las preguntas para el sector de Empresas
 | <img src="imagenes/EntrevistaEmpresa2.png" width = "1550" height ="200"> | En esta entrevista, Kevin nos detalla acerca de su empresa propia, en la que se realizan ventas de productos a través de las Redes Sociales. Despues de la pandemia, afrontaron muchas crisis y vieron reducidas en un numero considerable sus ganacias producto de la perdida de clientes. No obstante, están dispuestos a vender productos siempre y cuando la fecha de vencimiento esté correcta ya que jamás venderían productos que estén vencidos. |
 | Duración entrevista: 04:51 min               | [URL](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181h103_upc_edu_pe/EbWjDXKAVNRJnxzqalZsIUABFUWpzneNUpV3hm5E49Cm2w?e=B1DrWc)                                                                                                                                     |
 
+| Nombre entrevistado                          | Esteban Morales                                                                                                                                                                                              |
+|----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Edad                                         | 25 años                                                                                                                                                                                                    |
+| Departamento                                 | Lima                                                                                                                                                                                                       |
+| <img src="imagenes/EntrevistaCliente3.png" width = "1725" height ="200"> | En la entrevista, Esteban nos cuenta que es gerente de operaciones en una de las sedes de la cadena de supermercados "Plaza Vea". Cuenta que, en todas las sedes del pais, hubo necesidad de realizar un aumento de precios, lo que ocasiono la perdida de una cantidad considerable de clientes. Esteban cuenta que desechan una gran cantidad de productos debido a que, los productos proximos a vencer y defectuosos son declarados como merma y son, en su mayoria, desechados. Esteban dice que no veria con malos ojos la existencia de una aplicacion que permita a las empresas vender sus productos proximos a vencer a un precio menos. |
+| Duración entrevista: 05:34 min               | [URL ](https://drive.google.com/file/d/1iLOrUPxAp5IVJKUenVJAE1f0DgCCLRKz/view?usp=sharing)                                                                                                                             |
+
 
 ***Entrevista a clientes***
 
@@ -399,21 +406,27 @@ A continuacion se presentan las preguntas para el sector de Empresas
 
 <h4>Rango de edad de los posibles usuarios</h4>
 <p>Segun los entrevistados, estos se encuentran en un rango de edad desde los 21 hasta los 27 años. Tenemos que considerar que estas entrevistas se realizaron a personas jovenes, pues estos estan mas adaptados a las tecnologias de hoy en dia. Sin embargo, no descartamos que usuarios mayores de 30 años se sientan atraido por nuestra aplicacion.</p>
+<img src="imagenes/Rango de edades.png" width = "400" height ="400">
 
 <h4>Preferencias a la hora de comprar productos en linea</h4>
 <p>Luego de entrevistar tanto a cleintes como a empresarios, pudimos observar que el tipo de producto mas seleccionado a la hora de realizar compras en linea son las carnes, seguido de los productos electronicos y los lacteos. La categoria de "otros productos" corresponde productos varios comprados por los clientes, agrupando las categorias restantes.</p>
+<img src="imagenes/Rango de productos.png" width = 400" height ="400">
 
 <h4>Que tanto se sintieron afectados los posibles usuarios por la crisis economica?</h4>
 <p>Se le pregunto a nuestros entrevistados que tan afectados se sentian por la crisis economica. Se distinguieron 3 categorias, "poco afectado", "bastante afectado" y "muy afectado".</p>
+<img src="imagenes/Rango de afecto.png" width = "400" height ="400">
 
 <h4>Importancia de la calidad de un producto</h4>
 <p>Segun nuestros entrevistados, logramos identificar que los usuarios sienten que la calidad del producto afecta de 3 posibles manera a la importancia que ellos le dan a la hora de comprarlo.</p>
+<img src="imagenes/Importancia.png" width = "400" height ="400">
   
 <h4>Importancia de la fecha de vencimiento de un producto</h4>
 <p>Segun nuestros entrevistados, la fecha de vencimiento es un factor que puede afectar de 3 posibles maneras la desicion de si comprar o no un producto: no muy importante, bastante importante y muy importante</p>
+<img src="imagenes/Importancia-fdv.png" width = "400" height ="400">
 
 <h4>Posible rentabilidad de la aplicacion</h4>
 <p>Nuestros entrevistados consideran que la rentabilidad de nuestra aplicacion puede ser medida a traves de 3 apartados: no rentable, rentable y muy rentable</p>
+<img src="imagenes/Rentabilidad.png" width = "400" height ="400">
 
   <div id='2.3.'><h3> 2.3. Needfinding</h3></div>
   <h4>2.3.1 User Persona</h4>
