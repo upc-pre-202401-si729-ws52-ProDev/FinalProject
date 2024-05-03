@@ -10,6 +10,7 @@
 <h4 style="text-align: center;"> Docente: Elio Jefferson Navarrete Vilca </h4>
 <h4 style="text-align: center;"> Startup:  ProDev</h4>
 <h4 style="text-align: center;"> Producto: EcoMarket</h4>
+<h4 style="text-align: center;"> Grupo de Trabajo: Grupo 2</h4>
 
 ## Team Members
 |              Nombre               | Código de alumno |
