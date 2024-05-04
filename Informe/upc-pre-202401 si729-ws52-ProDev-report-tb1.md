@@ -10,7 +10,7 @@
 <h4 style="text-align: center;"> Docente: Elio Jefferson Navarrete Vilca </h4>
 <h4 style="text-align: center;"> Startup:  ProDev</h4>
 <h4 style="text-align: center;"> Producto: EcoMarket</h4>
-<h4 style="text-align: center;"> Grupo de Trabajo: Grupo 2</h4>
+<h4 style="text-align: center;"> Grupo de Trabajo: Grupo 1</h4>
 
 ## Team Members
 |              Nombre               | Código de alumno |
@@ -29,6 +29,10 @@
 | 12/04/2024 |   1.3   | Cortes Nicolas  |   Elaboración de los diagramas c4, mejora de los user stories    |
 | 12/04/2024 |   1.4   | Quispe Fernando | Incorporación diagrama de clases y modelado Diseño Base de datos |
 | 12/04/2024 |   1.4   |      Todos      |                   Revisión final - Entrega TB1                   |
+| 1/05/2024  |   1.5   |      Todos      |                   Correcciones respecto a TB1                    |
+| 3/05/2024  |   2.0   |      Todos      |                        Revisión Final TP                         |
+
+
 ## Project Report Collaboration Insights
 
 
@@ -43,8 +47,22 @@ URL de la organización en Github del proyecto: https://github.com/upc-pre-20240
 | Salazar Saldarriaga, Frank Junior |                                                      Startup Profile, Solution Profile, Lean UX, Segmentos Objetivos, Landing Page                                                      |
 |Macedo Calsina, Anderson Walter    |                                                                 Web Application Design, Prototyping Design, Entrevistas                                                                 |
 
+**TP**
+
+|            Integrante             |                                             Tareas Asignadas                                              |
+|:---------------------------------:|:---------------------------------------------------------------------------------------------------------:|
+|  Quispe Condori, Fernando Daniel  | Elaboración de componentes referentes a tareas asignadas en el sprint backlog 2. Despliegue del proyecto. |
+|  Cortes Hidalgo, Nicolas Andres   |         Mejoras respecto al feedback TB1. Elaboración componentes referente al sprint backlog 2.          |
+| Salazar Saldarriaga, Frank Junior |             Elaboración de componentes respecto al spring backlog 2. Despliegue del proyecto.             |
+|  Macedo Calsina, Anderson Walter  |                         Elaboración de componentes respecto al sprint backlog 2.                          |
+
+
 
 ***TB1 Github***: https://github.com/upc-pre-202401-si729-ws52-ProDev/FinalProject 
+
+***TP Github - Fronted Web Application***: https://github.com/upc-pre-202401-si729-ws52-ProDev/fronted-web-application-ProDev 
+
+***Despliegue fronted EcoMarket***: https://fronted-ecomarket.web.app
 
 
 ## Contenido
@@ -116,11 +134,7 @@ URL de la organización en Github del proyecto: https://github.com/upc-pre-20240
    [**Anexos**](#Anexos)<br>
 
 
-
-
-
-
-
+   
 
 ## Student Outcome
 El curso contribuye al cumplimiento del Student Outcome ABET:
@@ -131,24 +145,23 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de
 conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
 del ABET – EAC - Student Outcome 3
 
-| Criterio especifico                                                                                                                                                                | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Conclusiones                                                                                                                                                                                                                                                                             |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | <b>Quispe Condori, Fernando Daniel</b><br/> TB1: Desarrollo del vídeo de exposición comunicando las ideas de nuestros artefactos. <br/> TP: Durante el Sprint 2, participé activamente en reuniones de planificación y revisión donde comuniqué oralmente nuestras ideas, incluyendo miembros del equipo con diversos niveles de experiencia técnica. Utilicé un lenguaje claro y objetivo para garantizar que todos comprendieran nuestro enfoque y los desafíos que enfrentábamos. <br/> <b>Cortes Hidalgo, Nicolas Andres</b><br/> TB1: Desarrollo del video de exposicion comunicando la mayor parte de los apartados tecnicos y de enfoque de usuarios y clientes de la aplicacion <br/> TP: Contribuí a la comunicación oral al facilitar la interacción efectiva entre los miembros del equipo durante el Sprint 2. Fomenté un ambiente de colaboración abierta donde todos tuvieran la oportunidad de expresar sus ideas y preocupaciones, lo que permitió una comunicación clara y fluida en todas las etapas del desarrollo. <b>Salazar Frank</b><br/> TB1:  Me encargue de la elaboración de Wireframes y contribución de landing page permitiendome cumplir con el outcome. <br/> TP: Durante el Sprint 2, me aseguré de comunicar oralmente nuestras ideas y resultados de manera efectiva a diferentes audiencias dentro del equipo. Participé en discusiones y presentaciones donde expliqué con claridad las decisiones y acciones tomadas durante el desarrollo de la aplicación ProDev, asegurando que todos estuvieran al tanto del progreso y los desafíos.<br/> <b>Anderson Maceda</b><br/> TB1: Realize entrevistas a los segmentos objetivo que me permitieron adentrarme en tema y concocer a nuestro publico objetivo. <br/> TP: Contribuí a la comunicación oral al presentar de manera efectiva los avances y resultados del desarrollo. Durante las reuniones de revisión del sprint, expliqué con claridad las funcionalidades implementadas y las pruebas realizadas, facilitando la comprensión de nuestro progreso por parte de todos los involucrados.<br/> | **TB1:** En esta entrega pudimos concluir que el desarrollar nuestros artefactos para el análisis de los requisitos de nuestra idea de software, no solo basta con tenerlo en un informe. Tenemos que comunicarlo y explicarlo para que una audiencia general pueda entender claramente. <br/> **TP:** Durante la entrega del presente trabajo, cada miembro del equipo comunico oralmente ideas complejas y resultados técnicos a diversas audiencias. Desde reuniones de planificación hasta presentaciones de revisión de sprint, la comunicación oral fue clara, concisa y efectiva, lo que facilitó una comprensión compartida del progreso y los desafíos del proyecto. |
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | <b>Quispe Condori, Fernando Daniel</b><br/> TB1: Desarrollo artefactos Needfinding y Diagramas de clases y datos. <br/> TP: Durante el Sprint 2, me enfoqué en la comunicación escrita al elaborar documentación detallada sobre los procesos y decisiones clave del equipo. Escribí informes y documentos técnicos con un enfoque objetivo, asegurándome de que la información fuera clara y accesible para todos los interesados en el desarrollo de la aplicación ProDev. <br/> <b>Cortes Hidalgo, Nicolas Andres</b><br/> TB1: Me encargue del desarrollo de los diagramas de componentes, contexto y contenedores, asi como las user stories y el product backlog. <br/>  TP: Contribuí a la comunicación escrita al documentar las actividades y resultados del equipo durante el Sprint 2. Escribí informes de progreso y documentación técnica con un lenguaje claro y objetivo, lo que permitió a otros miembros del equipo entender fácilmente nuestras acciones y seguir nuestro progreso en el desarrollo de la aplicación.  <b>Salazar Frank</b><br/> TB1: También realize actividades de Needfindng.      <br/>    TP:  Durante el Sprint 2, me encargué de comunicar por escrito nuestras ideas y resultados a través de informes y documentación técnica detallada. Escribí con claridad y precisión, asegurándome de que la información fuera comprensible para audiencias con diferentes niveles de experiencia técnica, incluyendo desarrolladores, gerentes y otros interesados en el proyecto.<br/> <b>Anderson Maceda</b><br/> TB1: Realize Wireframes, mockups y user flows que me permitieron cumplir con los diseños <br/>  TP: Contribuí a la comunicación escrita al elaborar documentación exhaustiva sobre los servicios y procesos implementados en nuestra aplicación ProDev durante el Sprint 2. Escribí con un enfoque objetivo y claro, asegurándome de que la información fuera fácilmente comprensible y accesible para todos los involucrados en el proyecto.                                                                             | **TB1:** Tenemos cómo conclusión que nuestros artefactos de obtenciónde requisitos tienen que también enfocarse al público en general, ya sea con distintas especialidades por ejemplo. Para una correcta comunicación entre todos y llevar el proyecto de forma satisfactoria.<br/> **TP**: Durante el presente trabajo, nuestro equipo destacó por su habilidad para comunicar ideas y resultados de manera escrita de forma clara y objetiva. Desde la elaboración de informes de progreso hasta la documentación técnica detallada, proporcionamos una base sólida para el entendimiento y seguimiento del proyecto para llevar a cabo la realizacion del mismo.          |
+| Criterio especifico                                                                                                                                                                   | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.    | <b>Quispe Condori, Fernando Daniel</b><br/> TB1: Desarrollo del vídeo de exposición comunicando las ideas de nuestros artefactos. <br/> TP: Durante el Sprint 2, participé activamente en reuniones de planificación y revisión donde comuniqué oralmente nuestras ideas, incluyendo miembros del equipo con diversos niveles de experiencia técnica. Utilicé un lenguaje claro y objetivo para garantizar que todos comprendieran nuestro enfoque y los desafíos que enfrentábamos. <br/> <b>Cortes Hidalgo, Nicolas Andres</b><br/> TB1: Desarrollo del video de exposicion comunicando la mayor parte de los apartados tecnicos y de enfoque de usuarios y clientes de la aplicacion <br/> TP: Contribuí a la comunicación oral al facilitar la interacción efectiva entre los miembros del equipo durante el Sprint 2. Fomenté un ambiente de colaboración abierta donde todos tuvieran la oportunidad de expresar sus ideas y preocupaciones, lo que permitió una comunicación clara y fluida en todas las etapas del desarrollo. <b>Salazar Frank</b><br/> TB1:  Me encargue de la elaboración de Wireframes y contribución de landing page permitiendome cumplir con el outcome. <br/> TP: Durante el Sprint 2, me aseguré de comunicar oralmente nuestras ideas y resultados de manera efectiva a diferentes audiencias dentro del equipo. Participé en discusiones y presentaciones donde expliqué con claridad las decisiones y acciones tomadas durante el desarrollo de la aplicación ProDev, asegurando que todos estuvieran al tanto del progreso y los desafíos.<br/> <b>Anderson Maceda</b><br/> TB1: Realize entrevistas a los segmentos objetivo que me permitieron adentrarme en tema y concocer a nuestro publico objetivo. <br/> TP: Contribuí a la comunicación oral al presentar de manera efectiva los avances y resultados del desarrollo. Durante las reuniones de revisión del sprint, expliqué con claridad las funcionalidades implementadas y las pruebas realizadas, facilitando la comprensión de nuestro progreso por parte de todos los involucrados.<br/> | **TB1:** En esta entrega pudimos concluir que el desarrollar nuestros artefactos para el análisis de los requisitos de nuestra idea de software, no solo basta con tenerlo en un informe. Tenemos que comunicarlo y explicarlo para que una audiencia general pueda entender claramente. <br/> **TP:** Durante la entrega del presente trabajo, cada miembro del equipo comunico oralmente ideas complejas y resultados técnicos a diversas audiencias. Desde reuniones de planificación hasta presentaciones de revisión de sprint, la comunicación oral fue clara, concisa y efectiva, lo que facilitó una comprensión compartida del progreso y los desafíos del proyecto. |
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | <b>Quispe Condori, Fernando Daniel</b><br/> TB1: Desarrollo artefactos Needfinding y Diagramas de clases y datos. <br/> TP: Durante el Sprint 2, me enfoqué en la comunicación escrita al elaborar documentación detallada sobre los procesos y decisiones clave del equipo. Escribí informes y documentos técnicos con un enfoque objetivo, asegurándome de que la información fuera clara y accesible para todos los interesados en el desarrollo de la aplicación ProDev. <br/> <b>Cortes Hidalgo, Nicolas Andres</b><br/> TB1: Me encargue del desarrollo de los diagramas de componentes, contexto y contenedores, asi como las user stories y el product backlog. <br/>  TP: Contribuí a la comunicación escrita al documentar las actividades y resultados del equipo durante el Sprint 2. Escribí informes de progreso y documentación técnica con un lenguaje claro y objetivo, lo que permitió a otros miembros del equipo entender fácilmente nuestras acciones y seguir nuestro progreso en el desarrollo de la aplicación.  <b>Salazar Frank</b><br/> TB1: También realize actividades de Needfindng.      <br/>    TP:  Durante el Sprint 2, me encargué de comunicar por escrito nuestras ideas y resultados a través de informes y documentación técnica detallada. Escribí con claridad y precisión, asegurándome de que la información fuera comprensible para audiencias con diferentes niveles de experiencia técnica, incluyendo desarrolladores, gerentes y otros interesados en el proyecto.<br/> <b>Anderson Maceda</b><br/> TB1: Realize Wireframes, mockups y user flows que me permitieron cumplir con los diseños <br/>  TP: Contribuí a la comunicación escrita al elaborar documentación exhaustiva sobre los servicios y procesos implementados en nuestra aplicación ProDev durante el Sprint 2. Escribí con un enfoque objetivo y claro, asegurándome de que la información fuera fácilmente comprensible y accesible para todos los involucrados en el proyecto.                                                                                           | **TB1:** Tenemos cómo conclusión que nuestros artefactos de obtenciónde requisitos tienen que también enfocarse al público en general, ya sea con distintas especialidades por ejemplo. Para una correcta comunicación entre todos y llevar el proyecto de forma satisfactoria.<br/> **TP**: Durante el presente trabajo, nuestro equipo destacó por su habilidad para comunicar ideas y resultados de manera escrita de forma clara y objetiva. Desde la elaboración de informes de progreso hasta la documentación técnica detallada, proporcionamos una base sólida para el entendimiento y seguimiento del proyecto para llevar a cabo la realizacion del mismo.          |
 
 
 <div id='1.'><h2>Capítulo I: Introducción</h2></div>
 <div id='1.1.'><h3> 1.1 Startup Profile</h3></div>
-En esta sección se presenta la descripción de nuestra startup "Pro Dev" y los perfiles de los miembros del equipo.
-En el Perú, se estima que se desperdician aproximadamente 13 millones de toneladas en alimentos anualmente. Se estima que el 28% de las pérdidas ocurren en la etapa del procesamiento de los alimentos y el 25% en la etapa agrícola.
-Se ha podido observar que muchas empresas dedicadas a la industria alimentaria suelen vender sus productos a precios cómodos cuando están cerca de su fecha de vencimiento al pie de las puertas de su fábrica. Este es un ejemplo claro de aquellos productos almacenados hasta caducar y, en reiteradas ocasiones, debido a la desinformación, no se llegan a tomar los cuidados debidos, lo que genera pérdidas millonarias a las empresas.
-
+"Pro Dev" es una startup tecnológica dedicada a combatir el desperdicio de alimentos en Perú mediante el desarrollo de soluciones innovadoras que conectan a productores, procesadores, y consumidores finales. Nuestra plataforma utiliza tecnología avanzada para facilitar la distribución eficiente de alimentos que están cerca de su fecha de vencimiento, asegurando que estos lleguen a consumidores a precios reducidos y en condiciones óptimas, reduciendo así el impacto ambiental y económico del desperdicio alimentario.
 <div id='1.1.1.'><h4> 1.1.1. Descripción del startup</h4></div>
 ProDev, es una startup la cual se enfoca en vender productos de calidad a precios altamente accesibles. Nuestra empresa nace debido a la gran preocupación por el desperdicio de alimentos a nivel nacional. Hemos buscado abordar dicho problema desarrollando una aplicación la cual permite a nuestros clientes la compra de productos de supermercados o negocios a precios altamente accesibles, esto tomando en cuenta que los productos están cerca a su fecha de vencimiento y de tal manera evitando el desperdicio de estos alimentos. El desarrollo de nuestra aplicación contará con una atractiva e intuitiva interfaz, como a la vez contará con un catálogo variado de centros comerciales y empresas, asegurándonos de que el cliente cuente con la mayor diversidad de productos posible.
 
-**Misión:** Poder ofrecer un servicio de excelente calidad a nuestros clientes y a la vez mantener la alta calidad en nuestros productos. 
+**Misión:**
+Nuestra misión es proporcionar un servicio excepcional a nuestros clientes, garantizando al mismo tiempo que mantenemos la más alta calidad en cada uno de nuestros productos. Nos esforzamos por ofrecer soluciones sostenibles y eficientes que no solo satisfagan las necesidades de nuestros clientes, sino que también contribuyan a la reducción del desperdicio de alimentos, promoviendo un impacto positivo tanto en la sociedad como en el medio ambiente.
 
-**Visión:** Ser líderes a nivel nacional en la venta y distribución de productos con precios accesibles y a la vez con gran calidad, buscando lograr más de 10,000 de ventas al mes.
+**Visión:**
+Aspiramos a ser líderes a nivel nacional en la venta y distribución de productos alimenticios, destacándonos por la accesibilidad y la alta calidad de nuestros productos. Nos proponemos alcanzar más de 10,000 ventas al mes, implementando prácticas innovadoras y sostenibles que nos diferencien en el mercado y nos permitan expandir nuestro alcance a todos los rincones del país.
 
 
 ##### Logotipo de la Startup: 
@@ -527,6 +540,7 @@ Se presenta para el segmento de empresarios:
 <table>
   <tr><th>User Story ID</th> <th>Titulo</th> <th>Descripcion</th> <th>Criterios de aceptacion</th> <th>Epic ID</th></tr>
   <tr><th colspan = "5">Segmento cliente</th></tr>
+
   <tr><th>US001</th> <td>Añadir un producto al carrito</td> <td>Como usuario, quiero poder agregar un producto a mi carrito de compras para luego revisar cual es el subtotal de los productos seleccionados.</td> 
 <td><strong>Escenario 1:</strong> Selección y Agregado al Carrito  
   
@@ -1006,6 +1020,27 @@ Se presenta para el segmento de empresarios:
 <strong>Then</strong> Se me muestra la ventana de pago en la cual puedo ingresar los datos de mi tarjeta  
 <strong>When</strong> Uno o mas datos de la tarjeta son ingresados de forma incorrecta,  
 <strong>Then</strong> El pago no es procesado y manda un mensaje de error.</td> <td>-</td></tr>
+
+
+<tr>
+  <th>USAP10</th>
+  <td>Mostrar Lista de Donaciones de Usuarios</td>
+  <td>Como vendedor quiero visualizar la lista de donaciones para poder saber las donaciones que he realizado y su información.</td>
+  <td>
+    <strong>Escenario 1:</strong>
+    <strong>Given</strong> Ingreso de forma correcta a la aplicación,
+    <strong>When</strong> Navego a la sección de 'Donaciones' en la barra de herramientas,
+    <strong>Then</strong> Puedo ver en la parte izquierda la lista de donaciones que he realizado con detalles como fecha, cantidad donada, y organización beneficiada.
+
+  <strong>Escenario 2:</strong>
+  <strong>Given</strong> Ingreso de forma correcta a la aplicación,
+  <strong>When</strong> Navego a la sección de 'Donaciones' en la barra de herramientas,
+  <strong>And</strong> No he realizado ninguna donación,
+  <strong>Then</strong> Se muestra una lista vacía y un mensaje indicando que no hay donaciones realizadas.
+  </td>
+  <td>-</td>
+</tr>
+
 </table>
 
 <h3>3.3 Impact Mapping</h3>
@@ -1017,7 +1052,7 @@ Se presenta para el segmento de empresarios:
 <h3>3.4 Product Backlog</h3>
 <table>
   <tr><th>User Story</th> <th>Titulo</th> <th>Descripcion</th> <th>Story Points</th></tr>
-  <tr><th colspan = "5">Segemento Cliente</th></tr>
+  <tr><th colspan = "5">Segmento Cliente</th></tr>
   <tr><th>US001</th> <td>Añadir un producto al carrito</td> <td>Como usuario, quiero poder agregar un producto a mi carrito de compras para luego revisar cual es el subtotal de los productos seleccionados.</td> <th>8</th></tr>
   
   <tr><th>US002</th> <td>Mostrar carrito de compras con resumen de orden y botón de pago</td> <td>Como usuario, deseo poder ver un resumen de mi compra en el carrito y tener un botón en el cual puedo seleccionar mis métodos de pago y realizarlo</td> <th>8</th></tr>
@@ -1028,7 +1063,7 @@ Se presenta para el segmento de empresarios:
   
   <tr><th>US005</th> <td>Ingreso en la aplicación EcoMarket</td> <td>Como usuario, quiero poder ingresar mi cuenta en la aplicación EcoMarket, utilizando mi correo electronico mi contraseña para acceder a todas las funcionalidades que la aplicación ofrece</td> <th>5</th></tr>
   
-  <tr><th colspan = "5">Segemento Vendedor</th></tr>
+  <tr><th colspan = "5">Segmento Vendedor</th></tr>
   <tr><th>US006</th> <td>Añadir un nuevo producto</td> <td>Como vendedor, deseo poder añadir un producto a la aplicación EcoMarket, para así poder exhibir los productos que tengo para ofrecer a los demás usuarios</td> <th>8</th></tr>
   
   <tr><th>US007</th> <td>Mostrar mis productos al iniciar sesión</td> <td>Como vendedor, quiero que, al iniciar sesion en la aplicación EcoMarket, se me muestre la lista de los productos que tengo exhibidos en mi cuenta, para así poder gestionarlos de manera eficiente</td> <th>5</th></tr>
@@ -1039,7 +1074,7 @@ Se presenta para el segmento de empresarios:
   
   <tr><th>US010</th> <td>Registro de vendedor</td> <td>Como nuevo vendedor, deseo crear una cuenta en la aplicación EcoMarket proporcionando la información necesaria, incluyendo correo electrónico, nombre de empresa, RUC, dirección, teléfono y contraseña, para acceder a los servicios de la aplicación como vendedor.</td> <th>2</th></tr>
   
-  <tr><th colspan = "5">Segemento Landing Page</th></tr>
+  <tr><th colspan = "5">Segmento Landing Page</th></tr>
   <tr><th>TS01</th> <td>Post Organization</td> <td>Como desarrollador que trabaja en la aplicación de EcoMarket, quiero registrar a una nueva organización mediante una API para visualizar las organizaciones afiliadas a nuestra aplicación</td> <th>3</th></tr>
   
   <tr><th>TS02</th> <td>Get Organization</td> <td>Como desarrollador que trabaja en la aplicación de EcoMarket, quiero obtener la información de una organización mediante una API para mostrarla en la aplicación cuando se solicite</td> <th>3</th></tr>
@@ -1059,6 +1094,20 @@ Se presenta para el segmento de empresarios:
   <tr><th>TS09</th> <td>Get Orders by selected product</td> <td>Como desarrollador que trabaja en la aplicación de EcoMarket, quiero obtener la información de las ordenes que tienen un o varios productos en comun mediante una API para mostrarla en la aplicación cuando sea solicite.</td> <th>5</th></tr>
   
   <tr><th>TS10</th> <td>Get Orders by user</td> <td>Como desarrollador que trabaja en la aplicación de EcoMarket, quiero obtener la información de los pedidos que ha realizado un usuario en concreto mediante una API para mostrarla en la aplicación cuando sea solicite.</td> <th>5</th></tr>
+
+  <tr><th colspan="5">Segmento Aplicación</th></tr>
+  <tr><th>ID</th> <th>Nombre</th> <th>Descripción</th> <th>Story Points</th></tr>
+  <tr><th>USAP01</th> <td>Registrarse en la Aplicación</td> <td>Como visitante del sitio web "EcoMarket", quiero registrarme en la aplicación para poder acceder a todas sus funcionalidades.</td> <td>3</td></tr>
+  <tr><th>USAP02</th> <td>Ingresar a la Aplicación</td> <td>Como visitante del sitio web "EcoMarket", quiero iniciar sesión en la aplicación para poder acceder a todas sus funcionalidades.</td> <td>3</td></tr>
+  <tr><th>USAP03</th> <td>Editar Perfil</td> <td>Como usuario registrado de la aplicación EcoMarket, quiero editar mi perfil público para que se muestren datos apropiados acerca de mi propia persona o de mi empresa.</td> <td>5</td></tr>
+  <tr><th>USAP04</th> <td>Catálogo de Productos</td> <td>Como usuario registrado de la aplicación EcoMarket, quiero que, al ingresar en la aplicación, se me muestre un catálogo de productos los cuales son exhibidos por las empresas, para así poder elegir una posible compra.</td> <td>5</td></tr>
+  <tr><th>USAP05</th> <td>Poner a la venta un producto</td> <td>Como empresario/vendedor registrado en la aplicación, quiero poder poner a la venta productos para que usuarios de la aplicación puedan comprarlos.</td> <td>5</td></tr>
+  <tr><th>USAP06</th> <td>Información Detallada del Producto</td> <td>Como usuario de la aplicación EcoMarket, quiero poder acceder a la información detallada de un producto para estar bien informado acerca de sus características y poder decidir de mejor manera si comprar el producto o no.</td> <td>3</td></tr>
+  <tr><th>USAP07</th> <td>Poner un producto disponible para donación</td> <td>Como empresario/vendedor registrado en la aplicación, quiero poder colocar productos para ser donados a organizaciones benéficas.</td> <td>5</td></tr>
+  <tr><th>USAP08</th> <td>Vista previa de los productos en el carrito de compras</td> <td>Como usuario registrado en EcoMarket, quiero que se muestre un resumen de compra con respecto a las compras que voy a realizar, indicándoseme el subtotal de la compra y el precio de cada uno de los productos.</td> <td>3</td></tr>
+  <tr><th>USAP09</th> <td>Realizar pago de un producto</td> <td>Como usuario de la aplicación EcoMarket, quiero poder colocar los datos de mi tarjeta de crédito o débito para poder comprar un producto.</td> <td>8</td></tr>
+  <tr><th>USAP10</th> <td>Mostrar Lista de Donaciones de Usuarios</td> <td>Como vendedor quiero visualizar la lista de donaciones para poder saber las donaciones que he realizado y su información.</td> <td>5</td></tr>
+
 </table>
 
 
@@ -1496,30 +1545,30 @@ Nuestro Sprint #2 se basa en la primera versión de nuestro fronted-web applicat
 
 <div id="5.2.2.2"><h5>5.2.1.2. Sprint Backlog 2</h5></div>
 
-| Sprint # 2 |                | | |             |                   |             |                                         
-|------------|----------------|-|-|-------------|-------------------|-------------|
-| User Story | Work-Item Task |
-| Id         | Title | Id | Description | Estimation(Hours) | Assigned To | Status(To-Do/In-Process/To-Review/Done) |
-| USAP01       | Registrarse en la aplicacion | 2.1  | Crear el componente que permita el registro de un nuevo usuario con los datos correspondientes | 4 | Frank       | Done |
-| USAP02       | Iniciar sesion en la aplicacion | 2.2 | Crear el componente que permita el inicio de sesion con credenciales ya registradas | 2 | Nicolas     | Done |
-| USAP03       | Editar perfil | 2.3 | Crear el componente que permita editar el perfil de un usuario de la aplicacion | 3 | Frank       | Done |
-| USAP04       | Catalogo de productos | 2.4 | Crear el componente que muestre un catalogo de productos al momento de iniciar sesion | 3 | Fernando    | Done |
-| USAP05       | Poner a la venta un producto | 2.5 | Crear el componente que le permita a la empresa o a un vendedor poner a la venta un producto cualquiera | 4 | Anderson    | Done |
-| USAP06       | Informacion detallada del producto | 2.6 | Crear el componente que permita que, al hacer click en un producto, se muestren los detalles del mismo | 3 | Frank       | Done |
-| USAP07       | Poner un producto disponible para donacion | 2.7 | Crear un componente que permita a una empresa o vendedor un producto disponible para la donacion | 5 | Anderson       | Done |
-| USAP08       | Vista previa de los productos en el carrito de compras | 2.8 | Crear un componente que permita ver los productos seleccionaods antes de comprarlos en un carrito de compras | 4 | Nicolas       | Done |
-| USAP09       | Realizar el pago de un producto | 2.9 | Crear un componente que permita a un usuario realizar el pago de un producto ingresando su tarjeta de debito o credito | 5 | Fernando       | Done |
-<div id="5.2.2.3"><h5>5.2.2.3. Development Evidence for Sprint Review.</h5></div> 
-En esta sección se presentan las evidencias de desarrollo de la Landing Page de EcoMarket, donde se detallan los commits realizados.
+| Sprint # 2 |                                                        |     |                                                                                                                      |                   |             |                                         |                                         
+|------------|--------------------------------------------------------|-----|----------------------------------------------------------------------------------------------------------------------|-------------------|-------------|-----------------------------------------|
+| User Story | Work-Item Task                                         |
+| Id         | Title                                                  | Id  | Description                                                                                                          | Estimation(Hours) | Assigned To | Status(To-Do/In-Process/To-Review/Done) |
+| USAP01     | Registrarse en la aplicacion                           | 2.1 | Crear el componente que permita el registro de un nuevo usuario con los datos correspondientes                       | 4                 | Frank       | Done                                    |
+| USAP02     | Iniciar sesion en la aplicacion                        | 2.2 | Crear el componente que permita el inicio de sesion con credenciales ya registradas                                  | 4                 | Nicolas     | Done                                    |
+| USAP03     | Editar perfil Cliente                                  | 2.3 | Crear el componente que permita editar el perfil de un usuario de la aplicacion                                      | 4                 | Frank       | Done                                    |
+| USAP11     | Editar perfil  Vendedor - Compañía                     | 2.4 | Crear el componente que permita editar el perfil de una compañia de la aplicación accediento a datos de la compañia. | 4                 | Fernando    | Done                                    |
+| USAP04     | Catalogo de productos para clientes                    | 2.5 | Crear el componente que muestre un catalogo de productos que estan disponibles.                                      | 4                 | Anderson    | Done                                    |
+| USAP05     | Poner a la venta un producto                           | 2.6 | Crear el componente que le permita a la empresa o a un vendedor poner a la venta un producto cualquiera              | 4                 | Anderson    | Done                                    |
+| USAP07     | Poner un producto disponible para donacion             | 2.7 | Crear un componente que permita a una empresa o vendedor un producto disponible para la donacion                     | 5                 | Fernando    | Done                                    |
+| USAP10 | Visualizar donaciones                                  | 2.9 | Crear un componente que permita al vendedor visualizar las donaciones que ha realizado.                              | 6                 | Fernando    | Done |
 
-| Repository  | Branch | Commit Id| Commit Message      | Commit Message Body | Commited on (Date) |
-|-------------|--------|----------|---------------------|---------------------|--------------------|
-| LandingPage | main | f102367…044e389 | feat:Initial commit | Create index.html   | 2024 - 04 -17      |
-| LandingPage | main | 044e389…4cefb7f | test:Initial commit | Create index.html   | 2024-04-17         |
-| LandingPage | main | e6a6b01…067a8d1 | test:Initial commit | Create css          | 2024-04-17         |
-| LandingPage | main | 4cefb7f…cbcff97 | test:Initial commit | Create js files     | 2024-04-17         |
-| LandingPage | main |  5f6e995…e905aae | test:Initial commit | Create landing      | 2024-04-17         |
-| LandingPage | main | a7838e2…39a4018 | test:Initial commit | Update index.html   | 2024-04-17         |
+<div id="5.2.2.3"><h5>5.2.2.3. Development Evidence for Sprint Review.</h5></div> 
+En esta sección se presentan las evidencias de desarrollo del fronted de EcoMarket, donde se detallan los commits realizados.
+
+| Repository  | Branch                       | Commit Id| Commit Message                | Commit Message Body      | Commited on (Date) |
+|-------------|------------------------------|----------|-------------------------------|--------------------------|--------------------|
+| Fronted-EcoMarket | develop                      |71c11ce41c5f7aa363475d2dadce32715fe8ba24 | initial committ               | Create project           | 2024 - 04 -24      |
+| Fronted-EcoMarket | feature/donations-management | b3ba14fbdee296cff77d515c38202d07baa197e5| feat:add donations management | Create project           | 2024 - 04 -24      |
+| Fronted-EcoMarket | feature/profile-edit         |62031fe14fec032bdc01da536d13515e6f027212 | feat:add profile-edit         | Create feature and merge | 2024 - 04 -27      |
+| Fronted-EcoMarket | feature/log-in               |5216d0aa0642d2fa7aa462e373b1f0016de4cee5 | feat:add log-in component     | Create feature and merge        | 2024 - 04 -30      |
+| Fronted-EcoMarket | feature/sign-up              | 7b3b3 | feat:add sign-up component    | Create feature and merge | 2024 - 04 -30      |
+
 
 
 <div id="5.2.2.4"><h5>5.2.2.4. Testing Suite Evidence for Sprint Review.</h5></div> 
