@@ -395,7 +395,7 @@ A continuacion se presentan las preguntas para el sector de Empresas
 | Edad                                         | 25 años                                                                                                                                                                                                    |
 | Departamento                                 | Lima                                                                                                                                                                                                       |
 | <img src="imagenes/Entrevista6.png" width = "1700" height ="200"> | En la entrevista, Geyko nos comenta que es el administrador de una empresa familiar dedicada a la venta de productos alimenticios basicos, la cual heredo debido a la decision de padre de retirarse. Gyeko nos comenta que se ha visto forzado a aumentar el precio de sus productos debido a esta ultima recesion. Sin embargo, Geyko ve con buenos ojos la aplicacion propuesta por nosotros, debido a que le permitiria vender productos cotidianos a un precio bajo. |
-| Duración entrevista: 05:34 min               | [URL ](https://drive.google.com/file/d/1iLOrUPxAp5IVJKUenVJAE1f0DgCCLRKz/view?usp=sharing)                                                                                                                             |
+| Duración entrevista: 02:42 min               | [URL ](https://drive.google.com/file/d/1iLOrUPxAp5IVJKUenVJAE1f0DgCCLRKz/view?usp=sharing)                                                                                                                         |
 
 
 ***Entrevista a clientes***
@@ -426,8 +426,8 @@ A continuacion se presentan las preguntas para el sector de Empresas
 |----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Edad                                         | 21 años                                                                                                                                                                                                    |
 | Departamento                                 | Lima                                                                                                                                                                                                       |
-| <img src="imagenes/EntrevistaCliente3.png" width = "1725" height ="200"> | En la entrevista, Jennifer nos relata que actualmente se encuentra en una situacion economica comoda, mas si ha notado que una gran cantidad de productos que solia comprar con normalidad han incrementado sus precios considerablemente. Jennifer nos cuenta tambien que su tipo de compra favorita es la compra en linea, debido a la facilidad para encontrar productos y los descuentos exclusivos que se ofrecen en esta modalidad |
-| Duración entrevista: 03:37 min               | [URL ][(https://drive.google.com/file/d/1DCItMb8vaBsD3ePaFMu6hRixOpOFS8mz/view)](https://drive.google.com/file/d/1aQJNzDWSA4AswgyET04BpbZ4W2EtBn7j/view?usp=sharing)             |
+| <img src="imagenes/EntrevistaCliente3.png" width = "1700" height ="200"> | En la entrevista, Jennifer nos relata que actualmente se encuentra en una situacion economica comoda, mas si ha notado que una gran cantidad de productos que solia comprar con normalidad han incrementado sus precios considerablemente. Jennifer nos cuenta tambien que su tipo de compra favorita es la compra en linea, debido a la facilidad para encontrar productos y los descuentos exclusivos que se ofrecen en esta modalidad |
+| Duración entrevista: 03:37 min               | [URL ](https://drive.google.com/file/d/1DCItMb8vaBsD3ePaFMu6hRixOpOFS8mz/view)            |
 
   <div id='2.2.3.'><h4> 2.2.3. Análisis de entrevistas</h4></div>
 
@@ -1612,19 +1612,19 @@ Utilizamos el servicio de GitHub Pages para nuestro despliegue:
 
 Enlace de la aplicacion: https://fronted-ecomarket.web.app/login
 
-Las evidencias para el desarrollo en este sprint son el despliegue de la Landing Page de EcoMarket en un entorno de producción.
+A continuacion se muestran las User Stories relacionadas con al aplicacion web
 
 <table>
-  <tr><th>User Story</th> <th>Titulo</th> <th>Descripcion</th> <th>Imagen de prueba</th></tr>
-  <tr><th>USAP01</th> <th>Registrarse en la Aplicacion</th> <th>Como visitante del sitio web "EcoMarket", quiero registarme en la aplicacion para poder acceder a todas sus funcionalidades.</th> <th></th></tr>
-  <tr><th>USAP02</th> <th>Ingresar a la Aplicacion</th> <th>Como visitante del sitio web "EcoMarket", quiero iniciar sesion en la aplicacion para poder acceder a todas sus funcionalidades.</th> <th><img src="imagenes/5.7.jpeg" width = "1500" height = "200"></th></tr>
-  <tr><th>USAP03</th> <th>Editar Perfil</th> <th>Como usuario registrado de la aplicacion EcoMarket, quiero editar mi perfil publico para que se muestren datos apropiados acerca de mi propia persona o de mi empresa</th> <th></th></tr>
-  <tr><th>USAP04</th> <th>Catalogo de productos</th> <th>Como usuario registrado de la aplicacion EcoMarket, quiero que, al ingresar en la aplicacion, se me muestre un catalogo de productos los cuales son exhibidos por las empresas, para asi poder elegir una posible compra</th> <th><img src="imagenes/ListaProductos.jpeg" width = "1500" height = "200"></th></tr>
-  <tr><th>USAP05</th> <th>Poner a la venta un producto</th> <th>Como empresario/vendedor registrado en la aplicacion, quiero poder poner a la venta productos para que usuarios de la aplicacion puedan comprarlos</th> <th></th></tr>
-  <tr><th>USAP06</th> <th>Informacion detallada del producto</th> <th>Como usuario de la aplicacion EcoMarket, quiero poder acceder a la informacion detallada de un producto para estar bien informado acerca de sus caracteristicas y poder decidir de mejor manera si comprar el producto o no</th> <th></th></tr>
-  <tr><th>USAP07</th> <th>Poner un producto disponible para donacion</th> <th>Como empresario/vendedor registrado en la aplicacion, quiero poder colocar productos para ser donados a organizaciones beneficas</th> <th><img src="imagenes/Donaciones.jpeg" width = "1500" height = "200"></th></tr>
-  <tr><th>USAP08</th> <th>Vista previa de los productos en el carrito de compras</th> <th>Como usuario registrado en EcoMarket, quiero que se muestre un resumen de compra con respecto a las compras que voy a realizar, indicandoseme el subtotal de la compra y el precio de cada uno de los productos</th> <th></th></tr>
-  <tr><th>USAP09</th> <th>Realizar pago de un producto</th> <th>Como usuario de la aplicacion EcoMarket, quiero poder colocar los datos de mi tarjeta de credito o debito para poder comprar un producto</th> <th></th></tr>
+  <tr><th>User Story</th> <th>Titulo</th> <th>Descripcion</th> </tr>
+  <tr><th>USAP01</th> <th>Registrarse en la Aplicacion</th> <th>Como visitante del sitio web "EcoMarket", quiero registarme en la aplicacion para poder acceder a todas sus funcionalidades.</th> </tr>
+  <tr><th>USAP02</th> <th>Ingresar a la Aplicacion</th> <th>Como visitante del sitio web "EcoMarket", quiero iniciar sesion en la aplicacion para poder acceder a todas sus funcionalidades.</th> </tr>
+  <tr><th>USAP03</th> <th>Editar Perfil</th> <th>Como usuario registrado de la aplicacion EcoMarket, quiero editar mi perfil publico para que se muestren datos apropiados acerca de mi propia persona o de mi empresa</th> </tr>
+  <tr><th>USAP04</th> <th>Catalogo de productos</th> <th>Como usuario registrado de la aplicacion EcoMarket, quiero que, al ingresar en la aplicacion, se me muestre un catalogo de productos los cuales son exhibidos por las empresas, para asi poder elegir una posible compra</th> </tr>
+  <tr><th>USAP05</th> <th>Poner a la venta un producto</th> <th>Como empresario/vendedor registrado en la aplicacion, quiero poder poner a la venta productos para que usuarios de la aplicacion puedan comprarlos</th> </tr>
+  <tr><th>USAP06</th> <th>Informacion detallada del producto</th> <th>Como usuario de la aplicacion EcoMarket, quiero poder acceder a la informacion detallada de un producto para estar bien informado acerca de sus caracteristicas y poder decidir de mejor manera si comprar el producto o no</th> </tr>
+  <tr><th>USAP07</th> <th>Poner un producto disponible para donacion</th> <th>Como empresario/vendedor registrado en la aplicacion, quiero poder colocar productos para ser donados a organizaciones beneficas</th> </tr>
+  <tr><th>USAP08</th> <th>Vista previa de los productos en el carrito de compras</th> <th>Como usuario registrado en EcoMarket, quiero que se muestre un resumen de compra con respecto a las compras que voy a realizar, indicandoseme el subtotal de la compra y el precio de cada uno de los productos</th> </tr>
+  <tr><th>USAP09</th> <th>Realizar pago de un producto</th> <th>Como usuario de la aplicacion EcoMarket, quiero poder colocar los datos de mi tarjeta de credito o debito para poder comprar un producto</th> </tr>
 </table>
 
 <div id="5.2.2.8"><h5>5.2.2.8. Team Collaboration Insights during Sprint.</h5></div> 
