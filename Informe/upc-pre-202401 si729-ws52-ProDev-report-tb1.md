@@ -180,6 +180,7 @@ Aspiramos a ser líderes a nivel nacional en la venta y distribución de product
 |                                                                 Mi nombre es Frank Junior Salazar Saldarriaga, tengo 23 años y estudio la carrera de Ingeniería de Software en la UPC. Soy una persona autodidacta, proactiva y desarrolladora del trabajo en equipo, a la cual le gusta el hecho de poder crear cosas nuevas que tengan un impacto en las personas. Mi meta al terminar el curso es dominar cada uno de los lenguajes que se ven durante el curso.                                                                  | <img height="150" src="./imagenes/Franksaldarriaga.jpg" width="150"/>
 | Mi nombre es Anderson Walter Macedo Calsina, tengo 22 años y soy estudiante de la carrera de ing de software en la UPC. Me gusta ayudar a los demás y colaborar para un trabajo en conjunto. Estoy dispuesto a esforzarme y estar comprometido en mis cursos y actividades designadas, orientando las soluciones a las diversas propuestas.                                |<img height="150" src="./imagenes/foto_anderson.jpg" width="150"/>                                       |                                                                                                                                                                 
 
+
 <div id='1.2.'><h3> 1.2. Solution Profile</h3></div>
 EcoMarket ofrece una óptima solución con el objetivo de lograr reducir el desperdicio de alimentos y permitir el ingreso adicional a aquellas empresas que ya contaban con los egresos que generarían el desperdicio de sus productos. Nuestros clientes podrán acumular puntos por cada compra exitosa realizada, los cuales les permitirán obtener descuentos en futuras ventas. Las empresas tendrán opciones como la publicación de sus productos y un registro de ventas para cada uno de ellos. EcoMarket obtendrá ganancias a través de una comisión por cada venta exitosa realizada. Por estos motivos se propone a EcoMarket como solución para reducir el desperdicio innecesario de alimentos y con ello realizar un negocio sostenible mediante la venta de estos.
 <div id='1.2.1.'><h4> 1.2.1. Antecedentes y Problemática</h4></div>
@@ -1304,14 +1305,14 @@ Wireframes para ambos segmentos:
 <div id='4.5.'><h3> 4.5. Web Application Prototyping</h3></div>
 
 A continuacion detallamos los user flow de la aplicación EcoMarket para los segmentos de clientes y empresas.
-<img src="imagenes/Userflow1.png" >
-<img src="imagenes/Userflow2.png" >
-<img src="imagenes/Userflow3.png" >
-<img src="imagenes/Userflow4.png" >
-<img src="imagenes/Userflow5.png" >
-<img src="imagenes/Userflow6.png" >
-<img src="imagenes/Userflow7.png" >
-<img src="imagenes/Userflow8.png" >
+<img src="imagenes/Userflow1.jpg" >
+<img src="imagenes/Userflow2.jpg" >
+<img src="imagenes/Userflow3.jpg" >
+<img src="imagenes/Userflow4.jpg" >
+<img src="imagenes/Userflow5.jpg" >
+<img src="imagenes/Userflow6.jpg" >
+<img src="imagenes/Userflow7.jpg" >
+<img src="imagenes/Userflow8.jpg" >
 
 
 <div id='4.6.'><h3> 4.6. Domain-Driven Software Architecture.</h3></div>
