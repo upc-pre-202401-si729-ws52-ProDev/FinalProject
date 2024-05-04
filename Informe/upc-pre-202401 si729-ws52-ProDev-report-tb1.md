@@ -390,6 +390,14 @@ A continuacion se presentan las preguntas para el sector de Empresas
 | Duración entrevista: 05:34 min               | [URL ](https://drive.google.com/file/d/1iLOrUPxAp5IVJKUenVJAE1f0DgCCLRKz/view?usp=sharing)                                                                                                                             |
 
 
+| Nombre entrevistado                          | Geyko Llanos                                                                                                                                                                                              |
+|----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Edad                                         | 25 años                                                                                                                                                                                                    |
+| Departamento                                 | Lima                                                                                                                                                                                                       |
+| <img src="imagenes/Entrevista6.png" width = "1700" height ="200"> | En la entrevista, Geyko nos comenta que es el administrador de una empresa familiar dedicada a la venta de productos alimenticios basicos, la cual heredo debido a la decision de padre de retirarse. Gyeko nos comenta que se ha visto forzado a aumentar el precio de sus productos debido a esta ultima recesion. Sin embargo, Geyko ve con buenos ojos la aplicacion propuesta por nosotros, debido a que le permitiria vender productos cotidianos a un precio bajo. |
+| Duración entrevista: 05:34 min               | [URL ](https://drive.google.com/file/d/1iLOrUPxAp5IVJKUenVJAE1f0DgCCLRKz/view?usp=sharing)                                                                                                                             |
+
+
 ***Entrevista a clientes***
 
 
@@ -412,8 +420,14 @@ A continuacion se presentan las preguntas para el sector de Empresas
 | Edad                                         | 20 años                                                                                                                                                                                                    |
 | Departamento                                 | Lima                                                                                                                                                                                                       |
 | <img src="imagenes/EntrevistaCliente3.png" width = "1725" height ="200"> | En la entrevista Andrea nos relata lo difícil que ha sido para ella la pandemia, pues un gran numero de empresas se han visto forzadas a incrementar el costo de productos alimenticios basicos. Andrea nos relata que su familia no cuenta con una solvencia economica para poder acceder a los nuevos precios de productos que ambos compraba. Nos indica ademas, que ve con buenos ojos que existan formas para acceder a productos basicos por un precio menor al encontrado en los mercados en general. |
-| Duración entrevista: 03:37 min               | [URL ](https://drive.google.com/file/d/1DCItMb8vaBsD3ePaFMu6hRixOpOFS8mz/view)                                                                                                                             |
+| Duración entrevista: 03:37 min               | [URL ](https://drive.google.com/file/d/1DCItMb8vaBsD3ePaFMu6hRixOpOFS8mz/view)             |
 
+| Nombre entrevistado                          | Jennifer Salvatierra                                                                                                                                                                                             |
+|----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Edad                                         | 21 años                                                                                                                                                                                                    |
+| Departamento                                 | Lima                                                                                                                                                                                                       |
+| <img src="imagenes/EntrevistaCliente3.png" width = "1725" height ="200"> | En la entrevista, Jennifer nos relata que actualmente se encuentra en una situacion economica comoda, mas si ha notado que una gran cantidad de productos que solia comprar con normalidad han incrementado sus precios considerablemente. Jennifer nos cuenta tambien que su tipo de compra favorita es la compra en linea, debido a la facilidad para encontrar productos y los descuentos exclusivos que se ofrecen en esta modalidad |
+| Duración entrevista: 03:37 min               | [URL ][(https://drive.google.com/file/d/1DCItMb8vaBsD3ePaFMu6hRixOpOFS8mz/view)](https://drive.google.com/file/d/1aQJNzDWSA4AswgyET04BpbZ4W2EtBn7j/view?usp=sharing)             |
 
   <div id='2.2.3.'><h4> 2.2.3. Análisis de entrevistas</h4></div>
 
