@@ -1,4 +1,4 @@
-<h1 style="text-align: center;"> Informe del TB1  </h1>
+<h1 style="text-align: center;"> Informe del TB2  </h1>
 <h2 style="text-align: center;"> Universidad Peruana de Ciencias Aplicadas </h2>
 <p align="center">
   <img src="./imagenes/upcLogo.png" width="250" height="250">
@@ -13,16 +13,18 @@
 <h4 style="text-align: center;"> Grupo de Trabajo: Grupo 1</h4>
 
 ## Team Members
+
 |              Nombre               | Código de alumno |
-|:---------------------------------:|:----------------:|
+| :-------------------------------: | :--------------: |
 |  Quispe Condori, Fernando Daniel  |    U20221C628    |
 |  Cortes Hidalgo, Nicolas Andres   |    U202016311    |
 | Salazar Saldarriaga, Frank Junior |    U20181H103    |
-|Macedo Calsina, Anderson Walter    |    U20201C179    |
+|  Macedo Calsina, Anderson Walter  |    U20201C179    |
 
 ## Registro de versiones del informe
+
 |   Fecha    | Versión |      Autor      |                   Descripción de modificación                    |
-|:----------:|:-------:|:---------------:|:----------------------------------------------------------------:|
+| :--------: | :-----: | :-------------: | :--------------------------------------------------------------: |
 | 01/04/2024 |   1.0   | Quispe Fernando |      Creación de nuestro repositorio e inicio en capítulo 1      |
 | 08/04/2024 |   1.1   |  Salazar Frank  |               Actualización del informe capitulo 1               |
 | 09/04/2024 |   1.2   | Cortes Nicolas  |  Elaboración de user stories, product backlog e impact mapping   |
@@ -31,112 +33,121 @@
 | 12/04/2024 |   1.4   |      Todos      |                   Revisión final - Entrega TB1                   |
 | 1/05/2024  |   1.5   |      Todos      |                   Correcciones respecto a TB1                    |
 | 3/05/2024  |   2.0   |      Todos      |                        Revisión Final TP                         |
-
+| 9/06/2024  |   3.0   |      Todos      |         Revisión TB3 - Incluida documentación Sprint #3          |
 
 ## Project Report Collaboration Insights
 
-
-URL de la organización en Github del proyecto: https://github.com/upc-pre-202401-si729-ws52-ProDev 
+URL de la organización en Github del proyecto: https://github.com/upc-pre-202401-si729-ws52-ProDev
 
 **TB1**
 
 |            Integrante             |                                                                                    Tareas Asignadas                                                                                     |
-|:---------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|  Quispe Condori, Fernando Daniel  |                    Elaboración Preguntas de Entrevitas - Artefactos Capítulo 2  , Elaboración Diagrama de clases, Diagrama de base de datos. Colaboración en general                    |
+| :-------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|  Quispe Condori, Fernando Daniel  |                    Elaboración Preguntas de Entrevitas - Artefactos Capítulo 2 , Elaboración Diagrama de clases, Diagrama de base de datos. Colaboración en general                     |
 |  Cortes Hidalgo, Nicolas Andres   | Elaboracion de los Emphaty maps, As-Is y To-Be Scenario Mapping, Ubiquitous Langiage, User Stories, Impact Mapping, Product Backlog y diagramas de contexto, contenedores y componentes |
 | Salazar Saldarriaga, Frank Junior |                                                      Startup Profile, Solution Profile, Lean UX, Segmentos Objetivos, Landing Page                                                      |
-|Macedo Calsina, Anderson Walter    |                                                                 Web Application Design, Prototyping Design, Entrevistas                                                                 |
+|  Macedo Calsina, Anderson Walter  |                                                                 Web Application Design, Prototyping Design, Entrevistas                                                                 |
 
 **TP**
 
 |            Integrante             |                                             Tareas Asignadas                                              |
-|:---------------------------------:|:---------------------------------------------------------------------------------------------------------:|
+| :-------------------------------: | :-------------------------------------------------------------------------------------------------------: |
 |  Quispe Condori, Fernando Daniel  | Elaboración de componentes referentes a tareas asignadas en el sprint backlog 2. Despliegue del proyecto. |
 |  Cortes Hidalgo, Nicolas Andres   |         Mejoras respecto al feedback TB1. Elaboración componentes referente al sprint backlog 2.          |
 | Salazar Saldarriaga, Frank Junior |             Elaboración de componentes respecto al spring backlog 2. Despliegue del proyecto.             |
 |  Macedo Calsina, Anderson Walter  |                         Elaboración de componentes respecto al sprint backlog 2.                          |
 
+**TB2**
 
+|            Integrante             |                              Tareas Asignadas                               |
+| :-------------------------------: | :-------------------------------------------------------------------------: |
+|  Quispe Condori, Fernando Daniel  | Elaboración de Endpoints del API, documentación y encargado del despliegue. |
+|  Cortes Hidalgo, Nicolas Andres   |                              Endpoints del API                              |
+| Salazar Saldarriaga, Frank Junior |   Culminación de landing page, elaboración de fronted y Endpoints del API   |
+|  Macedo Calsina, Anderson Walter  |                Endpoints del API y entrevistas de validación                |
 
-***TB1 Github***: https://github.com/upc-pre-202401-si729-ws52-ProDev/FinalProject 
+## Enlaces de interés
 
-***TP Github - Fronted Web Application***: https://github.com/upc-pre-202401-si729-ws52-ProDev/fronted-web-application-ProDev 
+**_TB1 Github_**: https://github.com/upc-pre-202401-si729-ws52-ProDev/FinalProject
 
-***Despliegue fronted EcoMarket***: https://fronted-ecomarket.web.app
+**_TP Github - Fronted Web Application_**: https://github.com/upc-pre-202401-si729-ws52-ProDev/fronted-web-application-ProDev
 
+**_Despliegue fronted EcoMarket_**: https://fronted-ecomarket.web.app
+
+**_Despliegue API EcoMarket_**: https://backend-restfulapi-production.up.railway.app
 
 ## Contenido
+
 1. [**Capítulo I: Introducción.**](#1.) <br>
-   1.1. [***Startup Profile***](#1.1.) <br>
+   1.1. [**_Startup Profile_**](#1.1.) <br>
    1.1.1. [Descripción del startup](#1.1.1.)<br>
    1.1.2.[Perfiles de los integrantes del equipo](#1.1.2.)<br>
-   1.2. [***Solution Profile***](#1.2.)<br>
+   1.2. [**_Solution Profile_**](#1.2.)<br>
    1.2.1. [Antecedentes y Problemática](#1.2.1.)<br>
    1.2.2. [Lean UX Process](#1.2.2.)<br>
    1.2.3. [Lean UX Problem Statements](#1.2.3.)<br>
    1.2.4. [Lean UX Assumptions](#1.2.4.)<br>
    1.2.5. [Lean UX Hypothesis Statements](#1.2.5.)<br>
    1.2.6. [Lean UX Canvas](#1.2.5.)<br>
-   1.3. [***Segmentos objetivo***](#1.2.6.)<br>
+   1.3. [**_Segmentos objetivo_**](#1.2.6.)<br>
 2. [**Capítulo II: Requirements Elicitation & Analysis**](#2.)<br>
-   2.1. [***Competidores***](#2.1.)<br>
+   2.1. [**_Competidores_**](#2.1.)<br>
    2.1.1. [Análisis competitivo](#2.1.1.)<br>
    2.1.2. [Estrategias y tácticas frente a competidores](#2.1.2.)<br>
-   2.2. [***Entrevistas***](#2.2.)<br>
+   2.2. [**_Entrevistas_**](#2.2.)<br>
    2.2.1. [Diseño de entrevistas](#2.2.1.)<br>
    2.2.2. [Registro de entrevistas](#2.2.2.)<br>
    2.2.3. [Análisis de entrevistas](#2.2.3.)<br>
-   2.3. [***Needfinding***](#2.3.)<br>
+   2.3. [**_Needfinding_**](#2.3.)<br>
    2.3.1. [User Personas](#2.3.1.)<br>
    2.3.2. [User Task Matrix](#2.3.2.)<br>
    2.3.3. [User Journey Mapping](#2.3.3.)<br>
    2.3.4. [Empathy Mapping](#2.3.4.)<br>
    2.3.5. [As-is Scenario Mapping](#2.3.5.)<br>
-   2.4. [***Ubiquitous Language***](#2.4.)<br>
+   2.4. [**_Ubiquitous Language_**](#2.4.)<br>
 3. [**Capítulo III: Requirements Specification**](#3.)<br>
-   3.1. [***To-Be Scenario Mapping***](#3.1.)<br>
-   3.2. [***User Stories***](#3.2.)<br>
-   3.3. [***Impact Mapping***](#3.3.)<br>
-   3.4. [***Product Backlog***](#3.4.)<br>
+   3.1. [**_To-Be Scenario Mapping_**](#3.1.)<br>
+   3.2. [**_User Stories_**](#3.2.)<br>
+   3.3. [**_Impact Mapping_**](#3.3.)<br>
+   3.4. [**_Product Backlog_**](#3.4.)<br>
 4. [**Capítulo IV: Product Design.**](#4.)<br>
-   4.1. [***Style Guidelines***](#4.1.)<br>
+   4.1. [**_Style Guidelines_**](#4.1.)<br>
    4.1.1. [General Style Guidelines](#4.1.1.)<br>
    4.1.2. [Web Style Guidelines](#4.1.2.)<br>
-   4.2. [***Information Architecture***](#4.2.)<br>
+   4.2. [**_Information Architecture_**](#4.2.)<br>
    4.2.1. [Organization Systems](#4.2.1.)<br>
    4.2.2. [Labeling Systems](#4.2.2.)<br>
    4.2.3. [SEO Tags and Meta Tags](#4.2.3.)<br>
    4.2.4. [Searching Systems](#4.2.4.)<br>
    4.2.5. [Navigation Systems](#4.2.5.)<br>
-   4.3. [***Landing Page UI Design***](#4.3.)<br>
+   4.3. [**_Landing Page UI Design_**](#4.3.)<br>
    4.3.1. [Landing Page Wireframe](#4.3.1.)<br>
    4.3.2. [Landing Page Mock-up](#4.3.2.)<br>
-   4.4. [***Web Applications UX/UI Design***](#4.4.)<br>
+   4.4. [**_Web Applications UX/UI Design_**](#4.4.)<br>
    4.4.1. [Web Applications Wireframes](#4.4.1.)<br>
    4.4.2. [Web Applications Wireflow Diagrams](#4.4.2.)<br>
    4.4.3. [Web Applications Mock-ups](#4.4.3.)<br>
    4.4.4. [Web Applications User Flow Diagrams](#4.4.4.)<br>
-   4.5. [***Web Applications Prototyping***](#4.5.)<br>
-   4.6. [***Domain-Driven Software Architecture***](#4.6.)<br>
+   4.5. [**_Web Applications Prototyping_**](#4.5.)<br>
+   4.6. [**_Domain-Driven Software Architecture_**](#4.6.)<br>
    4.6.1. [Software Architecture Context Diagram](#4.6.1.)<br>
    4.6.2. [Software Architecture Container Diagrams](#4.6.2.)<br>
    4.6.3. [Software Architecture Components Diagrams](#4.6.3.)<br>
-   4.7. [***Software Object-Oriented Design***](#4.7.)<br>
+   4.7. [**_Software Object-Oriented Design_**](#4.7.)<br>
    4.7.1. [Class Diagrams](#4.7.1.)<br>
    4.7.2. [Class Dictionary](#4.7.2.)<br>
-   4.8. [***Database Design***](#4.8.)<br>
+   4.8. [**_Database Design_**](#4.8.)<br>
    4.8.1. [Database Diagram](#4.8.1.)<br>
 5. [**Capítulo V: Product Implementation, Validation & Deployment**](#5.)<br>
    [**Conclusiones**](#Conclusiones)<br>
-    - [**Conclusiones y recomendaciones**](#ConclusionesYrecomendaciones)
+
+   - [**Conclusiones y recomendaciones**](#ConclusionesYrecomendaciones)
 
    [**Bibliografía**](#Bibliografia)<br>
    [**Anexos**](#Anexos)<br>
 
-
-   
-
 ## Student Outcome
+
 El curso contribuye al cumplimiento del Student Outcome ABET:
 <b>ABET – EAC - Student Outcome 3</b>
 
@@ -145,11 +156,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de
 conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
 del ABET – EAC - Student Outcome 3
 
-| Criterio especifico                                                                                                                                                                   | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.    | <b>Quispe Condori, Fernando Daniel</b><br/> TB1: Desarrollo del vídeo de exposición comunicando las ideas de nuestros artefactos. <br/> TP: Durante el Sprint 2, participé activamente en reuniones de planificación y revisión donde comuniqué oralmente nuestras ideas, incluyendo miembros del equipo con diversos niveles de experiencia técnica. Utilicé un lenguaje claro y objetivo para garantizar que todos comprendieran nuestro enfoque y los desafíos que enfrentábamos. <br/> <b>Cortes Hidalgo, Nicolas Andres</b><br/> TB1: Desarrollo del video de exposicion comunicando la mayor parte de los apartados tecnicos y de enfoque de usuarios y clientes de la aplicacion <br/> TP: Contribuí a la comunicación oral al facilitar la interacción efectiva entre los miembros del equipo durante el Sprint 2. Fomenté un ambiente de colaboración abierta donde todos tuvieran la oportunidad de expresar sus ideas y preocupaciones, lo que permitió una comunicación clara y fluida en todas las etapas del desarrollo. <b>Salazar Frank</b><br/> TB1:  Me encargue de la elaboración de Wireframes y contribución de landing page permitiendome cumplir con el outcome. <br/> TP: Durante el Sprint 2, me aseguré de comunicar oralmente nuestras ideas y resultados de manera efectiva a diferentes audiencias dentro del equipo. Participé en discusiones y presentaciones donde expliqué con claridad las decisiones y acciones tomadas durante el desarrollo de la aplicación ProDev, asegurando que todos estuvieran al tanto del progreso y los desafíos.<br/> <b>Anderson Maceda</b><br/> TB1: Realize entrevistas a los segmentos objetivo que me permitieron adentrarme en tema y concocer a nuestro publico objetivo. <br/> TP: Contribuí a la comunicación oral al presentar de manera efectiva los avances y resultados del desarrollo. Durante las reuniones de revisión del sprint, expliqué con claridad las funcionalidades implementadas y las pruebas realizadas, facilitando la comprensión de nuestro progreso por parte de todos los involucrados.<br/> | **TB1:** En esta entrega pudimos concluir que el desarrollar nuestros artefactos para el análisis de los requisitos de nuestra idea de software, no solo basta con tenerlo en un informe. Tenemos que comunicarlo y explicarlo para que una audiencia general pueda entender claramente. <br/> **TP:** Durante la entrega del presente trabajo, cada miembro del equipo comunico oralmente ideas complejas y resultados técnicos a diversas audiencias. Desde reuniones de planificación hasta presentaciones de revisión de sprint, la comunicación oral fue clara, concisa y efectiva, lo que facilitó una comprensión compartida del progreso y los desafíos del proyecto. |
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | <b>Quispe Condori, Fernando Daniel</b><br/> TB1: Desarrollo artefactos Needfinding y Diagramas de clases y datos. <br/> TP: Durante el Sprint 2, me enfoqué en la comunicación escrita al elaborar documentación detallada sobre los procesos y decisiones clave del equipo. Escribí informes y documentos técnicos con un enfoque objetivo, asegurándome de que la información fuera clara y accesible para todos los interesados en el desarrollo de la aplicación ProDev. <br/> <b>Cortes Hidalgo, Nicolas Andres</b><br/> TB1: Me encargue del desarrollo de los diagramas de componentes, contexto y contenedores, asi como las user stories y el product backlog. <br/>  TP: Contribuí a la comunicación escrita al documentar las actividades y resultados del equipo durante el Sprint 2. Escribí informes de progreso y documentación técnica con un lenguaje claro y objetivo, lo que permitió a otros miembros del equipo entender fácilmente nuestras acciones y seguir nuestro progreso en el desarrollo de la aplicación.  <b>Salazar Frank</b><br/> TB1: También realize actividades de Needfindng.      <br/>    TP:  Durante el Sprint 2, me encargué de comunicar por escrito nuestras ideas y resultados a través de informes y documentación técnica detallada. Escribí con claridad y precisión, asegurándome de que la información fuera comprensible para audiencias con diferentes niveles de experiencia técnica, incluyendo desarrolladores, gerentes y otros interesados en el proyecto.<br/> <b>Anderson Maceda</b><br/> TB1: Realize Wireframes, mockups y user flows que me permitieron cumplir con los diseños <br/>  TP: Contribuí a la comunicación escrita al elaborar documentación exhaustiva sobre los servicios y procesos implementados en nuestra aplicación ProDev durante el Sprint 2. Escribí con un enfoque objetivo y claro, asegurándome de que la información fuera fácilmente comprensible y accesible para todos los involucrados en el proyecto.                                                                                           | **TB1:** Tenemos cómo conclusión que nuestros artefactos de obtenciónde requisitos tienen que también enfocarse al público en general, ya sea con distintas especialidades por ejemplo. Para una correcta comunicación entre todos y llevar el proyecto de forma satisfactoria.<br/> **TP**: Durante el presente trabajo, nuestro equipo destacó por su habilidad para comunicar ideas y resultados de manera escrita de forma clara y objetiva. Desde la elaboración de informes de progreso hasta la documentación técnica detallada, proporcionamos una base sólida para el entendimiento y seguimiento del proyecto para llevar a cabo la realizacion del mismo.          |
-
+| Criterio especifico                                                                                                                                                                   | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.    | <b>Quispe Condori, Fernando Daniel</b><br/> TB1: Desarrollo del vídeo de exposición comunicando las ideas de nuestros artefactos. <br/> TP: Durante el Sprint 2, participé activamente en reuniones de planificación y revisión donde comuniqué oralmente nuestras ideas, incluyendo miembros del equipo con diversos niveles de experiencia técnica. Utilicé un lenguaje claro y objetivo para garantizar que todos comprendieran nuestro enfoque y los desafíos que enfrentábamos. <br/> <b>Cortes Hidalgo, Nicolas Andres</b><br/> TB1: Desarrollo del video de exposicion comunicando la mayor parte de los apartados tecnicos y de enfoque de usuarios y clientes de la aplicacion <br/> TP: Contribuí a la comunicación oral al facilitar la interacción efectiva entre los miembros del equipo durante el Sprint 2. Fomenté un ambiente de colaboración abierta donde todos tuvieran la oportunidad de expresar sus ideas y preocupaciones, lo que permitió una comunicación clara y fluida en todas las etapas del desarrollo. <b>Salazar Frank</b><br/> TB1: Me encargue de la elaboración de Wireframes y contribución de landing page permitiendome cumplir con el outcome. <br/> TP: Durante el Sprint 2, me aseguré de comunicar oralmente nuestras ideas y resultados de manera efectiva a diferentes audiencias dentro del equipo. Participé en discusiones y presentaciones donde expliqué con claridad las decisiones y acciones tomadas durante el desarrollo de la aplicación ProDev, asegurando que todos estuvieran al tanto del progreso y los desafíos.<br/> <b>Anderson Maceda</b><br/> TB1: Realize entrevistas a los segmentos objetivo que me permitieron adentrarme en tema y concocer a nuestro publico objetivo. <br/> TP: Contribuí a la comunicación oral al presentar de manera efectiva los avances y resultados del desarrollo. Durante las reuniones de revisión del sprint, expliqué con claridad las funcionalidades implementadas y las pruebas realizadas, facilitando la comprensión de nuestro progreso por parte de todos los involucrados.<br/> | **TB1:** En esta entrega pudimos concluir que el desarrollar nuestros artefactos para el análisis de los requisitos de nuestra idea de software, no solo basta con tenerlo en un informe. Tenemos que comunicarlo y explicarlo para que una audiencia general pueda entender claramente. <br/> **TP:** Durante la entrega del presente trabajo, cada miembro del equipo comunico oralmente ideas complejas y resultados técnicos a diversas audiencias. Desde reuniones de planificación hasta presentaciones de revisión de sprint, la comunicación oral fue clara, concisa y efectiva, lo que facilitó una comprensión compartida del progreso y los desafíos del proyecto. |
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | <b>Quispe Condori, Fernando Daniel</b><br/> TB1: Desarrollo artefactos Needfinding y Diagramas de clases y datos. <br/> TP: Durante el Sprint 2, me enfoqué en la comunicación escrita al elaborar documentación detallada sobre los procesos y decisiones clave del equipo. Escribí informes y documentos técnicos con un enfoque objetivo, asegurándome de que la información fuera clara y accesible para todos los interesados en el desarrollo de la aplicación ProDev. <br/> <b>Cortes Hidalgo, Nicolas Andres</b><br/> TB1: Me encargue del desarrollo de los diagramas de componentes, contexto y contenedores, asi como las user stories y el product backlog. <br/> TP: Contribuí a la comunicación escrita al documentar las actividades y resultados del equipo durante el Sprint 2. Escribí informes de progreso y documentación técnica con un lenguaje claro y objetivo, lo que permitió a otros miembros del equipo entender fácilmente nuestras acciones y seguir nuestro progreso en el desarrollo de la aplicación. <b>Salazar Frank</b><br/> TB1: También realize actividades de Needfindng. <br/> TP: Durante el Sprint 2, me encargué de comunicar por escrito nuestras ideas y resultados a través de informes y documentación técnica detallada. Escribí con claridad y precisión, asegurándome de que la información fuera comprensible para audiencias con diferentes niveles de experiencia técnica, incluyendo desarrolladores, gerentes y otros interesados en el proyecto.<br/> <b>Anderson Maceda</b><br/> TB1: Realize Wireframes, mockups y user flows que me permitieron cumplir con los diseños <br/> TP: Contribuí a la comunicación escrita al elaborar documentación exhaustiva sobre los servicios y procesos implementados en nuestra aplicación ProDev durante el Sprint 2. Escribí con un enfoque objetivo y claro, asegurándome de que la información fuera fácilmente comprensible y accesible para todos los involucrados en el proyecto.                                                                                                      | **TB1:** Tenemos cómo conclusión que nuestros artefactos de obtenciónde requisitos tienen que también enfocarse al público en general, ya sea con distintas especialidades por ejemplo. Para una correcta comunicación entre todos y llevar el proyecto de forma satisfactoria.<br/> **TP**: Durante el presente trabajo, nuestro equipo destacó por su habilidad para comunicar ideas y resultados de manera escrita de forma clara y objetiva. Desde la elaboración de informes de progreso hasta la documentación técnica detallada, proporcionamos una base sólida para el entendimiento y seguimiento del proyecto para llevar a cabo la realizacion del mismo.          |
 
 <div id='1.'><h2>Capítulo I: Introducción</h2></div>
 <div id='1.1.'><h3> 1.1 Startup Profile</h3></div>
@@ -163,56 +173,65 @@ Nuestra misión es proporcionar un servicio excepcional a nuestros clientes, gar
 **Visión:**
 Aspiramos a ser líderes a nivel nacional en la venta y distribución de productos alimenticios, destacándonos por la accesibilidad y la alta calidad de nuestros productos. Nos proponemos alcanzar más de 10,000 ventas al mes, implementando prácticas innovadoras y sostenibles que nos diferencien en el mercado y nos permitan expandir nuestro alcance a todos los rincones del país.
 
-
-##### Logotipo de la Startup: 
+##### Logotipo de la Startup:
 
 <img src="imagenes/LogoProDev.jpg" width = "300" height = "300">
 
 ##### Logotipo del producto
+
 <img src="imagenes/LogoEcoMarket.png" alt="LogoEcoMarket" width = "300" height = "300">
 
 <div id='1.1.2.'><h4> 1.1.2. Perfiles de los integrantes del equipo</h4></div>
 
 |                                                                                                                                                                                                                                      Descripción de los perfiles de los integrantes del equipo                                                                                                                                                                                                                                       |                            Foto del integrante                             |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------:|
-|                                                                    Mi nombre es Fernando Quispe, soy una persona proactiva que puede aportar y liderar la colaboración en equipo con el objetivo de un logro común. Me gusta el desarrollo de software y poder contribuir a la sociedad con lo que me apasiona. Tengo como meta adquirir los conocimientos de una manera clara para poder aplicarlos en los distintos proyectos tal cuál como el proyecto actual.                                                                    |    <img src="imagenes/FernandoQuispe.png"/>                                                                          |
-| Mi nombre es Nicolas Cortes, tengo 21 años y estudio la carrera de Ingenieria de Software en la Universidad Peruana de Ciencias Aplicadas. Soy una persona responsable y proactiva que siempre busca ayudar en todo lo posible a su grupo para lograr terminar cualquier tipo de trabajo o actividad de la forma mas rapida y presentable posible. Mi meta al terminar este curso es lograr entender todos los conceptos nuevos que sean necesarios para posteriormente aplicarlos mas adelante en mi carrera y en el mundo laboral. | <img height="150" src="./imagenes/NicolasCortesHidalgo.jpeg" width="150"/> 
-|                                                                 Mi nombre es Frank Junior Salazar Saldarriaga, tengo 23 años y estudio la carrera de Ingeniería de Software en la UPC. Soy una persona autodidacta, proactiva y desarrolladora del trabajo en equipo, a la cual le gusta el hecho de poder crear cosas nuevas que tengan un impacto en las personas. Mi meta al terminar el curso es dominar cada uno de los lenguajes que se ven durante el curso.                                                                  | <img height="150" src="./imagenes/Franksaldarriaga.jpg" width="150"/>
-| Mi nombre es Anderson Walter Macedo Calsina, tengo 22 años y soy estudiante de la carrera de ing de software en la UPC. Me gusta ayudar a los demás y colaborar para un trabajo en conjunto. Estoy dispuesto a esforzarme y estar comprometido en mis cursos y actividades designadas, orientando las soluciones a las diversas propuestas.                                |<img height="150" src="./imagenes/foto_anderson.jpg" width="150"/>                                       |                                                                                                                                                                 
-
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------: |
+|                                                                    Mi nombre es Fernando Quispe, soy una persona proactiva que puede aportar y liderar la colaboración en equipo con el objetivo de un logro común. Me gusta el desarrollo de software y poder contribuir a la sociedad con lo que me apasiona. Tengo como meta adquirir los conocimientos de una manera clara para poder aplicarlos en los distintos proyectos tal cuál como el proyecto actual.                                                                    |                  <img src="imagenes/FernandoQuispe.png"/>                  |
+| Mi nombre es Nicolas Cortes, tengo 21 años y estudio la carrera de Ingenieria de Software en la Universidad Peruana de Ciencias Aplicadas. Soy una persona responsable y proactiva que siempre busca ayudar en todo lo posible a su grupo para lograr terminar cualquier tipo de trabajo o actividad de la forma mas rapida y presentable posible. Mi meta al terminar este curso es lograr entender todos los conceptos nuevos que sean necesarios para posteriormente aplicarlos mas adelante en mi carrera y en el mundo laboral. | <img height="150" src="./imagenes/NicolasCortesHidalgo.jpeg" width="150"/> |
+|                                                                 Mi nombre es Frank Junior Salazar Saldarriaga, tengo 23 años y estudio la carrera de Ingeniería de Software en la UPC. Soy una persona autodidacta, proactiva y desarrolladora del trabajo en equipo, a la cual le gusta el hecho de poder crear cosas nuevas que tengan un impacto en las personas. Mi meta al terminar el curso es dominar cada uno de los lenguajes que se ven durante el curso.                                                                  |   <img height="150" src="./imagenes/Franksaldarriaga.jpg" width="150"/>    |
+|                                                                                             Mi nombre es Anderson Walter Macedo Calsina, tengo 22 años y soy estudiante de la carrera de ing de software en la UPC. Me gusta ayudar a los demás y colaborar para un trabajo en conjunto. Estoy dispuesto a esforzarme y estar comprometido en mis cursos y actividades designadas, orientando las soluciones a las diversas propuestas.                                                                                              |     <img height="150" src="./imagenes/foto_anderson.jpg" width="150"/>     |
 
 <div id='1.2.'><h3> 1.2. Solution Profile</h3></div>
 EcoMarket ofrece una óptima solución con el objetivo de lograr reducir el desperdicio de alimentos y permitir el ingreso adicional a aquellas empresas que ya contaban con los egresos que generarían el desperdicio de sus productos. Nuestros clientes podrán acumular puntos por cada compra exitosa realizada, los cuales les permitirán obtener descuentos en futuras ventas. Las empresas tendrán opciones como la publicación de sus productos y un registro de ventas para cada uno de ellos. EcoMarket obtendrá ganancias a través de una comisión por cada venta exitosa realizada. Por estos motivos se propone a EcoMarket como solución para reducir el desperdicio innecesario de alimentos y con ello realizar un negocio sostenible mediante la venta de estos.
 <div id='1.2.1.'><h4> 1.2.1. Antecedentes y Problemática</h4></div>
 
 ### 5W
+
 ##### What (Qué)
+
 La falta de acceso a productos vitales por parte de las familias peruanas en estado de pobreza es un problema persistente que afecta a muchas comunidades en el país. Además, existe una preocupación generalizada por reducir el desperdicio de alimentos tanto por parte de empresas como de los vendedores minoristas.
 
 ##### When (Cuando)
+
 Este problema ha estado en curso durante muchos años en Perú. Se remonta a décadas atrás debido al desconocimiento de soluciones efectivas para lograr la venta de productos con fechas de vencimiento próximas.
 
 #### Where (Dónde)
+
 ¿Dónde surge el problema?
 El problema se origina en diversas áreas, principalmente en empresas y bodegas que se dedican al rubro de ventas de productos alimenticios en todo el país.
 
 ##### Who (Quién)
+
 Familias peruanas que se encuentran en la pobreza y pobreza extrema son las más afectadas por la falta de acceso a productos vitales. Por otro lado, en el ámbito empresarial, aquellas empresas que no encuentran soluciones para evitar la pérdida generada por el desperdicio de estos productos enfrentan desafíos significativos.
 
 ##### Why (Por qué)
+
 La creciente falta de accesibilidad a productos esenciales debido a los precios excesivos está provocando un aumento en la desigualdad económica en Perú. En el caso de las empresas, el desconocimiento de soluciones para evitar las pérdidas económicas debido al desperdicio de alimentos es un factor clave.
 
 ### 2H
+
 #### How (Cómo)
+
 ##### ¿Cómo se utilizará el producto?
+
 El producto se utilizará como una herramienta para abordar el problema en el momento en que las bodegas o supermercados no logran vender sus productos antes de que estos alcancen su fecha de vencimiento.
 
 #### How much (Cuánto)
+
 ##### ¿Cuál es la magnitud del problema?
+
 La magnitud del problema es considerable, con comerciantes sufriendo grandes pérdidas al no poder vender sus productos antes de que caduquen. Según SaleCycle, el fenómeno de esperar rebajas para realizar compras se intensifica, con un 63,5% de consumidores esperando ofertas para adquirir productos cercanos a su vencimiento. Esto resalta la necesidad urgente de implementar soluciones que beneficien tanto a consumidores como a comerciantes.
 
 Este escenario subraya la importancia de desarrollar e implementar políticas y estrategias enfocadas tanto en la accesibilidad a alimentos para las familias en situación de vulnerabilidad como en la optimización de procesos por parte de las empresas para minimizar el desperdicio de alimentos, generando un impacto positivo tanto social como económico.
-
 
 <div id='1.2.2.'><h4> 1.2.2. Lean UX Process</h4></div>
 <div id='1.2.2.1.'><h5> 1.2.2.1. Lean UX Problem Statements</h5></div>
@@ -220,11 +239,13 @@ Este escenario subraya la importancia de desarrollar e implementar políticas y 
 ##### **Problem Statement:**
 
 ###### **Ciudadanos peruanos**
+
 El alto costo de los alimentos coloca a muchas personas de bajos ingresos en una situación difícil porque no pueden afrontar los precios actuales. Aunque algunas empresas venden productos cercanos a su fecha de vencimiento con descuentos, no todos los residentes tienen acceso a estas ofertas.
 
 ¿Cómo podemos reducir el desperdicio de alimentos ayudando a las personas de bajos ingresos a obtener alimentos a precios más bajos y garantizando al mismo tiempo la seguridad alimentaria?
 
 ###### **Empresas peruanas**
+
 El alto costo de los alimentos ha reducido las ventas de algunas empresas, ya que los consumidores prefieren opciones más baratas. Además, muchos de estos productos se almacenan hasta que caducan y finalmente se desechan, lo que cuesta dinero a las empresas.
 
 ¿Cómo ayudamos a las empresas a reducir el desperdicio de alimentos y aumentar las ganancias para que puedan vender estos productos a precios más bajos y hacerlos accesibles a los consumidores?
@@ -232,50 +253,60 @@ El alto costo de los alimentos ha reducido las ventas de algunas empresas, ya qu
 <div id='1.2.2.2.'><h5> 1.2.2.2. Lean UX Assumptions</h5></div>
 
 ##### **Business Assumptions:**
-1. *Creo que mis clientes tienen la necesidad de adquirir productos alimenticios de calidad a precios accesibles.*
-2. *Estas necesidades se pueden resolver con una aplicación en donde encuentres estos productos a un precio más accesible de lo cotidiano.*
-3. *Mis clientes iniciales serán personas que no cuentan con el dinero para la compra de productos alimenticios.*
-4. *El valor número 1 que un cliente quiere obtener de mi producto es adquirir una variedad de productos alimenticios a buen precio.*
-5. *Obtendré la mayoría de mis clientes a través de recomendaciones y publicidad en redes sociales.*
-6. *Voy a ganar dinero por comisiones en cada venta.*
-7. *Mi principal competencia en el mercado serán las grandes empresas con sus propios descuentos.*
-8. *Los venceremos debido a nuestra variedad de productos y amplio catálogo de supermercados.*
-9. *Mi mayor riesgo es la poca variedad o la limitada cantidad de productos.*
-10. *Resolveremos esto a través de Recomendar el mismo producto pero de una marca diferente a la que nuestros usuarios quieren comprar.*
-11. *Sabremos que tenemos éxito cuando veamos los siguientes cambios en el comportamiento del cliente: Han aumentado las compras de diversos productos que ofrecemos.*
+
+1. _Creo que mis clientes tienen la necesidad de adquirir productos alimenticios de calidad a precios accesibles._
+2. _Estas necesidades se pueden resolver con una aplicación en donde encuentres estos productos a un precio más accesible de lo cotidiano._
+3. _Mis clientes iniciales serán personas que no cuentan con el dinero para la compra de productos alimenticios._
+4. _El valor número 1 que un cliente quiere obtener de mi producto es adquirir una variedad de productos alimenticios a buen precio._
+5. _Obtendré la mayoría de mis clientes a través de recomendaciones y publicidad en redes sociales._
+6. _Voy a ganar dinero por comisiones en cada venta._
+7. _Mi principal competencia en el mercado serán las grandes empresas con sus propios descuentos._
+8. _Los venceremos debido a nuestra variedad de productos y amplio catálogo de supermercados._
+9. _Mi mayor riesgo es la poca variedad o la limitada cantidad de productos._
+10. _Resolveremos esto a través de Recomendar el mismo producto pero de una marca diferente a la que nuestros usuarios quieren comprar._
+11. _Sabremos que tenemos éxito cuando veamos los siguientes cambios en el comportamiento del cliente: Han aumentado las compras de diversos productos que ofrecemos._
 
 ##### **User Assumptions:**
-###### **¿Quién es el usuario?** 
+
+###### **¿Quién es el usuario?**
+
 Personas que no cuentan con los suficientes recursos.
 
 ###### **¿Qué problemas resuelve nuestro producto?**
+
 Resuelve el problema de la mala alimentación de las personas por no tener los recursos suficientes para acceder a los productos alimenticios. También resuelve el problema de la pérdida de dinero de las empresas por el desperdicio de estos productos.
 
 ###### **¿Qué características son importantes?**
+
 Poder adquirir el producto que necesitemos desde cualquier punto a precios totalmente accesibles.
 
-###### **¿Dónde encaja nuestro producto en su trabajo o vida?** 
+###### **¿Dónde encaja nuestro producto en su trabajo o vida?**
+
 En su día a día
 
 ###### **¿Cuándo y cómo es nuestro producto usado?**
+
 Siempre que necesiten productos alimenticios a precios totalmente accesibles, tan solo ingresando a la aplicación.
 
 ###### **¿Cómo debe verse nuestro producto y cómo debe comportarse?**
+
 Intuitivo, funcional y eficaz, donde el usuario de forma rápida y sencilla realice sus pedidos y sin mayor complicación también el pago.
 
 <div id='1.2.2.3.'><h5> 1.2.2.3. Lean UX Hypothesis Statements.</h5></div>
 
-* **Hypothesis Statement 01:**
+- **Hypothesis Statement 01:**
 
 ###### Usuario Cliente
-  **Creemos que**, al desarrollar una aplicación en dónde se pueda encontrar productos alimenticios a precios considerablemente más accesibles
 
-  **Lograremos**, apoyar a aquellos ciudadanos que no cuentan con los recursos suficientes para acceder a estos productos
+**Creemos que**, al desarrollar una aplicación en dónde se pueda encontrar productos alimenticios a precios considerablemente más accesibles
 
-  **Sabremos que hemos tenido éxito**, cuando la cantidad de productos vendidos de forma exitosa se haya incrementado en un 40% con respecto a los tres primeros meses de lanzada la aplicación.
+**Lograremos**, apoyar a aquellos ciudadanos que no cuentan con los recursos suficientes para acceder a estos productos
+
+**Sabremos que hemos tenido éxito**, cuando la cantidad de productos vendidos de forma exitosa se haya incrementado en un 40% con respecto a los tres primeros meses de lanzada la aplicación.
 
 ###### Usuario Empresa
-**Creemos que**, al comprar los productos que están próximos  a su fecha de caducidad o tuvieron defectos en el empaquetado.
+
+**Creemos que**, al comprar los productos que están próximos a su fecha de caducidad o tuvieron defectos en el empaquetado.
 
 **Lograremos**, evitar desechar estos alimentos y a la vez evitaremos las grandes pérdidas que esto provocaba para las empresas.
 
@@ -283,8 +314,7 @@ Intuitivo, funcional y eficaz, donde el usuario de forma rápida y sencilla real
 
 <div id='1.2.2.4.'><h5> 1.2.2.4. Lean UX Canvas</h5></div>
 
-
-#### ***Lean UX Canvas:***
+#### **_Lean UX Canvas:_**
 
 Se presenta el artefacto realizado Lean UX Canvas. La cuál nos ayuda a tener una visión general de nuestro producto y cómo se llevará a cabo.
 <img src="./imagenes/LeanUXCanvas.png">
@@ -296,9 +326,8 @@ En esta sección, se presentan los segmentos objetivo de nuestro producto EcoMar
 - **SEGMENTO CLIENTES:** Personas que adquieren productos a través de nuestra plataforma. Nos enfocamos en estas personas ya son ellas las que adquirirán los productos de las empresas a bajo costo mediante nuestra solución. **_Ellos tienen la necesidad de comprar productos a bajo coste._**
 - **SEGMENTO EMPRESAS:** Personas que venden productos a través de nuestra plataforma. Nos enfocamos en estas personas ya que son ellas las que ofrecerán sus productos a través de nuestra plataforma al tener productos defectuosos y/o próximos a vencer. **_Ellos tienen la necesidad de vender productos que están próximos a vencer para evitar pérdidas._**
 
-
-
 [//]: #CAPITULO2
+
 <div id='2.'><h2> Capítulo II: Requirements Elicitation & Analysis</h2></div>
 
 <div id='2.1.'><h3> 2.1. Competidores</h3>
@@ -312,7 +341,6 @@ Teniendo cómo principales competidores a:
 <div id='2.1.1.'><h4> 2.1.1. Análisis competitivo</h4></div>
 En esta sección detallaremos en el siguiente cuadro a continuación detalles entre nuestros 3 competidores.
 
-
 <img src="imagenes/CompetitiveAnalysisLandscape.png" alt="CuadroComparativo">
 
 Imagen: Cuadro de Analisis entre competidores principales.
@@ -320,14 +348,14 @@ Imagen: Cuadro de Analisis entre competidores principales.
   <div id='2.1.2.'><h4> 2.1.2. Estrategias y tácticas frente a competidores</h4></div>
 Teniendo en cuenta el análisis anterior de nuestros competidores podemos definir las siguientes estrategias para poder sobresalir sobre ellos.
 
-- <b>Identificar las debilidades de la competencia y ser los mejores:</b> Esta estretegia será muy útil para marcar sobre todo nuestro valor agregado, 
-cómo es el caso de mejores descuentos y/o alianzas con distintas compañias. Incrementando por ejemplo la relación con donaciones.
+- <b>Identificar las debilidades de la competencia y ser los mejores:</b> Esta estretegia será muy útil para marcar sobre todo nuestro valor agregado,
+  cómo es el caso de mejores descuentos y/o alianzas con distintas compañias. Incrementando por ejemplo la relación con donaciones.
 - <b>Publicidad y Marketing:</b> Incrementaremos en nuestra fase inicial esta característica para poder llegar a más personas y así poder tener un mayor alcance. Alianzas con otras compañías
-y promociones diferenciadas para cada sector de nuestro público objetivo.
+  y promociones diferenciadas para cada sector de nuestro público objetivo.
 - <b>Mejor análisis de mercado:</b>Nuestros competidores se han enfocado en un solo sector de la población, nosotros nos enfocaremos en la diversidad de la población, ofreciendo diversos productos
-ya que contaremos con muchas alianzas que nos ayudarán a tener un mayor alcance.
+  ya que contaremos con muchas alianzas que nos ayudarán a tener un mayor alcance.
 - <b>Diversidad en nuestras plataformas: </b> Estaremos activos en distintas redes sociales y nuestra plataforma web será excelente ya que brindará características
-que los usuarios necesitan y un funcionamiento providencial.
+  que los usuarios necesitan y un funcionamiento providencial.
 
 </div>
 
@@ -336,9 +364,9 @@ que los usuarios necesitan y un funcionamiento providencial.
   <div id='2.2.1.'><h4> 2.2.1. Diseño de entrevistas</h4></div>
   <p>En esta sección se procederá a detallar las preguntas para el método de recoleccion de
   requisitos que son las entrevistas. Para la formulación se siguieron buenas prácicas tales como 
-  formulación de preguntas abiertas, así mismo obtenemos características demográficas con las entrevistas</p>  
+  formulación de preguntas abiertas, así mismo obtenemos características demográficas con las entrevistas</p>
 
-  A continuacion se presentan las preguntas para el sector de Clientes
+A continuacion se presentan las preguntas para el sector de Clientes
 
 1. ¿Nos podrías brindar por favor tu nombre, edad, ocupación, nivel de educación y nivel aproximado de ingresos?
 2. ¿Dónde resides actualmente?
@@ -360,74 +388,70 @@ A continuacion se presentan las preguntas para el sector de Empresas
 6. ¿Que quejas obtiene con frecuencia de sus cliente?
 7. ¿Alguna vez compró un producto y la venta no fue la esperada?
 8. Si es así, ¿Qué hizo con el producto?
-9. ¿Que le parece la idea de vender productos a punto de vencer y/o defectos a un precio más bajo a través de nuestra plataforma? 
+9. ¿Que le parece la idea de vender productos a punto de vencer y/o defectos a un precio más bajo a través de nuestra plataforma?
 10. En algunos casos, ¿Le llamaría la atención la contribución de ciertos para donaciones?
-
 
   <div id='2.2.2.'><h4> 2.2.2. Registro de entrevistas</h4></div>
 
-***Entrevistas a empresas***
+**_Entrevistas a empresas_**
 
-| Nombre entrevistado                     | Stephanie Ccama                                                                                                                                                                                                                                                                                                             |
-|-----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Edad                                    | 19 años                                                                                                                                                                                                                                                                                                                     |
-| Departamento                            | Lima                                                                                                                                                                                                                                                                                                                        |
-| <img src="imagenes/EntrevistEmpresa1.png" width = "1800" height ="200"> | En esta entrevista, Stephanie nos detalla acerca de su empresa familiar, la cuál es administra por ella producto de un retiro temprano por parte de su padre. Stephanie menciona que se encuentra con frecuencia con productos defectuosos o con fechas de vencimiento proximas, este tipo de productos son declarados por su empresa como merma y son desechados, perdiendo todo valor que pudiesen tener. Sin embargo, ella menciona que estarían dispuesta a usar nuestra aplicación y también a realizar muchas donaciones.                             |
-| Duración entrevista: 03:37 min          | [URL](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221c628_upc_edu_pe/Ea8IgRWiDqlJuIEa1LVY5OABIZSASae-pZPRl-coy46yVw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=CUrpvW) |
+| Nombre entrevistado                                                     | Stephanie Ccama                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Edad                                                                    | 19 años                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Departamento                                                            | Lima                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| <img src="imagenes/EntrevistEmpresa1.png" width = "1800" height ="200"> | En esta entrevista, Stephanie nos detalla acerca de su empresa familiar, la cuál es administra por ella producto de un retiro temprano por parte de su padre. Stephanie menciona que se encuentra con frecuencia con productos defectuosos o con fechas de vencimiento proximas, este tipo de productos son declarados por su empresa como merma y son desechados, perdiendo todo valor que pudiesen tener. Sin embargo, ella menciona que estarían dispuesta a usar nuestra aplicación y también a realizar muchas donaciones. |
+| Duración entrevista: 03:37 min                                          | [URL](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221c628_upc_edu_pe/Ea8IgRWiDqlJuIEa1LVY5OABIZSASae-pZPRl-coy46yVw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=CUrpvW)                                                                                                                                                                                                   |
 
-| Nombre entrevistado                          | Kevin Palomino                                                                                                                                                                                                                                                             |
-|----------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Edad                                         | 22 años                                                                                                                                                                                                                                                                    |
-| Departamento                                 | Lima                                                                                                                                                                                                                                                                       |
+| Nombre entrevistado                                                      | Kevin Palomino                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Edad                                                                     | 22 años                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Departamento                                                             | Lima                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | <img src="imagenes/EntrevistaEmpresa2.png" width = "1550" height ="200"> | En esta entrevista, Kevin nos detalla acerca de su empresa propia, en la que se realizan ventas de productos a través de las Redes Sociales. Despues de la pandemia, afrontaron muchas crisis y vieron reducidas en un numero considerable sus ganacias producto de la perdida de clientes. No obstante, están dispuestos a vender productos siempre y cuando la fecha de vencimiento esté correcta ya que jamás venderían productos que estén vencidos. |
-| Duración entrevista: 04:51 min               | [URL](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181h103_upc_edu_pe/EbWjDXKAVNRJnxzqalZsIUABFUWpzneNUpV3hm5E49Cm2w?e=B1DrWc)                                                                                                                                     |
+| Duración entrevista: 04:51 min                                           | [URL](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181h103_upc_edu_pe/EbWjDXKAVNRJnxzqalZsIUABFUWpzneNUpV3hm5E49Cm2w?e=B1DrWc)                                                                                                                                                                                                                                                                                                                   |
 
-| Nombre entrevistado                          | Esteban Morales                                                                                                                                                                                              |
-|----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Edad                                         | 25 años                                                                                                                                                                                                    |
-| Departamento                                 | Lima                                                                                                                                                                                                       |
+| Nombre entrevistado                                               | Esteban Morales                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Edad                                                              | 25 años                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Departamento                                                      | Lima                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | <img src="imagenes/Entrevista6.png" width = "1700" height ="200"> | En la entrevista, Esteban nos cuenta que es gerente de operaciones en una de las sedes de la cadena de supermercados "Plaza Vea". Esteban cuenta que desechan una gran cantidad de productos debido a que, los productos proximos a vencer y defectuosos son declarados como merma y son, en su mayoria, desechados. Esteban dice que no veria con malos ojos la existencia de una aplicacion que permita a las empresas vender sus productos proximos a vencer a un precio menos. |
-| Duración entrevista: 05:34 min               | [URL ](https://drive.google.com/file/d/1iLOrUPxAp5IVJKUenVJAE1f0DgCCLRKz/view?usp=sharing)                                                                                                                             |
+| Duración entrevista: 05:34 min                                    | [URL ](https://drive.google.com/file/d/1iLOrUPxAp5IVJKUenVJAE1f0DgCCLRKz/view?usp=sharing)                                                                                                                                                                                                                                                                                                                                                                                         |
 
-
-| Nombre entrevistado                          | Geyko Llanos                                                                                                                                                                                              |
-|----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Edad                                         | 25 años                                                                                                                                                                                                    |
-| Departamento                                 | Lima                                                                                                                                                                                                       |
+| Nombre entrevistado                                               | Geyko Llanos                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Edad                                                              | 25 años                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Departamento                                                      | Lima                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | <img src="imagenes/Entrevista8.png" width = "1700" height ="200"> | En la entrevista, Geyko nos comenta que es el administrador de una empresa familiar dedicada a la venta de productos alimenticios basicos, la cual heredo debido a la decision de padre de retirarse. Gyeko nos comenta que se ha visto forzado a aumentar el precio de sus productos debido a esta ultima recesion. Sin embargo, Geyko ve con buenos ojos la aplicacion propuesta por nosotros, debido a que le permitiria vender productos cotidianos a un precio bajo. |
-| Duración entrevista: 02:42 min               | [URL ](https://drive.google.com/file/d/1iLOrUPxAp5IVJKUenVJAE1f0DgCCLRKz/view?usp=sharing)                                                                                                                         |
+| Duración entrevista: 02:42 min                                    | [URL ](https://drive.google.com/file/d/1iLOrUPxAp5IVJKUenVJAE1f0DgCCLRKz/view?usp=sharing)                                                                                                                                                                                                                                                                                                                                                                                |
 
+**_Entrevista a clientes_**
 
-***Entrevista a clientes***
-
-
-| Nombre entrevistado                          | Fernando Quispe                                                                                                                                                                                                                                                                                    |
-|----------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Edad                                         | 19 años                                                                                                                                                                                                                                                                                            |
-| Departamento                                 | Lima                                                                                                                                                                                                                                                                                               |
+| Nombre entrevistado                                                      | Fernando Quispe                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Edad                                                                     | 19 años                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Departamento                                                             | Lima                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | <img src="imagenes/EntrevistaCliente1.png" width = "1550" height ="200"> | En la entrevista, Fernando nos señala que producto de la crisis económica tuvo que reducir su capacidad económica. Fernando se vio visto a reducir sus gastos generales puesto que no puede costearse ciertos productos que antes podia comprar con total normalidad. Esto lo llevo a conocer la compra en línea, dónde puede el comprar productos en oferta. Es por ello que estaría abierto a usar una plataforma web dónde consiga productos económicos. |
-| Duración entrevista: 03:54 min               | [URL](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c179_upc_edu_pe/EaS6aMjlVkhBl4s1bd6W9f4BxabN0w_QhWxEIBcWG1tL7g)                                                                                                                                                                                                                                                                                                |
+| Duración entrevista: 03:54 min                                           | [URL](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c179_upc_edu_pe/EaS6aMjlVkhBl4s1bd6W9f4BxabN0w_QhWxEIBcWG1tL7g)                                                                                                                                                                                                                                                                                                                               |
 
-| Nombre entrevistado                          | Melisa Luque                                                                                                                                                                                                                                                                                                                  |
-|----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Edad                                         | 20 años                                                                                                                                                                                                                                                                                                                       |
-| Departamento                                 | Lima                                                                                                                                                                                                                                                                                                                          |
-| <img src="imagenes/EntrevistaCliente2.png" width = "2000" height ="200"> | En esta entrevista Melisa nos cuenta que su familia vive en una zona bastante pobre del pais y que, por lo tanto, desde siempre han contado con dificultades para acceder a los productos de la canasta basica. Melissa cuenta que, tras la crisis economica derivada de la pandemia, esta dificultad para encontrar productos a precios comodos se ha incrementado, y que constantemente buscan la forma de encontrar productos alimenticios a un precio menor. Melissa cuenta ademas que estaría dispuesta a utilizar la plataforma ya que sería de mucha ayuda para ella.                                                                                                                                                                                                    |
-| Duración entrevista: 03:37 min               | [URL](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c179_upc_edu_pe/Edd5zAkIv3lFhmQbu8elXPYBpazevYwKEvVjTXgB0mzYUg?e=612tlm&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
+| Nombre entrevistado                                                      | Melisa Luque                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Edad                                                                     | 20 años                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Departamento                                                             | Lima                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| <img src="imagenes/EntrevistaCliente2.png" width = "2000" height ="200"> | En esta entrevista Melisa nos cuenta que su familia vive en una zona bastante pobre del pais y que, por lo tanto, desde siempre han contado con dificultades para acceder a los productos de la canasta basica. Melissa cuenta que, tras la crisis economica derivada de la pandemia, esta dificultad para encontrar productos a precios comodos se ha incrementado, y que constantemente buscan la forma de encontrar productos alimenticios a un precio menor. Melissa cuenta ademas que estaría dispuesta a utilizar la plataforma ya que sería de mucha ayuda para ella. |
+| Duración entrevista: 03:37 min                                           | [URL](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c179_upc_edu_pe/Edd5zAkIv3lFhmQbu8elXPYBpazevYwKEvVjTXgB0mzYUg?e=612tlm&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)                                                                                                                                                                                                                                                |
 
-| Nombre entrevistado                          | Andrea García                                                                                                                                                                                              |
-|----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Edad                                         | 20 años                                                                                                                                                                                                    |
-| Departamento                                 | Lima                                                                                                                                                                                                       |
+| Nombre entrevistado                                                      | Andrea García                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Edad                                                                     | 20 años                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Departamento                                                             | Lima                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | <img src="imagenes/EntrevistaCliente3.png" width = "1725" height ="200"> | En la entrevista Andrea nos relata lo difícil que ha sido para ella la pandemia, pues un gran numero de empresas se han visto forzadas a incrementar el costo de productos alimenticios basicos. Andrea nos relata que su familia no cuenta con una solvencia economica para poder acceder a los nuevos precios de productos que ambos compraba. Nos indica ademas, que ve con buenos ojos que existan formas para acceder a productos basicos por un precio menor al encontrado en los mercados en general. |
-| Duración entrevista: 03:37 min               | [URL ](https://drive.google.com/file/d/1DCItMb8vaBsD3ePaFMu6hRixOpOFS8mz/view)             |
+| Duración entrevista: 03:37 min                                           | [URL ](https://drive.google.com/file/d/1DCItMb8vaBsD3ePaFMu6hRixOpOFS8mz/view)                                                                                                                                                                                                                                                                                                                                                                                                                               |
 
-| Nombre entrevistado                          | Jennifer Salvatierra                                                                                                                                                                                             |
-|----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Edad                                         | 21 años                                                                                                                                                                                                    |
-| Departamento                                 | Lima                                                                                                                                                                                                       |
+| Nombre entrevistado                                               | Jennifer Salvatierra                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Edad                                                              | 21 años                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Departamento                                                      | Lima                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | <img src="imagenes/Entrevista7.png" width = "1700" height ="200"> | En la entrevista, Jennifer nos relata que actualmente se encuentra en una situacion economica comoda, mas si ha notado que una gran cantidad de productos que solia comprar con normalidad han incrementado sus precios considerablemente. Jennifer nos cuenta tambien que su tipo de compra favorita es la compra en linea, debido a la facilidad para encontrar productos y los descuentos exclusivos que se ofrecen en esta modalidad |
-| Duración entrevista: 03:37 min               | [URL ](https://drive.google.com/file/d/1DCItMb8vaBsD3ePaFMu6hRixOpOFS8mz/view)            |
+| Duración entrevista: 03:37 min                                    | [URL ](https://drive.google.com/file/d/1DCItMb8vaBsD3ePaFMu6hRixOpOFS8mz/view)                                                                                                                                                                                                                                                                                                                                                           |
 
   <div id='2.2.3.'><h4> 2.2.3. Análisis de entrevistas</h4></div>
 
@@ -461,32 +485,33 @@ A continuacion se presentan las preguntas para el sector de Empresas
   <h4>2.3.1 User Persona</h4>
   A continuación se presentan las User Personas para nuestro producto. En base a nuestros dos segmentos objetivos definidos. Se realizaron los artefactos en la herramienta UXPressia.
 
-   - Segmento Clientes: Personas que adquieren productos a través de nuestra plataforma.
-   - Segmento Empresas: Personas que venden productos a través de nuestra plataforma.
+- Segmento Clientes: Personas que adquieren productos a través de nuestra plataforma.
+- Segmento Empresas: Personas que venden productos a través de nuestra plataforma.
 
-   User Persona de Cliente: Click [aquí](https://uxpressia.com/w/ezex3/p/uLv62) para ver la User Persona de Cliente
-      <img src="imagenes/UserPersonaCliente.png" alt="UserPersonaCliente">
+User Persona de Cliente: Click [aquí](https://uxpressia.com/w/ezex3/p/uLv62) para ver la User Persona de Cliente
+<img src="imagenes/UserPersonaCliente.png" alt="UserPersonaCliente">
 
-   User Persona de Empresa: Click [aquí](https://uxpressia.com/w/ezex3/p/WoZAm) para ver la User Persona de Empresa
-      <img src="imagenes/UserPersonaEmpresa.png" alt="UserPersonaCliente">
+User Persona de Empresa: Click [aquí](https://uxpressia.com/w/ezex3/p/WoZAm) para ver la User Persona de Empresa
+<img src="imagenes/UserPersonaEmpresa.png" alt="UserPersonaCliente">
+
   <h4>2.3.2 User Task Matrix</h4>
   A continuación se presenta el User Task Matrix con las tareas de los usuarios y la importancia y frecuencia para cada usuario.
 
-   Se presenta para el segmento de clientes:
+Se presenta para el segmento de clientes:
 
 | Tareas de los usuarios                | Importancia | Frecuencia |
-|---------------------------------------|-------------|------------|
+| ------------------------------------- | ----------- | ---------- |
 | Buscar los productos que va a comprar | Alta        | Alta       |
 | Buscar las mejores ofertas            | Alta        | Alta       |
 | Realizar el pago de los productos     | Baja        | Media      |
 | Verificar la calidad de los productos | Baja        | Media      |
 | Verificar la fecha de vencimiento     | Media       | Media      |
-| Verificar la reputación de la empresa | Media        | Media       |
+| Verificar la reputación de la empresa | Media       | Media      |
 
 Se presenta para el segmento de empresarios:
 
 | Tareas de los usuarios                             | Importancia | Frecuencia |
-|----------------------------------------------------|-------------|------------|
+| -------------------------------------------------- | ----------- | ---------- |
 | Publicar los productos que va a vender             | Alta        | Alta       |
 | Verificar las ventas realizadas                    | Alta        | Alta       |
 | Decidir productos que va a comprar                 | Alta        | Alta       |
@@ -497,11 +522,11 @@ Se presenta para el segmento de empresarios:
   <h4>2.3.3 User Journey Mapping</h4>
     A continuación se presenta el User Journey Mapping para el segmento de clientes y empresas.
 
-  User Journey Mapping de Cliente: Click [aquí](https://uxpressia.com/w/ezex3/p/1b3e7) para ver el User Journey Mapping de Cliente
-      <img src="imagenes/UserJourneyMappingCliente.jpg" alt="UserJourneyCliente">
+User Journey Mapping de Cliente: Click [aquí](https://uxpressia.com/w/ezex3/p/1b3e7) para ver el User Journey Mapping de Cliente
+<img src="imagenes/UserJourneyMappingCliente.jpg" alt="UserJourneyCliente">
 
-  User Journey Mapping de Empresa: Click [aquí](https://uxpressia.com/w/ezex3/p/1b3e7) para ver el User Journey Mapping de Empresa
-      <img src="imagenes/UserJourneyMappingEmpresa.jpg" alt="UserJourneyEmpresa">
+User Journey Mapping de Empresa: Click [aquí](https://uxpressia.com/w/ezex3/p/1b3e7) para ver el User Journey Mapping de Empresa
+<img src="imagenes/UserJourneyMappingEmpresa.jpg" alt="UserJourneyEmpresa">
 
   <h4>2.3.4 Empathy Mapping</h3>
     A continuación se presenta el Empathy Mapping para el segmento de clientes y empresas.
@@ -519,21 +544,20 @@ Se presenta para el segmento de empresarios:
 <h3>2.4 Ubiquitious language</h3>
 <p>Se presenta el lenguaje ubicuo para nuestro producto EcoMarket.</p>
 
-| Término | Definición |
-|---------|------------|
-| EcoMarket | Plataforma de venta de productos alimenticios a precios accesibles |
-| Cliente | Persona que adquiere productos a través de nuestra plataforma |
-| Empresa | Persona que vende productos a través de nuestra plataforma |
-| Producto | Alimento que se vende en nuestra plataforma |
-| Vendedor | Persona que vende productos a través de nuestra plataforma |
-| Comprador | Persona que adquiere productos a través de nuestra plataforma |
-| Precio | Costo de un producto |
-| Descuento | Reducción del precio de un producto |
-| Oferta | Producto con un precio reducido |
-|Donación | Entrega de productos a determinada ONG y/o institución |
-| Fecha de vencimiento | Fecha en la que un producto caduca |
-|Problema | Tipo de problema del producto con defecto y/o fecha de vencimiento |
-
+| Término              | Definición                                                         |
+| -------------------- | ------------------------------------------------------------------ |
+| EcoMarket            | Plataforma de venta de productos alimenticios a precios accesibles |
+| Cliente              | Persona que adquiere productos a través de nuestra plataforma      |
+| Empresa              | Persona que vende productos a través de nuestra plataforma         |
+| Producto             | Alimento que se vende en nuestra plataforma                        |
+| Vendedor             | Persona que vende productos a través de nuestra plataforma         |
+| Comprador            | Persona que adquiere productos a través de nuestra plataforma      |
+| Precio               | Costo de un producto                                               |
+| Descuento            | Reducción del precio de un producto                                |
+| Oferta               | Producto con un precio reducido                                    |
+| Donación             | Entrega de productos a determinada ONG y/o institución             |
+| Fecha de vencimiento | Fecha en la que un producto caduca                                 |
+| Problema             | Tipo de problema del producto con defecto y/o fecha de vencimiento |
 
 <h2>Capitulo III: Requirements Specification</h2>
 <h3>3.1 To-Be Scenario Mapping</h3>
@@ -567,50 +591,50 @@ Se presenta para el segmento de empresarios:
   <strong>Given</strong> que el usuario está explorando la lista de productos disponibles,  
   <strong>And</strong> el producto seleccionado no está en stock o no está disponible,  
   <strong>When</strong> el usuario intenta agregar el producto al carrito,  
-  <strong>Then</strong> se muestra un mensaje de error indicando que el producto no está disponible.  
+  <strong>Then</strong> se muestra un mensaje de error indicando que el producto no está disponible.
 
-  <Strong>Escenario 3</Strong>: Error al Agregar al Carrito  
-  <strong>Given</strong> que el usuario está explorando la lista de productos disponibles,   
-  <strong>When</strong> el usuario intenta agregar un producto al carrito y ocurre un error en el sistema,   
-  <strong>Then</strong> se muestra un mensaje de error indicando que hubo un problema al agregar el producto al carrito.</td> <th>EP001</th></tr>
+<Strong>Escenario 3</Strong>: Error al Agregar al Carrito  
+ <strong>Given</strong> que el usuario está explorando la lista de productos disponibles,  
+ <strong>When</strong> el usuario intenta agregar un producto al carrito y ocurre un error en el sistema,  
+ <strong>Then</strong> se muestra un mensaje de error indicando que hubo un problema al agregar el producto al carrito.</td> <th>EP001</th></tr>
 
   <tr><th>US002</th> <td>Mostrar carrito de compras con resumen de orden y botón de pago</td> <td>Como usuario, deseo poder ver un resumen de mi compra en el carrito y tener un botón en el cual puedo seleccionar mis métodos de pago y realizarlo</td> 
     <td><strong>Escenario 1</strong>: Visualización del Carrito  
       
  <strong>Given</strong> que el usuario tiene productos en su carrito  
  <strong>When</strong> el usuario accede a la sección de carrito,  
- <strong>Then</strong> se muestra un resumen de los productos seleccionados y un botón de pago.  
+ <strong>Then</strong> se muestra un resumen de los productos seleccionados y un botón de pago.
 
 <strong>Escenario 2</strong>: Realizar Pago  
 <strong>Given</strong> que el usuario está revisando el resumen de la orden en el carrito  
 <strong>When</strong> el usuario hace clic en el botón de pago,  
-<strong>Then</strong> es redirigido a una pasarela de pago para completar la compra.  
+<strong>Then</strong> es redirigido a una pasarela de pago para completar la compra.
 
 <strong>Escenario 3</strong>: Carrito Vacío  
 <strong>Given</strong> que el usuario no tiene productos en su carrito  
 <strong>When</strong> el usuario accede a la sección de carrito,  
 <strong>Then</strong> se muestra un mensaje indicando que el carrito está vacío.</td> <th>EP001</th></tr>
-  
+
   <tr><th>US003</th> <td>Mostrar productos al realizar el inicio de sesión</td> <td>Como usuario, deseo que, al abrir la aplicación EcoMarket y realizar el inicio de mi sesion, se me muestre una selección de productos para explorar de manera rápida y conveniente</td> <td><strong>Escenario 1</strong>: Visualización de Productos al Iniciar Sesión  
     
 <strong>Given</strong> que el usuario ha iniciado sesión en la aplicación EcoMarket, Cuando el usuario accede a la plataforma,  
-<strong>Then</strong> se le muestra una selección de productos en la página principal para explorar y comprar de manera rápida y conveniente.  
+<strong>Then</strong> se le muestra una selección de productos en la página principal para explorar y comprar de manera rápida y conveniente.
 
 <strong>Escenario 2:</strong> Exploración de Productos  
 <strong>Given</strong> que el usuario ha iniciado sesión en la aplicación EcoMarket,  
 <strong>When</strong> el usuario explora la selección de productos mostrados al iniciar sesión,  
-<strong>Then</strong> puede ver imágenes, descripciones y precios de cada producto, facilitando la toma de decisiones de compra.  
+<strong>Then</strong> puede ver imágenes, descripciones y precios de cada producto, facilitando la toma de decisiones de compra.
 
 <strong>Escenario 3:</strong> Adición de Producto al Carrito  
 <strong>Given</strong> que el usuario ha iniciado sesión en la aplicación EcoMarket,  
 <strong>When</strong> el usuario selecciona un producto y hace clic en "Agregar al carrito",  
-<strong>Then</strong> el producto se agrega al carrito de compras, permitiendo al usuario revisar y completar fácilmente su compra en el futuro.  
+<strong>Then</strong> el producto se agrega al carrito de compras, permitiendo al usuario revisar y completar fácilmente su compra en el futuro.
 
 <strong>Escenario 4:</strong> Acceso Rápido a Detalles del Producto  
 <strong>Given</strong> que el usuario ha iniciado sesión en la aplicación EcoMarket,  
 <strong>When</strong> el usuario hace clic en un producto para obtener más detalles,  
 <strong>Then</strong> se muestra información detallada del producto, como características, opiniones de otros compradores y disponibilidad, ayudando al usuario a tomar una decisión informada de compra. </td> <th>EP001</th></tr>
-  
+
   <tr><th>US004</th> <td>Mostrar una barra de navegación lateral con varias opciones</td> <td>Como usuario, quiero que la aplicación muestre una barra de navegación lateral en el lado izquierdo con diversas opciones fundamentales de la aplicación</td> <td><strong>Escenario 1:</strong> Visualización de la Barra de Navegación Lateral  
     
 <strong>Given</strong>  que el usuario ha iniciado sesión en la aplicación EcoMarket,  
@@ -622,45 +646,44 @@ Se presenta para el segmento de empresarios:
 <strong>Given</strong>  que el usuario está en la pantalla de inicio de sesión en EcoMarket,  
 <strong>When</strong>  el usuario ingresa su correo electrónico y contraseña registrados de forma correcta,  
 <strong>And</strong>  hace clic en el botón de inicio de sesión,  
-<strong>Then</strong>  el sistema verifica las credenciales, autentica al usuario y le permite acceder a todas las funcionalidades y datos asociados con su cuenta.  
+<strong>Then</strong>  el sistema verifica las credenciales, autentica al usuario y le permite acceder a todas las funcionalidades y datos asociados con su cuenta.
 
-<strong>Escenario 2:</strong>  Credenciales Incorrectas  
-<strong>Given</strong>  que el usuario está en la pantalla de inicio de sesión en EcoMarket,  
-<strong>When</strong>  el usuario ingresa credenciales incorrectas, ya sea un correo electrónico no registrado o una contraseña incorrecta,  
-<strong>Then</strong>  el sistema muestra un mensaje de error indicando que las credenciales son incorrectas  
-<strong>And</strong>  solicita al usuario que las ingrese nuevamente.  
+<strong>Escenario 2:</strong> Credenciales Incorrectas  
+<strong>Given</strong> que el usuario está en la pantalla de inicio de sesión en EcoMarket,  
+<strong>When</strong> el usuario ingresa credenciales incorrectas, ya sea un correo electrónico no registrado o una contraseña incorrecta,  
+<strong>Then</strong> el sistema muestra un mensaje de error indicando que las credenciales son incorrectas  
+<strong>And</strong> solicita al usuario que las ingrese nuevamente.
 
-<strong>Escenario 3:</strong>  Correo Electrónico no Registrado  
-<strong>Given</strong>  que el usuario está en la pantalla de inicio de sesión en EcoMarket,  
-<strong>When</strong>  el usuario ingresa un correo electrónico que no está registrado en el sistema,  
-<strong>Then</strong>  el sistema muestra un mensaje indicando que el correo electrónico no está asociado a ninguna cuenta  
-<strong>And</strong>  sugiere crear una nueva cuenta.</td> <th>EP001</th></tr>
-  
+<strong>Escenario 3:</strong> Correo Electrónico no Registrado  
+<strong>Given</strong> que el usuario está en la pantalla de inicio de sesión en EcoMarket,  
+<strong>When</strong> el usuario ingresa un correo electrónico que no está registrado en el sistema,  
+<strong>Then</strong> el sistema muestra un mensaje indicando que el correo electrónico no está asociado a ninguna cuenta  
+<strong>And</strong> sugiere crear una nueva cuenta.</td> <th>EP001</th></tr>
+
   <tr><th colspan = "5">Segmento vendedor</th></tr>
   <tr><th>US006</th> <td>Añadir un nuevo producto</td> <td>Como vendedor, deseo poder añadir un producto a la aplicación EcoMarket, para así poder exhibir los productos que tengo para ofrecer a los demás usuarios</td> <td><strong>Escenario 1</strong>: Acceso a la Función de Añadir Producto
     
 <strong>Given</strong> que el vendedor está en la aplicación EcoMarket,  
 <strong>When</strong> el vendedor navega a la sección de añadir un producto,  
-<strong>Then</strong> la aplicación muestra la página para añadir un nuevo producto.  
+<strong>Then</strong> la aplicación muestra la página para añadir un nuevo producto.
 
-
-<strong>Escenario 2:</strong>  Ingreso de Información del Producto  
+<strong>Escenario 2:</strong> Ingreso de Información del Producto  
 <strong>Given</strong> que el vendedor está en la página para añadir un nuevo producto,  
 <strong>When</strong> el vendedor ingresa la información esencial del producto, como nombre, descripción, precio, stock y fecha de caducidad,  
-<strong>Then</strong> la aplicación permite al vendedor proporcionar los datos necesarios para agregar el producto al catálogo de venta.  
+<strong>Then</strong> la aplicación permite al vendedor proporcionar los datos necesarios para agregar el producto al catálogo de venta.
 
 <strong>Escenario 3</strong> : Validación de la Información del Producto  
 <strong>Given</strong> que el vendedor ha ingresado la información del producto,  
 <strong>When</strong> el vendedor hace clic en "Guardar" para añadir el producto,  
-<strong>Then</strong> la aplicación valida los datos ingresados para garantizar que sean correctos y completos.  
+<strong>Then</strong> la aplicación valida los datos ingresados para garantizar que sean correctos y completos.
 
-<strong>Escenario 4:</strong>  Guardar el Nuevo Producto  
+<strong>Escenario 4:</strong> Guardar el Nuevo Producto  
 <strong>Dado</strong> que la información del nuevo producto ha sido validada con éxito,  
 <strong>Given</strong> el vendedor confirma y guarda la información del producto,  
 <strong>Then</strong> la aplicación agrega el producto al catálogo de venta del vendedor  
-<strong>And</strong> muestra un mensaje de confirmación.  
+<strong>And</strong> muestra un mensaje de confirmación.
 
-<strong>Escenario 5:</strong>  Cancelación de la Creación del Nuevo Producto  
+<strong>Escenario 5:</strong> Cancelación de la Creación del Nuevo Producto  
 <strong>Given</strong> que el vendedor está en la página para añadir un nuevo producto,  
 <strong>When</strong> el vendedor decide cancelar la creación sin guardar los datos ingresados,  
 <strong>Then</strong> la aplicación no agrega ningún producto  
@@ -670,91 +693,91 @@ Se presenta para el segmento de empresarios:
     
 <strong>Given</strong> que el vendedor está en la aplicación EcoMarket,  
 <strong>When</strong> el vendedor inicia sesión,  
-<strong>Then</strong> la aplicación muestra la lista de productos que el vendedor tiene en venta.  
+<strong>Then</strong> la aplicación muestra la lista de productos que el vendedor tiene en venta.
 
 <strong>Escenario 2:</strong> Visualización de Detalles de los Productos  
 <strong>Given</strong> que el vendedor está en la lista de sus productos,  
 <strong>When</strong> el vendedor selecciona un producto específico,  
-<strong>Then</strong> la aplicación muestra los detalles detallados de ese producto, como nombre, descripción, precio, stock y fecha de caducidad.  
+<strong>Then</strong> la aplicación muestra los detalles detallados de ese producto, como nombre, descripción, precio, stock y fecha de caducidad.
 
 <strong>Escenario 3:</strong> Edición de los Productos  
 <strong>Given</strong> que el vendedor está en la lista de sus productos,  
 <strong>When</strong> el vendedor elige editar un producto,  
-<strong>Then</strong> la aplicación permite al vendedor editar la información y actualizar detalles como nombre, descripción, precio, stock y fecha de caducidad.  
+<strong>Then</strong> la aplicación permite al vendedor editar la información y actualizar detalles como nombre, descripción, precio, stock y fecha de caducidad.
 
 <strong>Escenario 4:</strong> Eliminación de un Producto  
 <strong>Given</strong> que el vendedor está en la lista de sus productos,  
 <strong>When</strong> el vendedor decide eliminar un producto,  
 <strong>Then</strong> la aplicación permite al vendedor eliminar el producto seleccionado de su lista de productos.</td> <th>EP004</th></tr>
-  
+
   <tr><th>US008</th> <td>Ver perfil como vendedor</td> <td>Como vendedor, quiero tener acceso a mi perfil en mi cuenta en EcoMarket, para así poder editar mi perfil así como tener un reporte de todas las ventas que hice y poder gestionar todos los productos que tengo a la venta</td> <td><strong>Escenario 1:</strong>  Acceso al Perfil de Vendedor
     
 <strong>Given</strong> que el vendedor está en la aplicación EcoMarket,  
 <strong>When</strong> el vendedor navega a la sección de perfil,  
-<strong>Then</strong> la aplicación muestra la página del perfil del vendedor.  
+<strong>Then</strong> la aplicación muestra la página del perfil del vendedor.
 
 <strong>Escenario 2:</strong> Visualización de Información de la Cuenta de Vendedor  
 <strong>Given</strong> que el vendedor está en la página de perfil de vendedor,  
 <strong>When</strong> el vendedor accede a la sección de información de la cuenta,  
-<strong>Then</strong> la aplicación muestra detalles relevantes sobre la cuenta del vendedor, como nombre, dirección, e información de contacto.  
+<strong>Then</strong> la aplicación muestra detalles relevantes sobre la cuenta del vendedor, como nombre, dirección, e información de contacto.
 
 <strong>Escenario 3:</strong> Visualización de Detalles de Contacto  
 <strong>Given</strong> que el vendedor está en la página de perfil de vendedor,  
 <strong>When</strong> el vendedor accede a la sección de detalles de contacto,  
 <strong>Then</strong> la aplicación muestra la información de contacto del vendedor, como dirección de correo electrónico y número de teléfono.</td> <th>EP005</th></tr>
-  
+
   <tr><th>US009</th> <td>Editar perfil como vendedor</td> <td>Como vendedor, necesito actualizar y mantener precisa mi información de perfil, incluyendo datos de contacto y descripción de la empresa, para asegurarme que los clientes siempre reciban información relevante y actualizada.</td> <td><strong>Escenario 1:</strong> Acceso a la Edición del Perfil
     
 <strong>Given</strong> que el vendedor está en la aplicación EcoMarket,  
 <strong>When</strong> el vendedor navega a la sección de edición de perfil,  
-<strong>Then</strong> la aplicación muestra la página para editar el perfil del vendedor.  
+<strong>Then</strong> la aplicación muestra la página para editar el perfil del vendedor.
 
 <strong>Escenario 2:</strong> Edición de la Información del Perfil  
 <strong>Given</strong> que el vendedor está en la página de edición del perfil,  
 <strong>When</strong> el vendedor modifica la información existente en su perfil, como detalles de contacto y descripción de la empresa,  
-<strong>Then</strong> la aplicación permite al vendedor realizar cambios en la información de su perfil.  
+<strong>Then</strong> la aplicación permite al vendedor realizar cambios en la información de su perfil.
 
 <strong>Escenario 3:</strong> Validación de la Información Editada del Perfil  
 <strong>Given</strong> que el vendedor ha editado la información de su perfil,  
 <strong>When</strong> el vendedor hace clic en "Guardar" para actualizar la información del perfil,  
-<strong>Then</strong> la aplicación valida los datos editados para garantizar que sean correctos y completos.   
+<strong>Then</strong> la aplicación valida los datos editados para garantizar que sean correctos y completos.
 
-<strong>Escenario 4:</strong> Guardar Cambios en el Perfil   
+<strong>Escenario 4:</strong> Guardar Cambios en el Perfil  
 <strong>Given</strong> que la información del perfil ha sido validada con éxito,  
 <strong>When</strong> el vendedor confirma y guarda la información del perfil,  
-<strong>Then</strong> la aplicación actualiza la información del perfil del vendedor   
-<strong>And</strong>  muestra un mensaje de confirmación.  
+<strong>Then</strong> la aplicación actualiza la información del perfil del vendedor  
+<strong>And</strong> muestra un mensaje de confirmación.
 
 <strong>Escenario 5:</strong> Confirmación de Cambios en el Perfil  
 <strong>Given</strong> que el vendedor ha guardado los cambios en su perfil,  
 <strong>When</strong> la aplicación ha actualizado la información con éxito,  
 <strong>Then</strong> se muestra un mensaje de confirmación indicando que los cambios se han guardado y que el perfil está actualizado.</td> <th>EP005</th></tr>
-  
+
   <tr><th>US010</th> <td>Registro de vendedor</td> <td>Como nuevo vendedor, deseo crear una cuenta en la aplicación EcoMarket proporcionando la información necesaria, incluyendo correo electrónico, nombre de empresa, RUC, dirección, teléfono y contraseña, para acceder a los servicios de la aplicación como vendedor.</td> <td><strong>Escenario 1:</strong> Acceso a la Página de Registro
     
 <strong>Given</strong> que el nuevo vendedor está en la aplicación EcoMarket,  
 <strong>When</strong> el vendedor navega a la página de registro,  
-<strong>Then</strong> la aplicación muestra la página de registro para vendedores.  
+<strong>Then</strong> la aplicación muestra la página de registro para vendedores.
 
-<strong>Escenario 2</strong>: Ingreso de Información de Registro   
-<strong>Given</strong> que el vendedor está en la página de registro,   
-<strong>When</strong> el vendedor ingresa la información requerida, como correo, nombre de empresa, RUC, dirección, teléfono y contraseña,   
-<strong>Then</strong> la aplicación permite al vendedor proporcionar la información necesaria para el registro.   
+<strong>Escenario 2</strong>: Ingreso de Información de Registro  
+<strong>Given</strong> que el vendedor está en la página de registro,  
+<strong>When</strong> el vendedor ingresa la información requerida, como correo, nombre de empresa, RUC, dirección, teléfono y contraseña,  
+<strong>Then</strong> la aplicación permite al vendedor proporcionar la información necesaria para el registro.
 
-<strong>Escenario 3:</strong> Validación de la Información de Registro    
-<strong>Given</strong> que el vendedor ha ingresado la información de registro,   
-<strong>When</strong> el vendedor hace clic en "Registrarse",   
-<strong>Then</strong> la aplicación valida los datos ingresados para garantizar que sean correctos y completos.   
+<strong>Escenario 3:</strong> Validación de la Información de Registro  
+<strong>Given</strong> que el vendedor ha ingresado la información de registro,  
+<strong>When</strong> el vendedor hace clic en "Registrarse",  
+<strong>Then</strong> la aplicación valida los datos ingresados para garantizar que sean correctos y completos.
 
-<strong>Escenario 4:</strong> Creación de la Cuenta de Vendedor   
-<strong>Given</strong> que la información de registro ha sido validada con éxito,   
-<strong>When</strong> el vendedor confirma y crea la cuenta de vendedor,   
-<strong>Then</strong> la aplicación registra al vendedor en la plataforma   
-<strong>And</strong>  muestra un mensaje de confirmación.   
+<strong>Escenario 4:</strong> Creación de la Cuenta de Vendedor  
+<strong>Given</strong> que la información de registro ha sido validada con éxito,  
+<strong>When</strong> el vendedor confirma y crea la cuenta de vendedor,  
+<strong>Then</strong> la aplicación registra al vendedor en la plataforma  
+<strong>And</strong> muestra un mensaje de confirmación.
 
-<strong>Escenario 5:</strong> Error en el Registro   
-<strong>Given</strong> que la información de registro no es válida o está incompleta,   
-<strong>When</strong> el vendedor intenta registrarse sin proporcionar datos válidos,   
+<strong>Escenario 5:</strong> Error en el Registro  
+<strong>Given</strong> que la información de registro no es válida o está incompleta,  
+<strong>When</strong> el vendedor intenta registrarse sin proporcionar datos válidos,  
 <strong>Then</strong> la aplicación muestra un mensaje de error indicando que el registro ha fallado y qué campos deben corregirse.</td> <th>EP005</th></tr>
 
 <tr><th colspan = "5">Segmento Landing Page</th></tr>
@@ -911,9 +934,9 @@ Se presenta para el segmento de empresarios:
 <strong>When</strong> Le doy click al boton que dice "Log-In",  
 <strong>And</strong> Lleno de forma correcta los campos solictados,  
 <strong>Given</strong> Que no estoy registrado en la aplicacion,  
-<strong>Then</strong> La pagina me indica que no estoy registrado en la aplicacion y me redirije a la pantalla de registro de usuario  
+<strong>Then</strong> La pagina me indica que no estoy registrado en la aplicacion y me redirije a la pantalla de registro de usuario
 
-  <strong>Escenario 3:</strong>      
+<strong>Escenario 3:</strong>  
 <strong>Given</strong> Entro a la aplicacion web de EcoMarket,  
 <strong>When</strong> Le doy click al boton que dice "Log-In",  
 <strong>And</strong> Lleno de forma incorrecta alguno de los campos solicitados,  
@@ -999,17 +1022,17 @@ Se presenta para el segmento de empresarios:
 <strong>When</strong> Hago click en el icono del tacho de basura en el producto  
 <strong>Then</strong> El producto se eliminara del carrito de compras
 
-  <strong>Escenario 3:</strong>  
+<strong>Escenario 3:</strong>  
 <strong>Given</strong> Ingreso de forma correcta a la aplicacion,  
-<strong>And</strong> Se me muestra el catalogo de los producotos,   
+<strong>And</strong> Se me muestra el catalogo de los producotos,  
 <strong>When</strong> Doy click a una serie de productos,  
 <strong>And</strong> Hago click en el icono del carrito de compras,  
 <strong>When</strong> Hago click en el icono de la suma o la resta en la cantidad de productos  
 <strong>Then</strong> El producto aumentara o disminuira en 1 su cantidad
 
-  <strong>Escenario 4:</strong>  
+<strong>Escenario 4:</strong>  
 <strong>Given</strong> Ingreso de forma correcta a la aplicacion,  
-<strong>And</strong> Se me muestra el catalogo de los producotos,   
+<strong>And</strong> Se me muestra el catalogo de los producotos,  
 <strong>When</strong> Doy click a una serie de productos,  
 <strong>And</strong> Hago click en el icono del carrito de compras,  
 <strong>When</strong> Ingreso un codigo de bono en el apartado de "bono"  
@@ -1036,7 +1059,6 @@ Se presenta para el segmento de empresarios:
 <strong>When</strong> Uno o mas datos de la tarjeta son ingresados de forma incorrecta,  
 <strong>Then</strong> El pago no es procesado y manda un mensaje de error.</td> <td>-</td></tr>
 
-
 <tr>
   <th>USAP10</th>
   <td>Mostrar Lista de Donaciones de Usuarios</td>
@@ -1047,11 +1069,12 @@ Se presenta para el segmento de empresarios:
     <strong>When</strong> Navego a la sección de 'Donaciones' en la barra de herramientas,
     <strong>Then</strong> Puedo ver en la parte izquierda la lista de donaciones que he realizado con detalles como fecha, cantidad donada, y organización beneficiada.
 
-  <strong>Escenario 2:</strong>
-  <strong>Given</strong> Ingreso de forma correcta a la aplicación,
-  <strong>When</strong> Navego a la sección de 'Donaciones' en la barra de herramientas,
-  <strong>And</strong> No he realizado ninguna donación,
-  <strong>Then</strong> Se muestra una lista vacía y un mensaje indicando que no hay donaciones realizadas.
+<strong>Escenario 2:</strong>
+<strong>Given</strong> Ingreso de forma correcta a la aplicación,
+<strong>When</strong> Navego a la sección de 'Donaciones' en la barra de herramientas,
+<strong>And</strong> No he realizado ninguna donación,
+<strong>Then</strong> Se muestra una lista vacía y un mensaje indicando que no hay donaciones realizadas.
+
   </td>
   <td>-</td>
 </tr>
@@ -1125,9 +1148,7 @@ Se presenta para el segmento de empresarios:
 
 </table>
 
-
 [//]: #CAPITULO3
-
 
 <div id='4.'><h2>Capítulo 4: Product Design</h2></div>
 <div id='4.1.'><h3> 4.1. Style Guidelines</h3></div>
@@ -1146,7 +1167,7 @@ Colors: Nuestros colores principales los cuales representarán nuestra aplicaci�
 
 Spacing: En nuestra landing page de EcoMarket, el espaciado juega un papel importante como divisor de la información proporcionada a nuestros usuarios. Es fundamental que la web sea intuitiva, en la cuál se pueda navegar de forma sencilla. Por ello presentamos la información de manera ordenada, con un espaciado que permite ver la información legible. <br>
 
-Tono de Comunicación y lenguaje aplicado: Entendemos que evitar el desperdicio de los alimentos requiere dedicación y compromiso. En nuestra plataforma, nos esforzamos por acompañarte en cada paso de este camino. Nuestro tono de comunicación y lenguaje se distingue por ser respetuoso y entusiasta, alentandote a comprar nuestros productos, no solo por el precio accesible, sino pensando en que contribuyes a que no se desperdicien los alimentos.. Así como la UPC  inspira a sus estudiantes a alcanzar sus metas, nosotros te motivamos a dar lo mejor para el bienestar de tus mascotas <br>
+Tono de Comunicación y lenguaje aplicado: Entendemos que evitar el desperdicio de los alimentos requiere dedicación y compromiso. En nuestra plataforma, nos esforzamos por acompañarte en cada paso de este camino. Nuestro tono de comunicación y lenguaje se distingue por ser respetuoso y entusiasta, alentandote a comprar nuestros productos, no solo por el precio accesible, sino pensando en que contribuyes a que no se desperdicien los alimentos.. Así como la UPC inspira a sus estudiantes a alcanzar sus metas, nosotros te motivamos a dar lo mejor para el bienestar de tus mascotas <br>
 
 <div id='4.1.2'><h4>4.1.2. Web Style Guidelines.</h4> <br>
 
@@ -1200,7 +1221,6 @@ En esta sección detallamos los sistemas de etiquetado que utilizaremos en nuest
     <li>Etiquetas de filtros: Se utilizarán etiquetas de filtros en la página de resultados de búsqueda y en la lista de productos para indicar los filtros aplicados, como precio, marca, tamaño, etc., para que las empresas puedan ver y modificar fácilmente los filtros seleccionados.</li>
     <li>Etiquetas de estado: Se utilizarán etiquetas de estado en la lista de productos y en el historial de ventas para indicar el estado de cada producto, como en stock, agotado, en oferta, vendido, etc., para que las empresas puedan seguir el progreso de sus ventas.</li>
     </ul>
-
 
 </div>
 
@@ -1328,7 +1348,6 @@ A continuacion detallamos los user flow de la aplicación EcoMarket para los seg
 <img src="imagenes/Userflow7.jpg" >
 <img src="imagenes/Userflow8.jpg" >
 
-
 <div id='4.6.'><h3> 4.6. Domain-Driven Software Architecture.</h3></div>
 <div id='4.6.1'><h4>4.6.1 Software Architecture Context Diagram</h4></div>
 <img src="imagenes/Diagrama de Contexto.png" width="500" height="500">
@@ -1350,33 +1369,33 @@ En esta sección detallaremos el diseño orientado a objetos de la aplicación E
 <div id="4.7.1."><h4>4.7.2. Class Dictionary</h4>
 A continuación se presenta el diccionario de clases correspondiente al diagrama de clases de EcoMarket.
 
-| Clase                    | Descripción                                                                                                                                  |
-|--------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
-| User                     | Representa a un usuario de nuestra aplicación conteniendo datos de autenticación y verificación de Account                                   |
-| Account                  | Representa la cuenta de un usuario en nuestra aplicación, conteniendo información de perfil y credenciales                                   |
-| RessetPasswordController | Controlador para el proceso de restablecimiento de contraseña                                                                                |
-| Profile                  | Representa el perfil de un usuario en nuestra aplicación, conteniendo información personal y de contacto. Clase base para Customer y Company |
-| Customer                 | Representa a un cliente de nuestra aplicación, conteniendo información de compras y preferencias de productos                                |
-| Company                  | Representa a una empresa en nuestra aplicación, conteniendo información de ventas y productos en stock                                       |
-| Product                  | Representa un producto en nuestra aplicación, conteniendo información de nombre, descripción, precio y stock                                 |
-| ShoppingCart             | Representa el carrito de compras de un cliente en nuestra aplicación, conteniendo productos seleccionados y total a pagar                    |
-|Purchase | Representa una compra realizada por un cliente en nuestra aplicación, conteniendo información de productos adquiridos y total pagado         |
-| Payment | Representa la información del pago realizado por un Purchase en nuestra aplicación, conteniendo método de pago y monto pagado                |
-| PaymentController | Controlador para el proceso de pago de un Purchase                                                                                           |
-| ExternalPaymentService | Clase que interactúa con un servicio externo para procesar pagos de un Purchase                                                              |
-|CartItem | Representa un producto seleccionado por un cliente en el carrito de compras, conteniendo información de producto y cantidad seleccionada     |
-|Review | Representa una reseña realizada por un cliente sobre un producto en nuestra aplicación, conteniendo calificación y comentario                |
-|PublicationListController | Controlador para la gestión y visualización  de productos en venta de una Company en nuestra aplicación                                      |
-|HistoryController | Controlador para la gestión y visualización de compras y ventas realizadas por un Customer o Company en nuestra aplicación                   |
-|Message | Representa un mensaje enviado por un usuario a otro en nuestra aplicación, conteniendo información de emisor, receptor y contenido          |
-|Conversation | Representa una conversación entre dos usuarios en nuestra aplicación, conteniendo mensajes enviados y usuarios participantes                |
-|CardLinkingController | Controlador para el proceso de vinculación de tarjetas de crédito a una cuenta de usuario en nuestra aplicación                              |
-|ExternalPaymentService | Crea un metodo de pago externo que se asocia con CardLinkingController para procesar pagos de un Purchase                                    |
-|PaymentMethod | Representa un método de pago asociado a una cuenta de usuario en nuestra aplicación, conteniendo información de tarjeta y dirección de facturación |
-|ManageProducts | Controlador para la gestión y visualización de productos en venta de una Company en nuestra aplicación                                      |
-|Donation | Representa una donación realizada por un cliente en nuestra aplicación, conteniendo información de monto y causa                             |
-|Ong | Representa una organización no gubernamental en nuestra aplicación, conteniendo información de causas y donaciones recibidas                   |
-| Category | Representa una categoría de productos en nuestra aplicación, conteniendo información de nombre y productos asociados                        |
+| Clase                     | Descripción                                                                                                                                        |
+| ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| User                      | Representa a un usuario de nuestra aplicación conteniendo datos de autenticación y verificación de Account                                         |
+| Account                   | Representa la cuenta de un usuario en nuestra aplicación, conteniendo información de perfil y credenciales                                         |
+| RessetPasswordController  | Controlador para el proceso de restablecimiento de contraseña                                                                                      |
+| Profile                   | Representa el perfil de un usuario en nuestra aplicación, conteniendo información personal y de contacto. Clase base para Customer y Company       |
+| Customer                  | Representa a un cliente de nuestra aplicación, conteniendo información de compras y preferencias de productos                                      |
+| Company                   | Representa a una empresa en nuestra aplicación, conteniendo información de ventas y productos en stock                                             |
+| Product                   | Representa un producto en nuestra aplicación, conteniendo información de nombre, descripción, precio y stock                                       |
+| ShoppingCart              | Representa el carrito de compras de un cliente en nuestra aplicación, conteniendo productos seleccionados y total a pagar                          |
+| Purchase                  | Representa una compra realizada por un cliente en nuestra aplicación, conteniendo información de productos adquiridos y total pagado               |
+| Payment                   | Representa la información del pago realizado por un Purchase en nuestra aplicación, conteniendo método de pago y monto pagado                      |
+| PaymentController         | Controlador para el proceso de pago de un Purchase                                                                                                 |
+| ExternalPaymentService    | Clase que interactúa con un servicio externo para procesar pagos de un Purchase                                                                    |
+| CartItem                  | Representa un producto seleccionado por un cliente en el carrito de compras, conteniendo información de producto y cantidad seleccionada           |
+| Review                    | Representa una reseña realizada por un cliente sobre un producto en nuestra aplicación, conteniendo calificación y comentario                      |
+| PublicationListController | Controlador para la gestión y visualización de productos en venta de una Company en nuestra aplicación                                             |
+| HistoryController         | Controlador para la gestión y visualización de compras y ventas realizadas por un Customer o Company en nuestra aplicación                         |
+| Message                   | Representa un mensaje enviado por un usuario a otro en nuestra aplicación, conteniendo información de emisor, receptor y contenido                 |
+| Conversation              | Representa una conversación entre dos usuarios en nuestra aplicación, conteniendo mensajes enviados y usuarios participantes                       |
+| CardLinkingController     | Controlador para el proceso de vinculación de tarjetas de crédito a una cuenta de usuario en nuestra aplicación                                    |
+| ExternalPaymentService    | Crea un metodo de pago externo que se asocia con CardLinkingController para procesar pagos de un Purchase                                          |
+| PaymentMethod             | Representa un método de pago asociado a una cuenta de usuario en nuestra aplicación, conteniendo información de tarjeta y dirección de facturación |
+| ManageProducts            | Controlador para la gestión y visualización de productos en venta de una Company en nuestra aplicación                                             |
+| Donation                  | Representa una donación realizada por un cliente en nuestra aplicación, conteniendo información de monto y causa                                   |
+| Ong                       | Representa una organización no gubernamental en nuestra aplicación, conteniendo información de causas y donaciones recibidas                       |
+| Category                  | Representa una categoría de productos en nuestra aplicación, conteniendo información de nombre y productos asociados                               |
 
 </div>
 
@@ -1400,9 +1419,8 @@ En esta sección establecemos las decisiones y convenciones que nos permitirán 
 <div id='5.1.1'><h4>5.1.1. Software Development Environment Configuration.</h4></div>
 En esta sección describimos nuestros productos y herramientas utilizadas para el desarrollo de EcoMarket, así como la documentación y repositorios asociados a nuestro proyecto.
 
-
-- Documentación Producto: [EcoMarket](https://github.com/upc-pre-202401-si729-ws52-ProDev/FinalProject)   Realizamos nuestra documentación en un repositorio de nuestra organización en GitHub Pro Dev, para mantener un control de versiones y colaboración eficiente.
-- Repositorios de GitHub: [EcoMarket](https://github.com/upc-pre-202401-si729-ws52-ProDev)  Utilizamos GitHub para alojar nuestro código fuente y colaborar en el desarrollo de EcoMarket.
+- Documentación Producto: [EcoMarket](https://github.com/upc-pre-202401-si729-ws52-ProDev/FinalProject) Realizamos nuestra documentación en un repositorio de nuestra organización en GitHub Pro Dev, para mantener un control de versiones y colaboración eficiente.
+- Repositorios de GitHub: [EcoMarket](https://github.com/upc-pre-202401-si729-ws52-ProDev) Utilizamos GitHub para alojar nuestro código fuente y colaborar en el desarrollo de EcoMarket.
 - Software Development: [Landing Page](https://upc-pre-202401-si729-ws52-prodev.github.io/LandingPage/) Java, Html, CSS, JavaScript and Angular son los lenguajes y tecnologías que utilizamos para el desarrollo de EcoMarket.
 <div id='5.1.2'><h4>5.1.2. Source Code Management.</h4></div>
 
@@ -1410,6 +1428,7 @@ Nuestro proyecto EcoMarket se encuentra alojado en un repositorio de GitHub, don
 Tenemos cómo convención el manejo de GitFlow, donde se utilizan las ramas main, develop, feature, release y hotfix para organizar el flujo de trabajo y mantener un control de versiones eficiente.
 Repositorio de GitHub: [RepositorioGitHub](https://github.com/upc-pre-202401-si729-ws52-ProDev/FinalProject/tree/main)
 El flujo de trabajo de GitFlow se describe a continuación:
+
 - La rama main contiene la versión estable y en producción del producto.
 - La rama develop contiene la versión en desarrollo del producto.
 - Las ramas feature se utilizan para desarrollar nuevas funcionalidades del producto.
@@ -1425,7 +1444,7 @@ Imagen que ilustra el flujo de trabajo de GitFlow:
 
 <img src="imagenes/GitFlowFlujo.png">
 
-Los commits están detallados por Conventional Commits, donde se utiliza un formato estándar para describir los cambios realizados en el código fuente. 
+Los commits están detallados por Conventional Commits, donde se utiliza un formato estándar para describir los cambios realizados en el código fuente.
 
 <img src="imagenes/ConventionalCommit.png">
 
@@ -1447,7 +1466,6 @@ Detallaremos las convenciones que tomamos en cuenta para mantener un código lim
 - - Identación de bloques: Utilizamos una tabulación de dos espacios para indentar los bloques de código JavaScript.
 - - Comentarios: Utilizamos comentarios JavaScript para documentar el código y explicar su funcionalidad.
 
-
 <div id='5.1.4'><h4>5.1.4. Software Deployment Configuration.</h4></div>
 En estac sección detallaremos el proceso de despliegue de la aplicación EcoMarket en un entorno de producción. Para ello, se describirán las herramientas y servicios utilizados, así como los pasos y configuraciones necesarias para llevar a cabo el despliegue de la aplicación.
 
@@ -1458,55 +1476,55 @@ Se detallan fotos de la configuración y despliegue de nuestra landing page
 
 <div id='5.2.'><h3> 5.2. Landing Page, Services & Applications Implementation.</h3></div>
 
-En esta sección explicaremos y evidenciaremos el proceso de implementación, pruebas, documentación y despliegue de todos los productos de EcoMarket. 
+En esta sección explicaremos y evidenciaremos el proceso de implementación, pruebas, documentación y despliegue de todos los productos de EcoMarket.
 Donde detallamos por sprint las actividades realizadas y los resultados obtenidos en cada uno de ellos.
 
 <div id='5.2.1'><h4>5.2.1. Sprint 1</h4> </div>
 Nuestro Sprint #1 se basa en la implementación de la Landing Page de EcoMarket, donde se detallan las actividades realizadas y los resultados obtenidos en cada una de ellas.
 <div id="5.2.1.1"><h5>5.2.1.1. Sprint Planning 1</h5></div>
 
-| Sprint #                           | Sprint 1                                                                       | 
-|------------------------------------|--------------------------------------------------------------------------------|
-| **Sprint Planning Background**         |
-| Date                               | 2024 - Marzo Abril                                                             |
-| Time                               | 3 weeks                                                                        |
-| Location                           | Remote                                                                         |
-| Prepared by                        | ProDev                                                                         |
-| Attendaces(to planning meeting)    | Team of ProDev                                                                 |
-| **Sprint Goal & User Stories**         |
-| Sprint 1 Goal                      | Implementar la Landing Page de EcoMarket                                       |
-|Sprint Velocity                     | 8                                                                              |
-|Sum of Story Points                 | 8                                                                              |
+| Sprint #                        | Sprint 1                                 |
+| ------------------------------- | ---------------------------------------- |
+| **Sprint Planning Background**  |
+| Date                            | 2024 - Marzo Abril                       |
+| Time                            | 3 weeks                                  |
+| Location                        | Remote                                   |
+| Prepared by                     | ProDev                                   |
+| Attendaces(to planning meeting) | Team of ProDev                           |
+| **Sprint Goal & User Stories**  |
+| Sprint 1 Goal                   | Implementar la Landing Page de EcoMarket |
+| Sprint Velocity                 | 8                                        |
+| Sum of Story Points             | 8                                        |
 
 <div id="5.2.1.2"><h5>5.2.1.2. Sprint Backlog 1</h5></div>
 
-| Sprint # 1 |                | | |             |                   |             |                                         |
-|------------|----------------|-|-|-------------|-------------------|-------------|-----------------------------------------|
-| User Story | Work-Item Task |
-| Id         | Title | Id | Title | Description | Estimation(Hours) | Assigned To | Status(To-Do/In-Process/To-Review/Done) |
-| US11       | Crear estructura HTML | 1.1 | Crear archivo index.html | Crear el archivo index.html con la estructura básica de una página web | 2 | Frank       | Done |
-| US12       | Crear estructura CSS | 1.2 | Crear archivo style.css | Crear el archivo style.css con la estructura básica de estilos de la página web | 2 | Nicolas     | Done |
-| US13       | Crear estructura JavaScript | 1.3 | Crear archivo script.js | Crear el archivo script.js con la estructura básica de scripts de la página web | 2 | Frank       | Done |
-| US14       | Elaboración Header | 1.4 | Crear Header | Crear el header de la página web con el logo y menú de navegación | 2 | Fernando    | Done |
-| US15       | Elaboración Footer | 1.5 | Crear Footer | Crear el footer de la página web con información de contacto y enlaces rápidos | 2 | Anderson    | Done |
-| US15       | Elaboración Sección Principal | 1.6 | Crear Sección Principal | Crear la sección principal de la página web con información destacada y llamada a la acción | 2 | Frank       | Done |
+| Sprint # 1 |                               |     |                          |                                                                                             |                   |             |                                         |
+| ---------- | ----------------------------- | --- | ------------------------ | ------------------------------------------------------------------------------------------- | ----------------- | ----------- | --------------------------------------- |
+| User Story | Work-Item Task                |
+| Id         | Title                         | Id  | Title                    | Description                                                                                 | Estimation(Hours) | Assigned To | Status(To-Do/In-Process/To-Review/Done) |
+| US11       | Crear estructura HTML         | 1.1 | Crear archivo index.html | Crear el archivo index.html con la estructura básica de una página web                      | 2                 | Frank       | Done                                    |
+| US12       | Crear estructura CSS          | 1.2 | Crear archivo style.css  | Crear el archivo style.css con la estructura básica de estilos de la página web             | 2                 | Nicolas     | Done                                    |
+| US13       | Crear estructura JavaScript   | 1.3 | Crear archivo script.js  | Crear el archivo script.js con la estructura básica de scripts de la página web             | 2                 | Frank       | Done                                    |
+| US14       | Elaboración Header            | 1.4 | Crear Header             | Crear el header de la página web con el logo y menú de navegación                           | 2                 | Fernando    | Done                                    |
+| US15       | Elaboración Footer            | 1.5 | Crear Footer             | Crear el footer de la página web con información de contacto y enlaces rápidos              | 2                 | Anderson    | Done                                    |
+| US15       | Elaboración Sección Principal | 1.6 | Crear Sección Principal  | Crear la sección principal de la página web con información destacada y llamada a la acción | 2                 | Frank       | Done                                    |
+
 <div id="5.2.1.3"><h5>5.2.1.3. Development Evidence for Sprint Review.</h5></div> 
 En esta sección se presentan las evidencias de desarrollo de la Landing Page de EcoMarket, donde se detallan los commits realizados.
 
-| Repository  | Branch | Commit Id| Commit Message      | Commit Message Body | Commited on (Date) |
-|-------------|--------|----------|---------------------|---------------------|--------------------|
-| LandingPage | main | f102367…044e389 | feat:Initial commit | Create index.html   | 2024 - 04 -17      |
-| LandingPage | main | 044e389…4cefb7f | test:Initial commit | Create index.html   | 2024-04-17         |
-| LandingPage | main | e6a6b01…067a8d1 | test:Initial commit | Create css          | 2024-04-17         |
-| LandingPage | main | 4cefb7f…cbcff97 | test:Initial commit | Create js files     | 2024-04-17         |
-| LandingPage | main |  5f6e995…e905aae | test:Initial commit | Create landing      | 2024-04-17         |
-| LandingPage | main | a7838e2…39a4018 | test:Initial commit | Update index.html   | 2024-04-17         |
-
+| Repository  | Branch | Commit Id       | Commit Message      | Commit Message Body | Commited on (Date) |
+| ----------- | ------ | --------------- | ------------------- | ------------------- | ------------------ |
+| LandingPage | main   | f102367…044e389 | feat:Initial commit | Create index.html   | 2024 - 04 -17      |
+| LandingPage | main   | 044e389…4cefb7f | test:Initial commit | Create index.html   | 2024-04-17         |
+| LandingPage | main   | e6a6b01…067a8d1 | test:Initial commit | Create css          | 2024-04-17         |
+| LandingPage | main   | 4cefb7f…cbcff97 | test:Initial commit | Create js files     | 2024-04-17         |
+| LandingPage | main   | 5f6e995…e905aae | test:Initial commit | Create landing      | 2024-04-17         |
+| LandingPage | main   | a7838e2…39a4018 | test:Initial commit | Update index.html   | 2024-04-17         |
 
 <div id="5.2.1.4"><h5>5.2.1.4. Testing Suite Evidence for Sprint Review.</h5></div> 
 En esta sección se presentan las evidencias de las pruebas realizadas en la Landing Page de EcoMarket, donde se detallan los resultados obtenidos.
 
-Para nuestra TB1: Evidenciamos la lista de commits que realizamos aportando a nuestro informe. 
+Para nuestra TB1: Evidenciamos la lista de commits que realizamos aportando a nuestro informe.
 
 <img src="imagenes/commitsInforme.png">
 
@@ -1524,14 +1542,14 @@ Utilizamos el servicio de GitHub Pages para nuestro despliegue:
 
 <img src="imagenes/DespliegueLanding1.png">
 
-<div id="5.2.1.7"><h5>5.2.1.7. Software Deployment Evidence for Sprint Review. </h5></div> 
+<div id="5.2.1.7"><h5>5.2.1.7. Software Deployment Evidence for Sprint Review. </h5></div>
 
 Las evidencias para el desarrollo en este sprint son el despliegue de la Landing Page de EcoMarket en un entorno de producción.
 
 <img src="imagenes/DespliegueLanding2.png">
 
 <img src="imagenes/DespliegueLanding3.png">
-<div id="5.2.1.8"><h5>5.2.1.8. Team Collaboration Insights during Sprint.</h5></div> 
+<div id="5.2.1.8"><h5>5.2.1.8. Team Collaboration Insights during Sprint.</h5></div>
 
 Se adjuntan las evidencias de colaboración del equipo durante el Sprint #1 de EcoMarket por integrante.
 
@@ -1543,8 +1561,8 @@ Se adjuntan las evidencias de colaboración del equipo durante el Sprint #1 de E
 Nuestro Sprint #2 se basa en la primera versión de nuestro fronted-web application, donde se detallan las actividades realizadas y los resultados obtenidos en cada una de ellas.
 <div id="5.2.2.2"><h5>5.2.2.2. Sprint Planning 2</h5></div>
 
-| Sprint #                           | Sprint 2                                                                                                                                                                          | 
-|------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sprint #                           | Sprint 2                                                                                                                                                                          |
+| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Sprint Planning Background**     |
 | Date                               | 2024 - Abril Mayo                                                                                                                                                                 |
 | Time                               | 3 weeks                                                                                                                                                                           |
@@ -1560,31 +1578,29 @@ Nuestro Sprint #2 se basa en la primera versión de nuestro fronted-web applicat
 
 <div id="5.2.2.2"><h5>5.2.1.2. Sprint Backlog 2</h5></div>
 
-| Sprint # 2 |                                                        |     |                                                                                                                      |                   |             |                                         |                                         
-|------------|--------------------------------------------------------|-----|----------------------------------------------------------------------------------------------------------------------|-------------------|-------------|-----------------------------------------|
-| User Story | Work-Item Task                                         |
-| Id         | Title                                                  | Id  | Description                                                                                                          | Estimation(Hours) | Assigned To | Status(To-Do/In-Process/To-Review/Done) |
-| USAP01     | Registrarse en la aplicacion                           | 2.1 | Crear el componente que permita el registro de un nuevo usuario con los datos correspondientes                       | 4                 | Frank       | Done                                    |
-| USAP02     | Iniciar sesion en la aplicacion                        | 2.2 | Crear el componente que permita el inicio de sesion con credenciales ya registradas                                  | 4                 | Nicolas     | Done                                    |
-| USAP03     | Editar perfil Cliente                                  | 2.3 | Crear el componente que permita editar el perfil de un usuario de la aplicacion                                      | 4                 | Frank       | Done                                    |
-| USAP11     | Editar perfil  Vendedor - Compañía                     | 2.4 | Crear el componente que permita editar el perfil de una compañia de la aplicación accediento a datos de la compañia. | 4                 | Fernando    | Done                                    |
-| USAP04     | Catalogo de productos para clientes                    | 2.5 | Crear el componente que muestre un catalogo de productos que estan disponibles.                                      | 4                 | Anderson    | Done                                    |
-| USAP05     | Poner a la venta un producto                           | 2.6 | Crear el componente que le permita a la empresa o a un vendedor poner a la venta un producto cualquiera              | 4                 | Anderson    | Done                                    |
-| USAP07     | Poner un producto disponible para donacion             | 2.7 | Crear un componente que permita a una empresa o vendedor un producto disponible para la donacion                     | 5                 | Fernando    | Done                                    |
-| USAP10 | Visualizar donaciones                                  | 2.9 | Crear un componente que permita al vendedor visualizar las donaciones que ha realizado.                              | 6                 | Fernando    | Done |
+| Sprint # 2 |                                            |     |                                                                                                                      |                   |             |                                         |
+| ---------- | ------------------------------------------ | --- | -------------------------------------------------------------------------------------------------------------------- | ----------------- | ----------- | --------------------------------------- |
+| User Story | Work-Item Task                             |
+| Id         | Title                                      | Id  | Description                                                                                                          | Estimation(Hours) | Assigned To | Status(To-Do/In-Process/To-Review/Done) |
+| USAP01     | Registrarse en la aplicacion               | 2.1 | Crear el componente que permita el registro de un nuevo usuario con los datos correspondientes                       | 4                 | Frank       | Done                                    |
+| USAP02     | Iniciar sesion en la aplicacion            | 2.2 | Crear el componente que permita el inicio de sesion con credenciales ya registradas                                  | 4                 | Nicolas     | Done                                    |
+| USAP03     | Editar perfil Cliente                      | 2.3 | Crear el componente que permita editar el perfil de un usuario de la aplicacion                                      | 4                 | Frank       | Done                                    |
+| USAP11     | Editar perfil Vendedor - Compañía          | 2.4 | Crear el componente que permita editar el perfil de una compañia de la aplicación accediento a datos de la compañia. | 4                 | Fernando    | Done                                    |
+| USAP04     | Catalogo de productos para clientes        | 2.5 | Crear el componente que muestre un catalogo de productos que estan disponibles.                                      | 4                 | Anderson    | Done                                    |
+| USAP05     | Poner a la venta un producto               | 2.6 | Crear el componente que le permita a la empresa o a un vendedor poner a la venta un producto cualquiera              | 4                 | Anderson    | Done                                    |
+| USAP07     | Poner un producto disponible para donacion | 2.7 | Crear un componente que permita a una empresa o vendedor un producto disponible para la donacion                     | 5                 | Fernando    | Done                                    |
+| USAP10     | Visualizar donaciones                      | 2.9 | Crear un componente que permita al vendedor visualizar las donaciones que ha realizado.                              | 6                 | Fernando    | Done                                    |
 
 <div id="5.2.2.3"><h5>5.2.2.3. Development Evidence for Sprint Review.</h5></div> 
 En esta sección se presentan las evidencias de desarrollo del fronted de EcoMarket, donde se detallan los commits realizados.
 
-| Repository  | Branch                       | Commit Id| Commit Message                | Commit Message Body      | Commited on (Date) |
-|-------------|------------------------------|----------|-------------------------------|--------------------------|--------------------|
-| Fronted-EcoMarket | develop                      |71c11ce41c5f7aa363475d2dadce32715fe8ba24 | initial committ               | Create project           | 2024 - 04 -24      |
-| Fronted-EcoMarket | feature/donations-management | b3ba14fbdee296cff77d515c38202d07baa197e5| feat:add donations management | Create project           | 2024 - 04 -24      |
-| Fronted-EcoMarket | feature/profile-edit         |62031fe14fec032bdc01da536d13515e6f027212 | feat:add profile-edit         | Create feature and merge | 2024 - 04 -27      |
-| Fronted-EcoMarket | feature/log-in               |5216d0aa0642d2fa7aa462e373b1f0016de4cee5 | feat:add log-in component     | Create feature and merge        | 2024 - 04 -30      |
-| Fronted-EcoMarket | feature/sign-up              | 7b3b3 | feat:add sign-up component    | Create feature and merge | 2024 - 04 -30      |
-
-
+| Repository        | Branch                       | Commit Id                                | Commit Message                | Commit Message Body      | Commited on (Date) |
+| ----------------- | ---------------------------- | ---------------------------------------- | ----------------------------- | ------------------------ | ------------------ |
+| Fronted-EcoMarket | develop                      | 71c11ce41c5f7aa363475d2dadce32715fe8ba24 | initial committ               | Create project           | 2024 - 04 -24      |
+| Fronted-EcoMarket | feature/donations-management | b3ba14fbdee296cff77d515c38202d07baa197e5 | feat:add donations management | Create project           | 2024 - 04 -24      |
+| Fronted-EcoMarket | feature/profile-edit         | 62031fe14fec032bdc01da536d13515e6f027212 | feat:add profile-edit         | Create feature and merge | 2024 - 04 -27      |
+| Fronted-EcoMarket | feature/log-in               | 5216d0aa0642d2fa7aa462e373b1f0016de4cee5 | feat:add log-in component     | Create feature and merge | 2024 - 04 -30      |
+| Fronted-EcoMarket | feature/sign-up              | 7b3b3                                    | feat:add sign-up component    | Create feature and merge | 2024 - 04 -30      |
 
 <div id="5.2.2.4"><h5>5.2.2.4. Testing Suite Evidence for Sprint Review.</h5></div> 
 En esta sección se presentan las evidencias de las pruebas realizadas en la Landing Page de EcoMarket, donde se detallan los resultados obtenidos.
@@ -1609,10 +1625,9 @@ Las evidencias de este sprint son la documentación de los servicios utilizados 
 
 Utilizamos el servicio de GitHub Pages para nuestro despliegue:
 
-
 <img src="imagenes/DespliegueLanding1.png">
 
-<div id="5.2.2.7"><h5>5.2.2.7. Software Deployment Evidence for Sprint Review. </h5></div> 
+<div id="5.2.2.7"><h5>5.2.2.7. Software Deployment Evidence for Sprint Review. </h5></div>
 
 Enlace de la aplicacion: https://fronted-ecomarket.web.app/login
 
@@ -1631,14 +1646,13 @@ A continuacion se muestran las User Stories relacionadas con al aplicacion web
   <tr><th>USAP09</th> <th>Realizar pago de un producto</th> <th>Como usuario de la aplicacion EcoMarket, quiero poder colocar los datos de mi tarjeta de credito o debito para poder comprar un producto</th> </tr>
 </table>
 
-<div id="5.2.2.8"><h5>5.2.2.8. Team Collaboration Insights during Sprint.</h5></div> 
+<div id="5.2.2.8"><h5>5.2.2.8. Team Collaboration Insights during Sprint.</h5></div>
 
 Se adjuntan las evidencias de colaboración del equipo durante el Sprint #2 de EcoMarket por integrante.
 
 <img src="imagenes/5.8 c.jpeg">
 
 <img src="imagenes/5.8 b.jpeg">
-
 
 <div id='5.2.3.'><h4> 5.2.3. Sprint 3</h4></div>
 <div id='5.2.3.1.'><h5> 5.2.3.1. Sprint Planning 3</h5></div>
@@ -1661,40 +1675,38 @@ a nuestra |
 <div id='5.2.3.2.'><h5> 5.2.3.2.Sprint Backlog 3</h5></div>
 En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que es el backend del negocio, básicamente, implementar el CRUD de los cultivos a un nivel de API, además de esto el equipo se enfoco en finalizar lo que restaba de la frontend web application, con el fin de entregar un MVP (Minimum viable product).
 
-| Sprint # 3 |                                      |     |                                                                                                          |                   |             |                                         |                                         
-|------------|--------------------------------------|-----|----------------------------------------------------------------------------------------------------------|-------------------|-------------|-----------------------------------------|
+| Sprint # 3 |                                      |      |                                                                |                   |             |                                         |
+| ---------- | ------------------------------------ | ---- | -------------------------------------------------------------- | ----------------- | ----------- | --------------------------------------- |
 | User Story | Work-Item Task                       |
-| Id         | Title                                | Id  | Description                                                                                              | Estimation(Hours) | Assigned To | Status(To-Do/In-Process/To-Review/Done) |
-| TS01       | Implementacion de endpoint donations | 3.1 | Crear el endpoint para registrar donaciones                                                              | 4                 | Fernando       | To-Do                                   |
-|            |                                      | 3.2 | Implementar la lógica de negocio para gestionar las donaciones                                           | 5                 | Fernando       | To-Do                                   |
-|            |                                      | 3.3 | Crear pruebas unitarias para el endpoint de donaciones                                                   | 3                 | Fernando       | To-Do                                   |
-| TS02       | Implementacion de endpoint products  | 3.4 | Crear el endpoint para gestionar productos                                                               | 4                 | Fernando     | To-Do                                   |
-|            |                                      | 3.5 | Implementar la lógica de negocio para productos                                                          | 5                 | Fernando     | To-Do                                   |
-|            |                                      | 3.6 | Crear pruebas unitarias para el endpoint de productos                                                    | 3                 | Fernando     | To-Do                                   |
-| TS03       | Implementacion de endpoint purchase | 3.7 | Crear el endpoint para gestionar purchase                                                             | 4                 | Nicolas    | In Process                                  |
-|            |                                      | 3.8 | Implementar la lógica de negocio para purchase                                                        | 5                 | Nicolas    | To-Do                                   |
-|            |                                      | 3.9 | Crear pruebas unitarias para el endpoint de purchase                                                   | 3                 | Nicolas    | To-Do                                   |
-| TS04       | Implementacion de endpoint reviews   | 3.10| Crear el endpoint para gestionar reviews                                                                 | 4                 | Frank    | To-Do                                   |
-|            |                                      | 3.11| Implementar la lógica de negocio para reviews                                                            | 5                 | Frank    | To-Do                                   |
-|            |                                      | 3.12| Crear pruebas unitarias para el endpoint de reviews                                                      | 3                 | Frank    | To-Do                                   |
-| TS05       | Implementacion de endpoint payments  | 3.13| Crear el endpoint                                                     | 4                 | Anderson    | In-Process                                   |
-|            |                                      | 3.14| Implementar la lógica de negocio para payments                                                | 5                 | Anderson    | To-Do                                   |
-|            |                                      | 3.15| Crear pruebas unitarias para el endpoint de payments                                         | 3                 | Anderson    | To-Do                                   |
-
+| Id         | Title                                | Id   | Description                                                    | Estimation(Hours) | Assigned To | Status(To-Do/In-Process/To-Review/Done) |
+| TS01       | Implementacion de endpoint donations | 3.1  | Crear el endpoint para registrar donaciones                    | 4                 | Fernando    | To-Do                                   |
+|            |                                      | 3.2  | Implementar la lógica de negocio para gestionar las donaciones | 5                 | Fernando    | To-Do                                   |
+|            |                                      | 3.3  | Crear pruebas unitarias para el endpoint de donaciones         | 3                 | Fernando    | To-Do                                   |
+| TS02       | Implementacion de endpoint products  | 3.4  | Crear el endpoint para gestionar productos                     | 4                 | Fernando    | To-Do                                   |
+|            |                                      | 3.5  | Implementar la lógica de negocio para productos                | 5                 | Fernando    | To-Do                                   |
+|            |                                      | 3.6  | Crear pruebas unitarias para el endpoint de productos          | 3                 | Fernando    | To-Do                                   |
+| TS03       | Implementacion de endpoint purchase  | 3.7  | Crear el endpoint para gestionar purchase                      | 4                 | Nicolas     | In Process                              |
+|            |                                      | 3.8  | Implementar la lógica de negocio para purchase                 | 5                 | Nicolas     | To-Do                                   |
+|            |                                      | 3.9  | Crear pruebas unitarias para el endpoint de purchase           | 3                 | Nicolas     | To-Do                                   |
+| TS04       | Implementacion de endpoint reviews   | 3.10 | Crear el endpoint para gestionar reviews                       | 4                 | Frank       | To-Do                                   |
+|            |                                      | 3.11 | Implementar la lógica de negocio para reviews                  | 5                 | Frank       | To-Do                                   |
+|            |                                      | 3.12 | Crear pruebas unitarias para el endpoint de reviews            | 3                 | Frank       | To-Do                                   |
+| TS05       | Implementacion de endpoint payments  | 3.13 | Crear el endpoint                                              | 4                 | Anderson    | In-Process                              |
+|            |                                      | 3.14 | Implementar la lógica de negocio para payments                 | 5                 | Anderson    | To-Do                                   |
+|            |                                      | 3.15 | Crear pruebas unitarias para el endpoint de payments           | 3                 | Anderson    | To-Do                                   |
 
 <div id='5.2.3.3.'><h5> 5.2.3.3. Development Evidence for Sprint Review</h5>
  A continuación se presentan las evidencias de desarrollo de los web-services de EcoMarket, donde se detallan los commits realizados.
-
 
 Imagen: Foto de commits
 
 <img src="imagenes/sprint3/commit1.png">
 <img src="imagenes/sprint3/commit2.png">
+<img src="imagenes/sprint3/commit3.png">
 
+<img src="imagenes/sprint3/commit4.png">
 
 </div>
-
-
 
 <div id='5.2.3.4.'><h5>5.2.3.4. Testing Suite Evidence for Sprint Review.</h5>
 A continuación se muestran las pruebas del funcionamiento de nuestro API en Postman.
@@ -1702,13 +1714,21 @@ A continuación se muestran las pruebas del funcionamiento de nuestro API en Pos
 <img src="imagenes/sprint3/postman1.png">
 <img src="imagenes/sprint3/postman2.png">
 
+
+
 </div>
 
 <div id='5.2.3.5.'><h5>5.2.3.5. Execution Evidence for Sprint Review.</h5></div>
 
-En esta sección se muestra el despliegue de nuestra aplicacion web.
+En esta sección se muestra el despliegue de nuestra aplicacion web en el servicio de Railway. Dónde pudimos implementar el servicio de base de datos para el almacenamiento de los datos de nuestra aplicacion web y el restufl Web API.
 
 <img src="imagenes/sprint3/deploy1.png">
+
+<img src="imagenes/sprint3/deploy2.png">
+
+<img src="imagenes/sprint3/deploy3.png">
+
+<img src="imagenes/sprint3/deploy4.png">
 
 <div id='5.2.3.6.'><h5>5.2.3.6. Services Documentation Evidence for Sprint Review.</h5></div>
 
@@ -1731,7 +1751,7 @@ Se adjuntan las evidencias de colaboración del equipo durante el Sprint #3 de E
 <img src="imagenes/sprint3/colaboracion1.png">
 
 <div id='5.3.'><h5>5.3. Validation Interviews.</h5></div>
-En esta sección presentamos las entrevistas de validación. 
+En esta sección presentamos las entrevistas de validación.
 
 <div id='5.3.1.'><h5>5.3.1. Diseño de Entrevistas.</h5></div>
 
@@ -1741,18 +1761,17 @@ Entrevista 1:
 
 <img src="imagenes/sprint3/entrevista1.png">
 
-
 La entrevistada señala que el Landing Page es muy llamativo y la presentación de los servicios esta bien distribuida. En el apartado del FrontEnd de la aplicacion, en este caso la entrevistada opina que le parece bien la sección de lista de productos que tiene publicado, y esperaría que se puedan publicar los productos que la empresa puede ofrecer. Tambien opina que el apartado de donativos es un buen valor agregado, es practico pero se debería implementar todas las mejoras correspondientes.
+
 </div>
 
-
-<div id='5.3.3.'><h5>5.3.3. Evaluaciones según heurísticas.</h5></div> 
+<div id='5.3.3.'><h5>5.3.3. Evaluaciones según heurísticas.</h5></div>
 
 <div id='5.4.'><h5>5.4. Video About-the-Team.</h5>
-<img src="imagenes/sprint3/aboutteam.jpg>
+
+<img src="imagenes/sprint3/aboutteam.jpg">
+
 </div>
-
-
 
 <div id='Conclusiones'><h2>Conclusiones</h2></div>
 
@@ -1761,33 +1780,27 @@ La entrevistada señala que el Landing Page es muy llamativo y la presentación 
 - En la entrega de la TB1: Tenemos como conclusión que el desarrollo de nuestra landing page para podoer mostrar nuestro producto EcoMarket fue un éxito, ya que pudimos implementarla de manera eficiente y con un diseño atractivo para los usuarios.
 - De la mis manera, la obtención de los requisitos por parte de nuestros usuarios nos permitió elaborar el diseño de nuestro producto y así poder implementarlo de manera eficiente.
 - Recomendaciones: Tenemos cómo recomendación que tenemos que seguir trabajando en equipo y seguir con la misma metodología de trabajo para poder seguir avanzando en nuestro proyecto. Puesto que, elaboraremos
-nuestro Fronted Web Application en Angular y nuestro Backend en Java.
+  nuestro Fronted Web Application en Angular y nuestro Backend en Java.
 - Nuestra conclusión en este sprint es que pudimos implementar la primera versión de nuestro Fronted Web Application, donde pudimos implementar las funcionalidades básicas de la aplicación y realizar las pruebas correspondientes.
 
-  
 <div id='Bibliografia'><h2>Bibliografía</h2></div>
 
-Romero, D. (2023, 17 abril). Rebajas: estadísticas ecommerce, marketing y comportamiento. SaleCycle. 
+Romero, D. (2023, 17 abril). Rebajas: estadísticas ecommerce, marketing y comportamiento. SaleCycle.
 https://www.salecycle.com/es/blog/estadisticas/rebajas-estadisticas-marketing/
 
 Conventional commits. (s. f.). Conventional Commits. https://www.conventionalcommits.org/en/v1.0.0/
 
-Fowler, M. (s. f.). bliki: Domain Driven Design. martinfowler.com. https://martinfowler.com/bliki/DomainDrivenDesign.html 
-
+Fowler, M. (s. f.). bliki: Domain Driven Design. martinfowler.com. https://martinfowler.com/bliki/DomainDrivenDesign.html
 
 <div id='Anexos'><h2>Anexos</h2>
 
 - Organización de GitHub: https://github.com/upc-pre-202401-si729-ws52-ProDev
 - Artefacto User Persona: https://uxpressia.com/w/ezex3/p/WoZAm https://uxpressia.com/w/ezex3/p/uLv62
 - Enlace Landing Page: https://upc-pre-202401-si729-ws52-prodev.github.io/LandingPage/
-- Enlace Informe: https://github.com/upc-pre-202401-si729-ws52-ProDev/FinalProject 
+- Enlace Informe: https://github.com/upc-pre-202401-si729-ws52-ProDev/FinalProject
 - Enlace Diseño Figma: https://www.figma.com/file/2WKh7U7c7ffAzRhlY3ni09/Landing-Page?type=design&node-id=0%3A1&mode=design&t=ZxPaRkbQ0Ds3Fsfk-1
-- Enlace Video:     https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221c628_upc_edu_pe/EcQ62Ws3OsFKke8cbTEPzwwBPv1e6kVuGJP_yCgbuYi20A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=DAb8gb 
+- Enlace Video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221c628_upc_edu_pe/EcQ62Ws3OsFKke8cbTEPzwwBPv1e6kVuGJP_yCgbuYi20A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=DAb8gb
 - Enlace: Aplicacion Web: https://fronted-ecomarket.web.app/login
 </div>
 </div>
 </div>
-
-
-
-
