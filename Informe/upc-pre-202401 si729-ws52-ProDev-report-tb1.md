@@ -1780,16 +1780,16 @@ En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que e
 |            |                                      | 3.3  | Crear el endpoint para registrar donaciones por un ID de una compañia         | 3                 | Anderson    | Done                                   |
 | TS02       | Implementacion de endpoint products  | 3.4  | Crear el endpoint para postear productos por un ID                     | 4                 | Nicolas    | To-Do                                   |
 |            |                                      | 3.5  | Implementar la lógica para productos                | 5                 | Nicolas    | To-Do                                   |
-|            |                                      | 3.6  | Crear endpoint para gestionar la ontencion de productos          | 3                 | Nicolas    | To-Do                                   |
+|            |                                      | 3.6  | Crear endpoint para gestionar la obtencion de productos          | 3                 | Nicolas    | To-Do                                   |
 | TS03       | Implementacion de endpoint purchase  | 3.7  | Crear el endpoint para gestionar purchase                      | 4                 | Nicolas     | In Process                              |
 |            |                                      | 3.8  | Implementar la lógica de negocio para purchase                 | 5                 | Nicolas     | To-Do                                   |
 |            |                                      | 3.9  | Crear pruebas unitarias para el endpoint de purchase           | 3                 | Nicolas     | To-Do                                   |
 | TS04       | Implementacion de endpoint reviews   | 3.10 | Crear el endpoint para gestionar reviews                       | 4                 | Frank       | To-Do                                   |
-|            |                                      | 3.11 | Implementar la lógica de negocio para reviews                  | 5                 | Frank       | To-Do                                   |
-|            |                                      | 3.12 | Crear pruebas unitarias para el endpoint de reviews            | 3                 | Frank       | To-Do                                   |
-| TS05       | Implementacion de IAM  | 3.13 | Crear el token                                              | 4                 | Fernando    | In-Process                              |
-|            |                                      | 3.14 | Implementar la seguirdad                 | 5                 | Fernando    | To-Do                                   |
-|            |                                      | 3.15 | Crear pruebas unitarias para el endpoint de payments           | 3                 | Fernando    | Done                                   |
+|            |                                      | 3.11 | Implementar la logica para reviews                  | 5                 | Frank       | To-Do                                   |
+|            |                                      | 3.12 | Crear post de review por ID en Backend            | 3                 | Frank       | In-Process                                   |
+| TS05       | Implementacion de IAM  | 3.13 | Crear el token                                              | 4                 | Fernando    | Done                              |
+|            |                                      | 3.14 | Implementacion del sistema                | 5                 | Fernando    | Done                                   |
+|            |                                      | 3.15 | Gestion de autenticacion de usuario           | 3                 | Fernando    | Done                                   |
 
 <div id='5.2.4.3.'><h5> 5.2.4.3. Development Evidence for Sprint Review</h5>
  A continuación se presentan las evidencias de desarrollo de los web-services de EcoMarket, donde se detallan los commits realizados.
