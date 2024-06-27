@@ -1751,8 +1751,8 @@ Se adjuntan las evidencias de colaboración del equipo durante el Sprint #3 de E
 <img src="imagenes/sprint3/colaboracion1.png">
 
 <div id='5.2.4.'><h4> 5.2.4. Sprint 4</h4></div>
-<div id='5.2.4.1.'><h5> 5.2.4.1. Sprint Planning 3</h5></div>
-| Sprint #                           | Sprint 3                                                                                           |
+<div id='5.2.4.1.'><h5> 5.2.4.1. Sprint Planning 4</h5></div>
+| Sprint #                           | Sprint 4                                                                                           |
 |------------------------------------|----------------------------------------------------------------------------------------------------|
 | **Sprint Planning Background**     |                                                                                                    |
 | Date                               | 2024 - Mayo - Junio                                                                                |
@@ -1763,12 +1763,12 @@ Se adjuntan las evidencias de colaboración del equipo durante el Sprint #3 de E
 | Sprint n – 1 Review Summary        | En la anterior sprint, nos centramos en el desarrollo de nuestro frontend web application.         |
 | Sprint n – 1 Retrospective Summary | Al hacer nuestra retrospectiva, identificamos oportunidades de mejora como mejorar las interfaces de nuestra landing page. |
 | **Sprint Goal & User Stories**     |                                                                                                    |
-| Sprint 3 Goal                      | Implementar la primera versión de los web-services (endpoints) para el uso de nuestro frontend web application. |
+| Sprint 4 Goal                      | Implementar la primera versión de los web-services (endpoints) para el uso de nuestro frontend web application. |
 | Sprint Velocity                    | 13                                                                                                 |
 | Sum of Story Points                | 5                                                                                                  |
 
 
-<div id='5.2.4.2.'><h5> 5.2.4.2.Sprint Backlog 3</h5></div>
+<div id='5.2.4.2.'><h5> 5.2.4.2.Sprint Backlog 4</h5></div>
 En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que es el backend del negocio, básicamente, implementar el CRUD de los cultivos a un nivel de API, además de esto el equipo se enfoco en finalizar lo que restaba de la frontend web application, con el fin de entregar un MVP (Minimum viable product).
 
 | Sprint # 4 |                                      |      |                                                                |                   |             |                                         |
