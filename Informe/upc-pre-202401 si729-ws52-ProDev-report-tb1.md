@@ -1771,25 +1771,25 @@ Se adjuntan las evidencias de colaboración del equipo durante el Sprint #3 de E
 <div id='5.2.4.2.'><h5> 5.2.4.2.Sprint Backlog 3</h5></div>
 En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que es el backend del negocio, básicamente, implementar el CRUD de los cultivos a un nivel de API, además de esto el equipo se enfoco en finalizar lo que restaba de la frontend web application, con el fin de entregar un MVP (Minimum viable product).
 
-| Sprint # 3 |                                      |      |                                                                |                   |             |                                         |
+| Sprint # 4 |                                      |      |                                                                |                   |             |                                         |
 | ---------- | ------------------------------------ | ---- | -------------------------------------------------------------- | ----------------- | ----------- | --------------------------------------- |
 | User Story | Work-Item Task                       |
 | Id         | Title                                | Id   | Description                                                    | Estimation(Hours) | Assigned To | Status(To-Do/In-Process/To-Review/Done) |
-| TS01       | Implementacion de endpoint donations | 3.1  | Crear el endpoint para registrar donaciones                    | 4                 | Fernando    | To-Do                                   |
-|            |                                      | 3.2  | Implementar la lógica de negocio para gestionar las donaciones | 5                 | Fernando    | To-Do                                   |
-|            |                                      | 3.3  | Crear pruebas unitarias para el endpoint de donaciones         | 3                 | Fernando    | To-Do                                   |
-| TS02       | Implementacion de endpoint products  | 3.4  | Crear el endpoint para gestionar productos                     | 4                 | Fernando    | To-Do                                   |
-|            |                                      | 3.5  | Implementar la lógica de negocio para productos                | 5                 | Fernando    | To-Do                                   |
-|            |                                      | 3.6  | Crear pruebas unitarias para el endpoint de productos          | 3                 | Fernando    | To-Do                                   |
+| TS01       | Implementacion de endpoint donations | 3.1  | Crear el endpoint para obtener donaciones por ID de una compañia                     | 4                 | Anderson    | In-Process                                   |
+|            |                                      | 3.2  | Implementar la lógica para gestionar las donaciones | 5                 | Anderson    | To-Do                                   |
+|            |                                      | 3.3  | Crear el endpoint para registrar donaciones por un ID de una compañia         | 3                 | Anderson    | Done                                   |
+| TS02       | Implementacion de endpoint products  | 3.4  | Crear el endpoint para postear productos por un ID                     | 4                 | Nicolas    | To-Do                                   |
+|            |                                      | 3.5  | Implementar la lógica para productos                | 5                 | Nicolas    | To-Do                                   |
+|            |                                      | 3.6  | Crear endpoint para gestionar la ontencion de productos          | 3                 | Nicolas    | To-Do                                   |
 | TS03       | Implementacion de endpoint purchase  | 3.7  | Crear el endpoint para gestionar purchase                      | 4                 | Nicolas     | In Process                              |
 |            |                                      | 3.8  | Implementar la lógica de negocio para purchase                 | 5                 | Nicolas     | To-Do                                   |
 |            |                                      | 3.9  | Crear pruebas unitarias para el endpoint de purchase           | 3                 | Nicolas     | To-Do                                   |
 | TS04       | Implementacion de endpoint reviews   | 3.10 | Crear el endpoint para gestionar reviews                       | 4                 | Frank       | To-Do                                   |
 |            |                                      | 3.11 | Implementar la lógica de negocio para reviews                  | 5                 | Frank       | To-Do                                   |
 |            |                                      | 3.12 | Crear pruebas unitarias para el endpoint de reviews            | 3                 | Frank       | To-Do                                   |
-| TS05       | Implementacion de endpoint payments  | 3.13 | Crear el endpoint                                              | 4                 | Anderson    | In-Process                              |
-|            |                                      | 3.14 | Implementar la lógica de negocio para payments                 | 5                 | Anderson    | To-Do                                   |
-|            |                                      | 3.15 | Crear pruebas unitarias para el endpoint de payments           | 3                 | Anderson    | To-Do                                   |
+| TS05       | Implementacion de IAM  | 3.13 | Crear el token                                              | 4                 | Fernando    | In-Process                              |
+|            |                                      | 3.14 | Implementar la seguirdad                 | 5                 | Fernando    | To-Do                                   |
+|            |                                      | 3.15 | Crear pruebas unitarias para el endpoint de payments           | 3                 | Fernando    | Done                                   |
 
 <div id='5.2.4.3.'><h5> 5.2.4.3. Development Evidence for Sprint Review</h5>
  A continuación se presentan las evidencias de desarrollo de los web-services de EcoMarket, donde se detallan los commits realizados.
