@@ -1750,6 +1750,102 @@ Se adjuntan las evidencias de colaboración del equipo durante el Sprint #3 de E
 
 <img src="imagenes/sprint3/colaboracion1.png">
 
+<div id='5.2.4.'><h4> 5.2.4. Sprint 3</h4></div>
+<div id='5.2.4.1.'><h5> 5.2.4.1. Sprint Planning 3</h5></div>
+| Sprint #                           | Sprint 3                                                                                                                                                                          | 
+|------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background**     |
+| Date                               | 2024 - Mayo Junio Mayo                                                                                                                                                                 |
+| Time                               | 3 weeks                                                                                                                                                                           |
+| Location                           | Remote                                                                                                                                                                            |
+| Prepared by                        | ProDev                                                                                                                                                                            |
+| Attendaces(to planning meeting)    | Team of ProDev                                                                                                                                                                    |
+| Sprint n – 1 Review Summary        | En la anterior sprint, nos centramos en el desarrollo de nuestro fronted  web application.                                                                                                 |
+| Sprint n – 1 Retrospective Summary | Al hacer nuestra retrospectiva nos detallamos nuestras oportunidades a mejorar como mejorar las interfaces de nuestra landing page para asemejarse
+a nuestra |
+| **Sprint Goal & User Stories**     |
+| Sprint 3 Goal                      | Implementar la primera versión de los web-services (endpoints) para el uso de nuestro fronted web application.          |
+| Sprint Velocity                    | 13                                                                                                                                                                                 |
+| Sum of Story Points                | 5                                                                                                                                                                                 |
+
+<div id='5.2.4.2.'><h5> 5.2.4.2.Sprint Backlog 3</h5></div>
+En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que es el backend del negocio, básicamente, implementar el CRUD de los cultivos a un nivel de API, además de esto el equipo se enfoco en finalizar lo que restaba de la frontend web application, con el fin de entregar un MVP (Minimum viable product).
+
+| Sprint # 3 |                                      |      |                                                                |                   |             |                                         |
+| ---------- | ------------------------------------ | ---- | -------------------------------------------------------------- | ----------------- | ----------- | --------------------------------------- |
+| User Story | Work-Item Task                       |
+| Id         | Title                                | Id   | Description                                                    | Estimation(Hours) | Assigned To | Status(To-Do/In-Process/To-Review/Done) |
+| TS01       | Implementacion de endpoint donations | 3.1  | Crear el endpoint para registrar donaciones                    | 4                 | Fernando    | To-Do                                   |
+|            |                                      | 3.2  | Implementar la lógica de negocio para gestionar las donaciones | 5                 | Fernando    | To-Do                                   |
+|            |                                      | 3.3  | Crear pruebas unitarias para el endpoint de donaciones         | 3                 | Fernando    | To-Do                                   |
+| TS02       | Implementacion de endpoint products  | 3.4  | Crear el endpoint para gestionar productos                     | 4                 | Fernando    | To-Do                                   |
+|            |                                      | 3.5  | Implementar la lógica de negocio para productos                | 5                 | Fernando    | To-Do                                   |
+|            |                                      | 3.6  | Crear pruebas unitarias para el endpoint de productos          | 3                 | Fernando    | To-Do                                   |
+| TS03       | Implementacion de endpoint purchase  | 3.7  | Crear el endpoint para gestionar purchase                      | 4                 | Nicolas     | In Process                              |
+|            |                                      | 3.8  | Implementar la lógica de negocio para purchase                 | 5                 | Nicolas     | To-Do                                   |
+|            |                                      | 3.9  | Crear pruebas unitarias para el endpoint de purchase           | 3                 | Nicolas     | To-Do                                   |
+| TS04       | Implementacion de endpoint reviews   | 3.10 | Crear el endpoint para gestionar reviews                       | 4                 | Frank       | To-Do                                   |
+|            |                                      | 3.11 | Implementar la lógica de negocio para reviews                  | 5                 | Frank       | To-Do                                   |
+|            |                                      | 3.12 | Crear pruebas unitarias para el endpoint de reviews            | 3                 | Frank       | To-Do                                   |
+| TS05       | Implementacion de endpoint payments  | 3.13 | Crear el endpoint                                              | 4                 | Anderson    | In-Process                              |
+|            |                                      | 3.14 | Implementar la lógica de negocio para payments                 | 5                 | Anderson    | To-Do                                   |
+|            |                                      | 3.15 | Crear pruebas unitarias para el endpoint de payments           | 3                 | Anderson    | To-Do                                   |
+
+<div id='5.2.4.3.'><h5> 5.2.4.3. Development Evidence for Sprint Review</h5>
+ A continuación se presentan las evidencias de desarrollo de los web-services de EcoMarket, donde se detallan los commits realizados.
+
+Imagen: Foto de commits
+
+<img src="imagenes/sprint3/commit1.png">
+<img src="imagenes/sprint3/commit2.png">
+<img src="imagenes/sprint3/commit3.png">
+
+<img src="imagenes/sprint3/commit4.png">
+
+</div>
+
+<div id='5.2.4.4.'><h5>5.2.4.4. Testing Suite Evidence for Sprint Review.</h5>
+A continuación se muestran las pruebas del funcionamiento de nuestro API en Postman.
+
+<img src="imagenes/sprint3/postman1.png">
+<img src="imagenes/sprint3/postman2.png">
+
+
+
+</div>
+
+<div id='5.2.4.5.'><h5>5.2.4.5. Execution Evidence for Sprint Review.</h5></div>
+
+En esta sección se muestra el despliegue de nuestra aplicacion web en el servicio de Railway. Dónde pudimos implementar el servicio de base de datos para el almacenamiento de los datos de nuestra aplicacion web y el restufl Web API.
+
+<img src="imagenes/sprint3/deploy1.png">
+
+<img src="imagenes/sprint3/deploy2.png">
+
+<img src="imagenes/sprint3/deploy3.png">
+
+<img src="imagenes/sprint3/deploy4.png">
+
+<div id='5.2.4.6.'><h5>5.2.4.6. Services Documentation Evidence for Sprint Review.</h5></div>
+
+En esta sección se presentan las evidencias de la documentación de los servicios utilizados en la implementación de los web-services de EcoMarket.
+
+Utilizamos una base de datos desplegada en railway para el almacenamiento de los datos de nuestra aplicacion web.
+
+<img src="imagenes/sprint3/deploydb1.png">
+
+<div id='5.2.4.7.'><h5>5.2.4.7. Software Deployment Evidence for Sprint Review.</h5></div>
+
+En esta sección se presentan las evidencias del despliegue de los web-services de EcoMarket en un entorno de producción.
+
+<img src="imagenes/sprint3/deploydb2.png">
+
+<div id='5.2.4.8.'><h5>5.2.4.8. Team Collaboration Insights during Sprint.</h5></div>
+
+Se adjuntan las evidencias de colaboración del equipo durante el Sprint #3 de EcoMarket por integrante.
+
+<img src="imagenes/sprint3/colaboracion1.png">
+
 <div id='5.3.'><h5>5.3. Validation Interviews.</h5></div>
 En esta sección presentamos las entrevistas de validación.
 
